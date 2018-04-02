@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "9054D789-9DC4-45C5-BF7B-146D0119F0F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 678,
+    "width": 1100,
+    "x": 20,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DCAA260F-7C5E-45B5-B700-F00F942E48C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C0A6006-4DFB-49F5-B4F1-4D9C2EC90EEF"
+    },
+    {
+      "class": "group",
+      "id": "9DC0141B-6B4C-4BA1-BBBB-1D5704B17CC7"
+    },
+    {
+      "class": "group",
+      "id": "34E49C30-37D7-44DD-93C3-5B1D1F091640"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98202872-9A0C-4A51-8EF9-BC5FEDAF940D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70A54C50-EEAB-498E-8767-61232C03E8AF"
+    },
+    {
+      "class": "text",
+      "id": "085600BD-BF7E-461D-B72D-095A38774007"
+    }
+  ],
+  "name": "Stepper - Step 3 Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "0C7D77CE-093F-40C7-BD8E-0A26AACE9F3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2205,
+    "width": 1205,
+    "x": 2167,
+    "y": 1842
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "27670652-C56C-49C1-99BB-76219235D4A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1463C355-668F-431D-A402-1B72D87CCE97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B49E234-9ECA-468B-807C-7625C5CE579F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "844EEF99-11B2-41A6-BD36-92EA84255E1D"
+    },
+    {
+      "class": "group",
+      "id": "864E9DF1-3966-4E46-942D-0441E96183B5"
+    },
+    {
+      "class": "group",
+      "id": "7633C0A9-BADC-42AC-BECC-00DDE745CF67"
+    },
+    {
+      "class": "text",
+      "id": "5ED5B6DB-59B8-4359-AD9B-458427CC2BB8"
+    },
+    {
+      "class": "group",
+      "id": "808316F7-FD2B-4862-95B4-73DE501D6479"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E842747-A7CB-4CFA-81D4-71EBA474A90C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79A94430-21F8-4734-B2AC-579166E537A5"
+    },
+    {
+      "class": "group",
+      "id": "A479649A-BF1E-4E7E-B05A-D5A91E30FF65"
+    }
+  ],
+  "name": "Application - Beneficiaries - Add - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

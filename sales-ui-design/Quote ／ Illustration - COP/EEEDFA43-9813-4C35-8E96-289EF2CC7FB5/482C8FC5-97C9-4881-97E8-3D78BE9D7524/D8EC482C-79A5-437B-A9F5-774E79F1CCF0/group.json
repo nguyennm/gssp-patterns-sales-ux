@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "D8EC482C-79A5-437B-A9F5-774E79F1CCF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 845,
+    "width": 1109,
+    "x": 20,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98B5390D-A991-4E45-8601-6ABFA3DBD7EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E993948-73C2-4925-958B-BFCC4D5EF681"
+    },
+    {
+      "class": "group",
+      "id": "F272586E-2CC6-4D46-8D23-9FC29F788837"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46998B90-BE37-4858-84CF-31D48958F413"
+    },
+    {
+      "class": "group",
+      "id": "B25D3208-3E3C-4258-874E-252C2A93237A"
+    },
+    {
+      "class": "group",
+      "id": "B125406D-54C4-4031-8800-23443CF54C1E"
+    },
+    {
+      "class": "group",
+      "id": "4D7627AF-3C8D-465F-94E8-600E0E6BE4FF"
+    },
+    {
+      "class": "text",
+      "id": "3B53B1A0-5686-47C4-B9A8-3EF73B14AADD"
+    },
+    {
+      "class": "text",
+      "id": "61051C9D-E8A6-4CCF-B9DF-47F03CC5E808"
+    },
+    {
+      "class": "group",
+      "id": "3FFB5AF7-E7A7-445E-B39D-9EED96F08A25"
+    },
+    {
+      "class": "group",
+      "id": "8C3A5653-A2CA-4DD4-B5D1-582B3B9BCF64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "335915F7-272B-4FCA-AD8E-2151BE46D044"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "124C30C5-E22C-4A4C-B32D-B0F1184100AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EA6941E-DADD-4E4B-8DA4-A9662235BF2F"
+    },
+    {
+      "class": "group",
+      "id": "3372CB62-0596-4486-80BC-2B6BC78E10AD"
+    }
+  ],
+  "name": "Stepper - Step 2 Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

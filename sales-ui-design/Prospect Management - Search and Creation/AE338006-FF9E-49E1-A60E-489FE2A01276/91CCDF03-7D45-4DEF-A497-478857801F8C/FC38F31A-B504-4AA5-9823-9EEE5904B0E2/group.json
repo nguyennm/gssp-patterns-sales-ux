@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "FC38F31A-B504-4AA5-9823-9EEE5904B0E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 15,
+    "width": 24,
+    "x": 715,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3962FA2-2591-4267-9A17-FD0693B416D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F271F86-5CE8-4AD8-BC2F-83B99E5A0F3A"
+    }
+  ],
+  "name": "Switcher Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

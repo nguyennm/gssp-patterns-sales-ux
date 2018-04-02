@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "FD8C5716-6557-4BA5-83A7-092619A2C6E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 1044,
+    "x": 0.9952874646560304,
+    "y": 274
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DC7B8285-5E2E-4ED1-A3E9-45F2DA222B9C"
+    },
+    {
+      "class": "text",
+      "id": "8B3A0468-31CF-4EFB-8B9F-22EAEFB80769"
+    },
+    {
+      "class": "text",
+      "id": "EA673741-BCF2-4BCA-B1BB-1DEFA6528EDB"
+    }
+  ],
+  "name": "Blue row Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

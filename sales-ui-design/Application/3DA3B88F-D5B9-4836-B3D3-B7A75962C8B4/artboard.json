@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "3DA3B88F-D5B9-4836-B3D3-B7A75962C8B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2205,
+    "width": 1205,
+    "x": -416,
+    "y": 6378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0C8E5A80-AAC2-402C-8ED4-F2BA829C7BBD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3AC81D9-9BCE-4EE2-AA7C-D3FEEA8EC38F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EC771B1-15EF-490B-9443-EE48C1EEB9FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F77FAC5-0737-4129-8112-B5D65C7E509A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1B6B036-9872-4504-98E3-B17ABCFD1374"
+    },
+    {
+      "class": "group",
+      "id": "B65F199D-8F5F-4F4D-AF5A-10B17890B1B4"
+    },
+    {
+      "class": "group",
+      "id": "34F38134-C1F0-4DB3-AAD9-53C2ACD8FEB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4ED77A2F-0FAC-462F-9146-8D02D03DBA79"
+    },
+    {
+      "class": "group",
+      "id": "805AE186-FC79-4734-9DD6-7B0E8E873919"
+    },
+    {
+      "class": "group",
+      "id": "9141C3B7-724F-423F-86BC-8F9EE7C08C3C"
+    },
+    {
+      "class": "text",
+      "id": "CFE27F70-1BC6-4E57-B1B6-F06984115D28"
+    },
+    {
+      "class": "group",
+      "id": "A5E62614-5103-45F0-A95D-01685721F65B"
+    }
+  ],
+  "name": "Application - Cancellation - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

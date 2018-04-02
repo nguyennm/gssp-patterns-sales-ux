@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "34B25EE4-9656-43D7-AA27-8FF0E6EF52D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 833,
+    "width": 1109,
+    "x": 20,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "24DEE459-7657-4EB5-966F-9E689AE385D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "947EB473-0233-4794-9AFC-A25CAECB4F22"
+    },
+    {
+      "class": "group",
+      "id": "4B5A662C-3EA0-4A76-A15E-21626FA405AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55A4F996-817F-45B3-9E3D-018D8752753B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86CB0028-D398-4A61-8BE1-74FAECF56BBE"
+    },
+    {
+      "class": "text",
+      "id": "0FE60489-29E3-487C-81C9-A2DB0AD493E1"
+    },
+    {
+      "class": "text",
+      "id": "EABA82B6-C8B5-492E-B9B8-662AF6960B37"
+    },
+    {
+      "class": "text",
+      "id": "2920E9CB-11FC-472B-835B-7A43621E3878"
+    },
+    {
+      "class": "group",
+      "id": "26A8F25E-AB79-4FF0-A176-01F127B9DDCD"
+    },
+    {
+      "class": "group",
+      "id": "F1CF9436-23DC-44D6-89F5-3E3A9E5A7D8D"
+    },
+    {
+      "class": "text",
+      "id": "072ABFE1-45D0-4D0A-866A-9431C9E98EA9"
+    },
+    {
+      "class": "text",
+      "id": "92C0BB37-9E6A-40A3-9EBA-7BD85A0800E6"
+    },
+    {
+      "class": "group",
+      "id": "0B5DFE09-BEC4-48BB-B19B-37B462C472C9"
+    },
+    {
+      "class": "group",
+      "id": "1D9FA15D-CAF2-4300-B6AE-A87D6C7774DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38826FD2-FD93-48A7-BA8A-B368BBD5E065"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A25BBDE5-4C1E-4ED7-B4A0-E40AA913C023"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0FDA1BE-5081-408B-BEB0-C754CBC02E35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AB64B17-73D4-4D20-9301-52B44081B46F"
+    }
+  ],
+  "name": "Stepper - Step 4 Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

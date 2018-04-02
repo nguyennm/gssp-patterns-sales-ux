@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "875FAD36-25FA-4991-9A5A-ADEDFD38F9BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 290,
+    "x": 0,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5796C5B1-5B24-46C8-961E-25207852A8B0"
+    },
+    {
+      "class": "text",
+      "id": "35C1D2F0-F31E-415F-91D4-E9D388555B59"
+    },
+    {
+      "class": "text",
+      "id": "BF1E3A5B-6ABC-4550-B336-580431509F99"
+    }
+  ],
+  "name": "Payment Method DD Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

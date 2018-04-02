@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "B661DEC2-E20A-48BB-A1BE-5D40E371FB5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 528,
+    "width": 540,
+    "x": 1293,
+    "y": 696
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C521B6D9-3566-42E1-831A-E83F256B3A12"
+    },
+    {
+      "class": "text",
+      "id": "2970F4AE-7328-4777-A21B-98E5D1ED725B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8246B36D-5482-444A-8634-397B8415C63E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7355E40C-FB69-44D3-AF18-2DF92B6DD035"
+    },
+    {
+      "class": "text",
+      "id": "BA565B46-5E1C-4C22-8212-2326618D49A5"
+    },
+    {
+      "class": "group",
+      "id": "223B8881-772D-4CA7-A822-9B7CEE58BC6C"
+    },
+    {
+      "class": "group",
+      "id": "0ECFE230-C616-4420-9FFF-9C3C97C1D4AA"
+    }
+  ],
+  "name": "Small Card Copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

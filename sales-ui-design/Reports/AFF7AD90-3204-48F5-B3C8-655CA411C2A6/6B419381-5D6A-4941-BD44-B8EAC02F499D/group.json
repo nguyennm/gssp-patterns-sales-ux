@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6B419381-5D6A-4941-BD44-B8EAC02F499D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 340,
+    "width": 440,
+    "x": 527,
+    "y": 618
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F46FC223-96F3-41B2-96DB-7C4D0C24523E"
+    },
+    {
+      "class": "text",
+      "id": "99E44B03-CD9E-49D0-A93A-CD79A576EE47"
+    },
+    {
+      "class": "group",
+      "id": "A7C1283D-1BAF-43E6-B9C3-D87A9A6F9DB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "838FB127-1A5A-4DF7-8DC0-B0964BF54AC1"
+    }
+  ],
+  "name": "Product Card Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

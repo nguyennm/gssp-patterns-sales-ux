@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4B5E8F30-A48C-49B8-9A31-3B069FBD37EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 1070,
+    "x": 39,
+    "y": 213
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "30396E8C-0009-47A1-A2AB-378784CA03F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44A01148-0E98-4F26-B4A9-270046296CDC"
+    },
+    {
+      "class": "text",
+      "id": "38F555A9-5B21-4487-A9F3-165C5640AA2A"
+    },
+    {
+      "class": "text",
+      "id": "A1DF7626-5BDC-4DD9-A24F-0630D022D65A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54921271-F0ED-49A8-A2E0-82B942B0C82F"
+    }
+  ],
+  "name": "Tab Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

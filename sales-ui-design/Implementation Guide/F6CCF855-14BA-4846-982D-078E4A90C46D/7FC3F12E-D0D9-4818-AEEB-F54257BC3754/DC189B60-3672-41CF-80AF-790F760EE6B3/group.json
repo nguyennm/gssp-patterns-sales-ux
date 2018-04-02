@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "DC189B60-3672-41CF-80AF-790F760EE6B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CDECC89-E704-41A9-883C-A0AF6895EF6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65F4D8CE-9E47-4911-AEE8-4803FE2C513C",
+    "height": 13,
+    "width": 70,
+    "x": 34,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9620157F-2DE6-4AEE-AE85-063E3A9025E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F015AFA0-70BC-4738-A309-646D59C7C394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D71ABA86-72DD-40D6-B810-654A3410FAE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93CBDEE0-DDEF-48D4-A046-54A85BA826D5"
+    }
+  ],
+  "name": "Dots Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0790DE69-2C41-4314-B898-F58547C5D24F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

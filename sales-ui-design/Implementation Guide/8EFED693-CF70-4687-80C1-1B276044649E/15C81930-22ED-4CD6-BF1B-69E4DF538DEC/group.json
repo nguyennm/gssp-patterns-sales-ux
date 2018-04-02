@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "15C81930-22ED-4CD6-BF1B-69E4DF538DEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 1140,
+    "x": 665,
+    "y": 4332
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C8C25C28-2A52-4BFC-A791-88677EA4EF3D"
+    },
+    {
+      "class": "text",
+      "id": "F56CD4BA-B648-4F43-9EC7-4AE48C99F0C2"
+    }
+  ],
+  "name": "Flip Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "C37EAB52-4750-4D0D-AACC-429D901B32D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1675,
+    "width": 1205,
+    "x": 3524,
+    "y": -453
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "42A74DD5-2289-47D7-8B14-3898FD0FB7A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FB4F83F-739A-4035-A896-D405CB7DF2A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61E9F2D2-C5F1-41FA-BBD7-720025EBC78A"
+    },
+    {
+      "class": "group",
+      "id": "C10F559B-3AF0-45B3-BEA3-C2426FD59E63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63ACB4D2-7B7A-459F-8B3E-CFEB09264183"
+    },
+    {
+      "class": "group",
+      "id": "3EF74146-2C51-4F0B-AC6A-4F0802072AA8"
+    },
+    {
+      "class": "group",
+      "id": "0141C9A9-DA90-4364-924B-46BF772CFF7A"
+    },
+    {
+      "class": "text",
+      "id": "3EF0D53C-4D16-4137-A216-984A3474D16C"
+    },
+    {
+      "class": "text",
+      "id": "25A632FF-1696-4F9B-B5AA-78AA44A2254C"
+    },
+    {
+      "class": "group",
+      "id": "259FABCF-EADA-4A7F-8684-118E1EA4231C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "621347F4-3EDC-4FAA-9D09-63E18B3E5650"
+    },
+    {
+      "class": "group",
+      "id": "D6BEC555-ABBE-48C6-B259-9124B3D690DE"
+    }
+  ],
+  "name": "QI/Plan Design - Owner Info - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

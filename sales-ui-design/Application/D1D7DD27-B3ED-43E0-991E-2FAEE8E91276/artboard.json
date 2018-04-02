@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "D1D7DD27-B3ED-43E0-991E-2FAEE8E91276",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2205,
+    "width": 1205,
+    "x": 6099,
+    "y": -453
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5AC4A808-8AF5-4793-BEAD-E733039E9B18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D030D65B-8978-4FCB-B20B-94AEE3572F08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F640F70-8C4D-4AFF-8F28-BBFC344F5B2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5326AE38-E8EC-4495-9703-34A1501E4F9E"
+    },
+    {
+      "class": "group",
+      "id": "B95A71C3-7382-45E1-974D-22E5686E890A"
+    },
+    {
+      "class": "group",
+      "id": "C720A133-9EAB-4DAE-B08D-6683C3CA791B"
+    },
+    {
+      "class": "text",
+      "id": "93B1F6B5-877B-4CA1-92B6-75467F103573"
+    },
+    {
+      "class": "group",
+      "id": "39C49B09-EB81-4075-8F84-0B3573EA26D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70B4237B-757E-4542-9789-60AD00D033A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "427076B4-852B-4CBB-A07A-69F88B2E65BF"
+    },
+    {
+      "class": "group",
+      "id": "A63ED84D-1322-4F88-BB90-D541E24C2D3D"
+    }
+  ],
+  "name": "Application - Payment Information - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "4B6ADE83-8950-45F9-A09D-49EFEF58E4F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1505,
+    "width": 1205,
+    "x": 4844,
+    "y": 1030
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E7E14EB-AF32-4DA7-A245-9225C8F7B74E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA416812-BC8E-415C-9067-35AB1271F11D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB0BD470-7CB3-43EB-A18A-8A13A303D880"
+    },
+    {
+      "class": "group",
+      "id": "90D19068-51B7-4E27-9F4B-A43BAB659633"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9E5523C-50FD-4C7D-87C6-EAD5694BAC70"
+    },
+    {
+      "class": "group",
+      "id": "0E2CFDA1-B626-4F76-8FEE-CEAA86D1BD64"
+    },
+    {
+      "class": "text",
+      "id": "23C7C6B4-1D22-4AB1-8B20-64AEC8E6417F"
+    },
+    {
+      "class": "group",
+      "id": "C975E6E8-65E5-4617-B36E-55BE01B1E188"
+    },
+    {
+      "class": "text",
+      "id": "C2D92280-E3B5-4CB5-B543-0E0A814BD8BF"
+    },
+    {
+      "class": "group",
+      "id": "FA9D1730-C821-4BE9-A148-E37370B1EAAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "896C5DF7-4AB7-4387-95B5-9FA0F6A53A08"
+    },
+    {
+      "class": "group",
+      "id": "4B46F44C-86D2-4B33-8D98-D4DFDE83B04D"
+    }
+  ],
+  "name": "QI/Quote and Summary - Expanded - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "43C9DD81-2AA0-43CD-8214-66B7AF61AC2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 502,
+    "x": 19,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6332DCCE-2F28-4CAD-A776-0FBF4CB1F629"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3AD344B-2F5E-401E-96B6-F4EFB39E6540"
+    },
+    {
+      "class": "text",
+      "id": "F27CDAF1-B455-4826-8756-0C7BE2B373A1"
+    }
+  ],
+  "name": "Claim Progress 03",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

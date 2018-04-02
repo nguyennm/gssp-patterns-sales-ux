@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "B60F7984-D716-4D7F-933A-522435AE40C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 276,
+    "width": 888,
+    "x": 43,
+    "y": 119
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9522AE6A-FF55-4FD1-87A3-5355540E1A03"
+    },
+    {
+      "class": "group",
+      "id": "AAD51BC3-CD38-4AD8-80B6-A2208AC63DF6"
+    },
+    {
+      "class": "group",
+      "id": "C1D9E57B-5A4E-446E-A448-A3003E813484"
+    },
+    {
+      "class": "group",
+      "id": "1FBA5ED8-A20A-4E8B-A638-F200C53948C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D87C6E66-06E6-4699-AF53-82F7FC98ACEA"
+    },
+    {
+      "class": "text",
+      "id": "DB6B1A18-0EAF-41DB-A7E3-BF0B88D3848A"
+    }
+  ],
+  "name": "Intermittent Leave",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

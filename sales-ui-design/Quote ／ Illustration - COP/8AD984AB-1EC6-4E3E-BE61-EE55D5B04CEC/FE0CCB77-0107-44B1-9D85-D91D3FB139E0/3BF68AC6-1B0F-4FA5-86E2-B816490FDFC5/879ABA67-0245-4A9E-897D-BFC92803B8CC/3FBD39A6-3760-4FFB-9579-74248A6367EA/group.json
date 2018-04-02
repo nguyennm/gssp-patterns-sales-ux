@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "3FBD39A6-3760-4FFB-9579-74248A6367EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 256,
+    "width": 308,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6CEA7169-DBF5-454E-81EF-C6BDA758752B"
+    },
+    {
+      "class": "text",
+      "id": "72D1A96F-68B3-4120-B417-CE4A934CCB88"
+    },
+    {
+      "class": "group",
+      "id": "56F6E888-7F05-4D57-B26C-D6D3C151A102"
+    },
+    {
+      "class": "group",
+      "id": "23D0A97B-5A6C-4FB7-B421-649DD9A68B12"
+    },
+    {
+      "class": "text",
+      "id": "9B83DFEA-6543-4DAD-B051-2E6BE411546A"
+    },
+    {
+      "class": "text",
+      "id": "AD01805C-2F60-4515-9FEF-EBC7082CAA38"
+    }
+  ],
+  "name": "E-Sign Flyout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

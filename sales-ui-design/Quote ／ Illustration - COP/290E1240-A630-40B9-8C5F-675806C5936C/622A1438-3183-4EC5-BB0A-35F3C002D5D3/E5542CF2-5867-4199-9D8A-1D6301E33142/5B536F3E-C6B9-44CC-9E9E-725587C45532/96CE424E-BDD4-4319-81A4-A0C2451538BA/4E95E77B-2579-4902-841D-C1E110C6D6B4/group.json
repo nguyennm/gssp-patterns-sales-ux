@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4E95E77B-2579-4902-841D-C1E110C6D6B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 346,
+    "x": 0,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "081F4680-5549-4CA3-9E62-876F860F1B47"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CDD3F93-019B-40DD-AF77-429DADD5DFEE"
+    },
+    {
+      "class": "text",
+      "id": "20E43363-DBA3-4553-8C69-986433752858"
+    },
+    {
+      "class": "text",
+      "id": "66B4F19F-C6C6-495A-960F-027A63E4E1AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4420187B-9A80-43B1-B0C8-A8E0D4A1C118"
+    }
+  ],
+  "name": "Date of Birth",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

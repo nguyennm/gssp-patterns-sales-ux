@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "259B1F1E-2910-4175-97AD-5DE597AF6B0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 778,
+    "width": 1109,
+    "x": 20,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9E5297EF-6779-4AEE-A57D-5B7D07DDA834"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C303974-DBD8-4126-BA1A-CCA2CB8E2739"
+    },
+    {
+      "class": "group",
+      "id": "319C100B-E2A9-43C4-9B85-69AF65BE4AF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3AD7CCC-D669-43A1-9D7F-3AFB95B4EB45"
+    },
+    {
+      "class": "group",
+      "id": "FFC4BCDA-E69B-46A7-B50B-8B80A9C18E26"
+    }
+  ],
+  "name": "Stepper - Step 1 Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

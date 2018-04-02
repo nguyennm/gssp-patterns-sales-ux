@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "4691A5EF-3E39-4ECB-9EE1-606B3F48739F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2205,
+    "width": 1750,
+    "x": -2214,
+    "y": 1842
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D91B55B3-639C-4B00-9F8B-465DCD5023B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3615FE3D-2838-4448-9DA6-2E6B67532D19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1409C89A-8185-4B11-99A4-4FF175F19CC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2670D023-EC0E-40D2-BBDD-A404B6383766"
+    },
+    {
+      "class": "group",
+      "id": "CA6F5027-EF62-4D3A-9DA8-B9EDF7D7162D"
+    },
+    {
+      "class": "group",
+      "id": "FA022667-2ADD-4167-A144-A6C9E0AD40AA"
+    },
+    {
+      "class": "text",
+      "id": "F3442EEF-7DA5-4C20-9792-579D049A8E0F"
+    },
+    {
+      "class": "group",
+      "id": "762F3494-C5CE-4CBA-BC84-1F1F4B8543A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB4E877F-4084-4C66-A044-2443FD42ABB3"
+    },
+    {
+      "class": "group",
+      "id": "80533FE8-6F43-4108-97CD-79EC056646BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CFE0872-5080-49F3-BC0C-4FC58DEC2EC2"
+    },
+    {
+      "class": "group",
+      "id": "29F9CCA7-2A04-415D-8488-138485807A47"
+    },
+    {
+      "class": "group",
+      "id": "175FF68B-D115-4E4C-82F5-E93E402A26A2"
+    },
+    {
+      "class": "group",
+      "id": "03DB7895-1C78-4257-96D7-71A01D41666E"
+    }
+  ],
+  "name": "Application - Annotations - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

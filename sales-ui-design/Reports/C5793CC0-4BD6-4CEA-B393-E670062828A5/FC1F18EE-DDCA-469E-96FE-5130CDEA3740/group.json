@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FC1F18EE-DDCA-469E-96FE-5130CDEA3740",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 454,
+    "width": 540,
+    "x": 48,
+    "y": 258
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA2D3E72-B508-4849-8AF1-62DEBB2C4CC3"
+    },
+    {
+      "class": "text",
+      "id": "A08A9800-B438-4822-A0A6-BA0410CC6EE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F853B44-2E41-42F8-9319-6DDC27579560"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84563E7E-4880-4035-ADF3-1CD51D246104"
+    }
+  ],
+  "name": "Product Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

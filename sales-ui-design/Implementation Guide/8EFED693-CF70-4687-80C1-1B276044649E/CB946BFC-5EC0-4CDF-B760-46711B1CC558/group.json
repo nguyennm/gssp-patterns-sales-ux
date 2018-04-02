@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "CB946BFC-5EC0-4CDF-B760-46711B1CC558",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 1200,
+    "x": 665,
+    "y": 911
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9F0D90AB-B86D-40B1-BF84-A930C7FA9CD5"
+    },
+    {
+      "class": "group",
+      "id": "A61BAE2F-DD26-440C-A453-C4D0D7B0D83B"
+    }
+  ],
+  "name": "Leaving modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "28ADB8A5-30E6-4AF3-80B5-3FC3F22BC8CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA827860-6987-41BA-846A-ABE903D7513D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFFFE062-DDC9-4144-8F58-495964B51F40",
+    "height": 49,
+    "width": 200,
+    "x": 168,
+    "y": 742
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "817BF1DB-E180-4FD5-A002-08AF8629EE49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09DDCC3C-9D8B-4D40-84CA-2DE7CACE4B61"
+    },
+    {
+      "class": "text",
+      "id": "D7AFF2DB-C7B8-41A9-A45F-8AF00896FF2B"
+    }
+  ],
+  "name": "State Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA9ED6DC-C132-4D34-995F-38B0D5CDB10B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

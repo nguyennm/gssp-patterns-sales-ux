@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "FEE1BF73-7861-44CF-B158-74116F55876E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1405,
+    "width": 1205,
+    "x": 4844,
+    "y": -453
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF56B957-4A04-4F15-9E71-B5BE89A75516"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD78A49F-8D1A-4DA7-912A-FBB09C363CA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B871475-F86F-4AE2-B315-90B4B1A06039"
+    },
+    {
+      "class": "group",
+      "id": "CD02DD02-6DB3-47B0-B2C0-BF953715BDB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD72EB8C-4D94-4B91-B639-607A01A506D0"
+    },
+    {
+      "class": "group",
+      "id": "A2B7206E-A9F4-4162-ABA2-2B40590748C2"
+    },
+    {
+      "class": "group",
+      "id": "2A06A8BA-6749-4625-9B7A-3A0086AF7414"
+    },
+    {
+      "class": "text",
+      "id": "F0D1B7DB-F7E9-4B0E-950F-DA6F38D21335"
+    },
+    {
+      "class": "text",
+      "id": "3CB83D90-62AA-4903-B7B2-E7219146A032"
+    },
+    {
+      "class": "group",
+      "id": "690579C5-84C2-4DA3-B72A-68AAC6E5B97B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0CBB2DF-35AB-4F90-B8DE-8B8296F70333"
+    }
+  ],
+  "name": "QI/Quote and Summary - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

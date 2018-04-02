@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "777DAF56-8603-4692-A517-3C36BD39F617",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1205,
+    "width": 1205,
+    "x": -426,
+    "y": -453
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "67538FD8-14A9-46A5-95C4-85FEA2C56D8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F7B171F-31A4-4A7A-9ED0-7E912B77FE79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D65DB96-1BAC-45BA-A1BB-C8CD2D8832AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C716049-5862-4AA8-9967-A7D9C38794D8"
+    },
+    {
+      "class": "text",
+      "id": "98A2AF4A-E6DF-44F2-9741-0F423EABB5DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2233C5DC-367A-429B-B220-EEBB725F282A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E47F1BA-36FD-4A9F-89DF-44D375EF7865"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FB5F4B3-30C8-4046-9466-A8C03959814B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BB72B7D-B9C2-4563-BB7C-AEB9E29A8D10"
+    },
+    {
+      "class": "group",
+      "id": "0F074735-D6C4-4127-81EE-FBF138DB91A2"
+    }
+  ],
+  "name": "NA - Specific - Landing - Desktop",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1205,
+    "name": "metlife-ux-desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1205
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

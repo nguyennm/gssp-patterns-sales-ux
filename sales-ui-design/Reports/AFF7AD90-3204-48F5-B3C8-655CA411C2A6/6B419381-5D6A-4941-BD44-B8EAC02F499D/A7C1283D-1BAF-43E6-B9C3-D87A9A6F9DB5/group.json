@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "A7C1283D-1BAF-43E6-B9C3-D87A9A6F9DB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 232,
+    "x": 104,
+    "y": 226
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DAB8AD90-5D98-4368-9561-0BB2CB91659A"
+    },
+    {
+      "class": "text",
+      "id": "B2FC868B-064C-4163-9F89-33109D7F06E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA97B5F0-BD3F-4310-B1C3-02C4EAC9E0F2"
+    }
+  ],
+  "name": "Brochure Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
