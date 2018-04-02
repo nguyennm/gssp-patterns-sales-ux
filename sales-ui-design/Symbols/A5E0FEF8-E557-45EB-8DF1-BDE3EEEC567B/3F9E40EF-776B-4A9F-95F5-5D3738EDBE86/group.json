@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,6 +32,14 @@
     {
       "class": "group",
       "id": "6D8015F1-BF24-4C84-9A97-D83218B9465C"
+    },
+    {
+      "class": "group",
+      "id": "81481B7D-2997-4449-B23B-A64EC7207284"
+    },
+    {
+      "class": "group",
+      "id": "EB714255-5E22-4FB6-AF95-B916FC862E86"
     }
   ],
   "name": "Navigation - Tablet - CoBrand",

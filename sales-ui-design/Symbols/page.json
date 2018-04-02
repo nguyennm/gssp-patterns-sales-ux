@@ -891,6 +891,10 @@
     {
       "class": "symbolMaster",
       "id": "03443F25-6075-45AA-A1A4-173BD0B0F8E4"
+    },
+    {
+      "class": "group",
+      "id": "4FA8CE06-4913-428E-AE3E-95276990C4DF"
     }
   ],
   "name": "Symbols",
@@ -907,7 +911,7 @@
   },
   "userInfo": {
     "com.sonburn.sketchplugins.symbol-organizer": {
-      "displayTitles": 0,
+      "displayTitles": 1,
       "gPad": "200",
       "gatherSymbols": 0,
       "groupDepth": 1,

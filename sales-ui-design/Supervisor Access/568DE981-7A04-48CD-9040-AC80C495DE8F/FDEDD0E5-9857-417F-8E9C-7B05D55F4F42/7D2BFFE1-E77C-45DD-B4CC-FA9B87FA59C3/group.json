@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -36,10 +36,6 @@
     {
       "class": "text",
       "id": "5850E0FB-9983-4A86-9064-AF761F76AF6A"
-    },
-    {
-      "class": "text",
-      "id": "8F7370CD-D70C-4861-B4F2-120B3CB61516"
     },
     {
       "class": "shapeGroup",
@@ -64,10 +60,6 @@
     {
       "class": "symbolInstance",
       "id": "0F03407B-201D-434C-85F2-019593F143FA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F0B67E17-B07C-4669-B02F-11F84E4BF059"
     }
   ],
   "name": "table header",

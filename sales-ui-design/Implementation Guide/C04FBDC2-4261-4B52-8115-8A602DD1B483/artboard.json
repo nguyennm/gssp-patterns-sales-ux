@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -184,6 +184,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "9047BD6C-40C3-4CEE-BA09-6737AF034441"
+    },
+    {
+      "class": "symbolInstance",
       "id": "EF9D1C10-30BF-4B58-85DA-B3D1BA04D9E4"
     },
     {
@@ -192,19 +196,15 @@
     },
     {
       "class": "group",
+      "id": "0A44B32E-9561-4978-B3E3-08E0BB57D8A4"
+    },
+    {
+      "class": "group",
       "id": "5CF2103D-DB56-4D15-A7F2-6436DC16FBAC"
     },
     {
       "class": "group",
       "id": "127F9753-CCF6-4999-BCBC-E9358994007F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E4B90710-E79C-45E0-BE4F-63923921E507"
-    },
-    {
-      "class": "group",
-      "id": "6225F14C-0283-4144-BC76-0E945456C9EA"
     },
     {
       "class": "group",
@@ -281,6 +281,10 @@
     {
       "class": "group",
       "id": "4541D5F0-E1B1-43C6-9207-E46CD0F8D771"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99E152FA-823A-4A10-B0B1-D61676BD49A7"
     }
   ],
   "name": "Patterns Components",

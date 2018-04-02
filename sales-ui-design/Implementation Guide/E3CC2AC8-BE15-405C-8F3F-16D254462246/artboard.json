@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4200,
+    "height": 4500,
     "width": 2250,
     "x": 9816,
     "y": -835
@@ -265,6 +265,22 @@
     {
       "class": "text",
       "id": "C32CCC61-F76D-48AA-BA7C-1881588FDDFA"
+    },
+    {
+      "class": "text",
+      "id": "62B53273-0249-45DC-A97F-6EFF7DC9EE57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4277047-6543-4701-980F-701272F0A401"
+    },
+    {
+      "class": "group",
+      "id": "99F09184-BE68-4F5E-9AAD-69022779AB79"
+    },
+    {
+      "class": "text",
+      "id": "D8A89276-33F2-4E24-8A2D-6AAFA78B54C6"
     }
   ],
   "name": "Composite Treatments - Prospect Management",

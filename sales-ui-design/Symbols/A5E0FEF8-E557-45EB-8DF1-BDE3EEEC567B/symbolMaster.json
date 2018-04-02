@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 82,
   "do_objectID": "A5E0FEF8-E557-45EB-8DF1-BDE3EEEC567B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 60,
     "width": 769,
-    "x": 23561,
+    "x": 24806,
     "y": 3227
   },
   "hasBackgroundColor": false,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "3F9E40EF-776B-4A9F-95F5-5D3738EDBE86"
     }
   ],
-  "name": "statics/postlogin-nav-tablet",
-  "nameIsFixed": false,
+  "name": "statics/postlogin-nav-tablet-portrait",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
