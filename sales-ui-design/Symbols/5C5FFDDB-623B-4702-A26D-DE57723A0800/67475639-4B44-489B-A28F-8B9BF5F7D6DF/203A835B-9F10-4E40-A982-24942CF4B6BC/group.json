@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 91,
-    "width": 266,
+    "width": 243,
     "x": 0,
     "y": 138
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -35,7 +35,11 @@
     },
     {
       "class": "group",
-      "id": "A63F9C85-2197-45C2-A739-D8179562ACB8"
+      "id": "F7E50B4F-C95E-4487-88C7-E3D7AEDFBEBB"
+    },
+    {
+      "class": "text",
+      "id": "DB3C1A4C-F747-487A-AF88-FB634F6BF8BC"
     }
   ],
   "name": "Group 20",

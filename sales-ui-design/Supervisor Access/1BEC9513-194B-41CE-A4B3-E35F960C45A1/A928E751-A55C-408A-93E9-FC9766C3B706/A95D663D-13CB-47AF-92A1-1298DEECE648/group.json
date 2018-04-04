@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "A95D663D-13CB-47AF-92A1-1298DEECE648",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D659D9D-333A-4B62-9796-F7624F733FE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADCC6DBF-811B-430D-A961-3645A4DB094B",
+    "height": 40,
+    "width": 143,
+    "x": 588,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "742362E0-DE00-4D48-A105-B15B9CD8BBA0"
+    },
+    {
+      "class": "text",
+      "id": "6022E545-5DB0-4218-9243-A5A9575833EF"
+    }
+  ],
+  "name": "Secondary Button (On Load) 01",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72F60404-ABC3-447E-B184-D056821B9B48",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

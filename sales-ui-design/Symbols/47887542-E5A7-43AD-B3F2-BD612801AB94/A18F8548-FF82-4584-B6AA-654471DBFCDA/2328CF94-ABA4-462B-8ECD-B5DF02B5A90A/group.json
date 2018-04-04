@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -36,6 +36,10 @@
     {
       "class": "group",
       "id": "316493CF-8CAF-4A9F-A08F-D64937861F58"
+    },
+    {
+      "class": "text",
+      "id": "BA0D8C15-EA3F-4924-8183-1C5C33316A34"
     }
   ],
   "name": "Group 20",
