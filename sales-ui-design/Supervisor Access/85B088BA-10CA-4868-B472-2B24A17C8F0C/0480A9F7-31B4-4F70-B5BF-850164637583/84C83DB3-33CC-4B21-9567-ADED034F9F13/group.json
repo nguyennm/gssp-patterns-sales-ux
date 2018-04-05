@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "84C83DB3-33CC-4B21-9567-ADED034F9F13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B1CFAB5-99A6-43B8-9289-239EFBD01688",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D85D51DE-674B-4254-B48D-82C8A05AE362",
+    "height": 15,
+    "width": 24,
+    "x": 715,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "62493672-0227-40CC-9729-5C935731D3B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EED8187-C57D-4C00-BC34-382C865FA03D"
+    }
+  ],
+  "name": "Switcher Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BAF1919A-2BC6-48BC-A82C-726F61B29574",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

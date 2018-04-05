@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "BA914C35-164F-48B3-9D94-4CCDB74ABB4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 599,
+    "width": 1109,
+    "x": 48,
+    "y": 366
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EDF42575-1D91-48DC-A7B5-B1A069066AD4"
+    },
+    {
+      "class": "text",
+      "id": "8F565E99-4C80-4534-ACB9-BB5695450EE4"
+    },
+    {
+      "class": "group",
+      "id": "A9660DDA-1CEA-4BBA-953C-FEC0794607A2"
+    },
+    {
+      "class": "group",
+      "id": "11341B5B-79F0-400E-83B4-DBCBFC7FFF58"
+    }
+  ],
+  "name": "Small Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

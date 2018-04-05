@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "0480A9F7-31B4-4F70-B5BF-850164637583",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E685389E-9EE9-4F89-9520-3BA2CD5746F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3A8B02F-FD31-4964-A190-9D701213D606",
+    "height": 52,
+    "width": 1205,
+    "x": 0,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69BFF457-EF87-4B05-B166-63302F54480C"
+    },
+    {
+      "class": "group",
+      "id": "84C83DB3-33CC-4B21-9567-ADED034F9F13"
+    },
+    {
+      "class": "group",
+      "id": "9268F114-224C-4098-8050-07606DC1DB91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A098D54D-7AD1-4AF7-A40E-7DBA963DF421"
+    }
+  ],
+  "name": "Hdr Msg - Other Policies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C22FCDDD-93F3-4739-9A6B-A8FFBF76A195",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
