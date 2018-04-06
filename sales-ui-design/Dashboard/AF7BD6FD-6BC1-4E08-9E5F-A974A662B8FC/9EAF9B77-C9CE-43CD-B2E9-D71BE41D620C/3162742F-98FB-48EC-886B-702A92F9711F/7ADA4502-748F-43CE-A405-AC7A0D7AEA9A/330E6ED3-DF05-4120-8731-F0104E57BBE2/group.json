@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 115,
+    "height": 147,
     "width": 260,
     "x": 20,
     "y": 75
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -36,6 +36,10 @@
     {
       "class": "symbolInstance",
       "id": "1E7CB6FE-CEA3-4C56-9E4C-933AF23BE911"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D1B1522-3F2F-48D3-8823-E4B27D31216E"
     },
     {
       "class": "symbolInstance",
