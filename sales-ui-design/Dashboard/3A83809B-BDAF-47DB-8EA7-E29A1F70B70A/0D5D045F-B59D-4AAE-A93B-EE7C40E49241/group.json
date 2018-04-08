@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "0D5D045F-B59D-4AAE-A93B-EE7C40E49241",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 1205,
+    "x": 0,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B5E5715D-06D9-402B-8A64-AA6C922FB617"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75F63757-AE55-4170-B836-D4EF18994BF3"
+    },
+    {
+      "class": "text",
+      "id": "CF2D0C1B-B374-4771-B4B9-BDE1866F66A0"
+    },
+    {
+      "class": "text",
+      "id": "AE1973BD-0DFC-49BA-91D2-A7D5472E4C04"
+    },
+    {
+      "class": "text",
+      "id": "08AE08A7-C292-4D5D-848C-26D6222ED3ED"
+    }
+  ],
+  "name": "Header Nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

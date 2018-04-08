@@ -14,24 +14,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 253,
+    "width": 50,
     "x": 15,
-    "y": 0
+    "y": 10
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "351D6879-36CC-4766-8259-B1B65D63DFAF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6D0CF33E-AE4A-41AD-8541-15BA302E70CD"
     }
   ],
   "name": "Group",

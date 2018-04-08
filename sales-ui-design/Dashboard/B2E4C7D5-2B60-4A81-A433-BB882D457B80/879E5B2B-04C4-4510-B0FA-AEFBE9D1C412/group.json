@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
+    "height": 81,
     "width": 200,
     "x": 584,
-    "y": 423
+    "y": 422
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -32,6 +32,10 @@
     {
       "class": "text",
       "id": "35C11D56-57A6-4868-8EC4-A7720322F6CF"
+    },
+    {
+      "class": "text",
+      "id": "9A414C57-6E81-4571-9B0C-5FF3CD112896"
     }
   ],
   "name": "sort flyout",

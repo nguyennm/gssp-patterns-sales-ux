@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 67,
+    "height": 46,
     "width": 267,
     "x": 110,
-    "y": 14
+    "y": 24
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -36,10 +36,6 @@
     {
       "class": "text",
       "id": "55699937-DAA7-483D-972A-B18CBC599965"
-    },
-    {
-      "class": "text",
-      "id": "AD147863-BEA4-4FE4-960C-057EFEF76C4A"
     }
   ],
   "name": "Group 5",

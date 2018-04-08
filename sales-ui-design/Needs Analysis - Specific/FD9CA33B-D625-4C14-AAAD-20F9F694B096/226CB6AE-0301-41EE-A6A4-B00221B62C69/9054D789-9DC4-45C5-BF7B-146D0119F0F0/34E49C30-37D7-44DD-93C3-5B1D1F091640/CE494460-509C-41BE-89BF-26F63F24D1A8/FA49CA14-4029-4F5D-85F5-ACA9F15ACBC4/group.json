@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 187,
+    "width": 215,
     "x": 22,
     "y": 10
   },
@@ -23,15 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "5774A6E2-69EA-42E8-A068-AADBFDC6D22B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CC6E8A56-48E8-46F3-8812-AA60D58A85A3"
     }
   ],
   "name": "Group",
