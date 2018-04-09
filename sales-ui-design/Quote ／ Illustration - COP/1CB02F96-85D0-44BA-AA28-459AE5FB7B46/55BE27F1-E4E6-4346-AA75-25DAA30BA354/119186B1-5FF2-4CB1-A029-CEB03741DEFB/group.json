@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -34,63 +34,31 @@
       "id": "1D67877E-FD26-40E3-8A7F-F9BE22A18200"
     },
     {
-      "class": "group",
-      "id": "F5172960-3AB6-4BDF-8DCF-A916518A796B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AF47BEF9-777E-4D85-BAF4-D6CDF28B818D"
-    },
-    {
-      "class": "group",
-      "id": "E3861ED3-5775-4406-9B87-F6EF48724097"
-    },
-    {
-      "class": "group",
-      "id": "27AB257C-E46A-4859-9B3F-E1CAA2B191D9"
-    },
-    {
-      "class": "group",
-      "id": "2DB0F6CE-DD25-49FA-B123-D484B3145C3B"
-    },
-    {
-      "class": "text",
-      "id": "2CF7A502-2145-4557-9642-2272E47CB1A9"
-    },
-    {
-      "class": "text",
-      "id": "216F8F03-2304-45FA-B67F-E9EB56D18187"
-    },
-    {
-      "class": "group",
-      "id": "C4009A86-78C3-4C3F-874B-4F4D171ABFE3"
-    },
-    {
-      "class": "group",
-      "id": "3138F00E-25CF-4E2E-889C-BBC803BE3612"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2814EB34-25F4-4F52-8464-303E597207BF"
-    },
-    {
-      "class": "group",
-      "id": "02DBB79D-ED32-4D7D-A441-94028208B90F"
-    },
-    {
-      "class": "group",
-      "id": "C0007251-89F2-456B-868F-EC409D310077"
-    },
-    {
       "class": "shapeGroup",
       "id": "1D0EBABD-D8CC-45B2-BF91-8DD10B950E8F"
     },
     {
+      "class": "group",
+      "id": "F5172960-3AB6-4BDF-8DCF-A916518A796B"
+    },
+    {
+      "class": "group",
+      "id": "3B76EAC9-5395-487B-9186-255B789B9614"
+    },
+    {
+      "class": "group",
+      "id": "8C47D9B6-7C2F-4899-BAE8-E28A396CDB8D"
+    },
+    {
+      "class": "text",
+      "id": "5E5800F8-8B3C-43FE-AAA9-5E21672BECB7"
+    },
+    {
       "class": "symbolInstance",
-      "id": "E693434C-E8E1-47CD-9EB4-09FC24086A3A"
+      "id": "AF47BEF9-777E-4D85-BAF4-D6CDF28B818D"
     }
   ],
-  "name": "Stepper - Step 2 Active",
+  "name": "Stepper",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

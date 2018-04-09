@@ -26,7 +26,7 @@
     "y": 1030
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,11 +40,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "07305EB8-84D9-44EC-A7F2-84ACFA4CDE5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB7EEA18-C5A4-4E4E-B107-9D736E9307BC"
     },
     {
       "class": "symbolInstance",
@@ -55,28 +59,16 @@
       "id": "63C5A9A2-A592-4B24-AC24-DD98819EE838"
     },
     {
-      "class": "symbolInstance",
-      "id": "AB7EEA18-C5A4-4E4E-B107-9D736E9307BC"
-    },
-    {
       "class": "group",
       "id": "732B9A84-DDDA-435F-8137-0F80F19769F2"
     },
     {
-      "class": "text",
-      "id": "1B00B5D2-2FA6-4972-A973-301951C6A0BC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "16FBA228-B82D-4A78-8FFE-E61EC4356610"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C1433568-4294-4D70-8D15-424A003FD0D2"
+      "class": "group",
+      "id": "46AC6C96-FC2E-4869-B20D-291343B0FC0D"
     },
     {
       "class": "group",
-      "id": "23D50376-535D-44EA-A448-B7401DD3CBB5"
+      "id": "8D07145C-534F-44D4-AA70-557AB2D65116"
     }
   ],
   "name": "QI/Prospect Selection - Duplicate Check - Desktop",

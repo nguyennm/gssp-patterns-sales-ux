@@ -40,11 +40,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "3C626A98-F362-44D4-AB89-6890695264CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C4C6303-608A-44E4-ACC2-BA613C396FD2"
     },
     {
       "class": "symbolInstance",
@@ -56,6 +60,10 @@
     },
     {
       "class": "group",
+      "id": "0F8B97B0-DDA6-41EF-9F29-E9C4F57C90ED"
+    },
+    {
+      "class": "group",
       "id": "CA28E81E-92C6-47A9-8102-0241440CCCFB"
     },
     {
@@ -63,28 +71,16 @@
       "id": "54BABB9D-5187-4E21-9C23-33C6E67B6FE8"
     },
     {
-      "class": "symbolInstance",
-      "id": "2C4C6303-608A-44E4-ACC2-BA613C396FD2"
-    },
-    {
-      "class": "group",
-      "id": "0F8B97B0-DDA6-41EF-9F29-E9C4F57C90ED"
-    },
-    {
       "class": "group",
       "id": "35EAF704-8C2F-4524-86AF-59D7935FEC53"
-    },
-    {
-      "class": "text",
-      "id": "C54C40A8-B263-4E5B-B983-584AB532D020"
     },
     {
       "class": "group",
       "id": "FB2DC14E-AD3A-4945-974B-9185EDC6DF4F"
     },
     {
-      "class": "symbolInstance",
-      "id": "E0044252-A321-4EE1-8629-AD76157572EA"
+      "class": "group",
+      "id": "2E51E06E-9C58-4EBB-9EFC-EBE42FF66F88"
     }
   ],
   "name": "QI/Cancel Illustration - Desktop",

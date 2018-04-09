@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,14 +32,6 @@
     {
       "class": "group",
       "id": "E762B6D6-5400-4024-8185-34656C866045"
-    },
-    {
-      "class": "text",
-      "id": "CCC9AAED-E3FB-494D-883B-4A18E2AA9E0C"
-    },
-    {
-      "class": "group",
-      "id": "C42A27F2-A598-48F1-9610-E95580742AFC"
     }
   ],
   "name": "Progress",

@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3005,
+    "height": 3606,
     "width": 1205,
     "x": 3524,
-    "y": 4465
+    "y": 4990
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,6 +48,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "10D480CD-DA79-4983-B3D8-5FA5723E7C37"
+    },
+    {
+      "class": "symbolInstance",
       "id": "C4F49A71-0421-413F-B181-3C3ED2C8100A"
     },
     {
@@ -56,35 +60,23 @@
     },
     {
       "class": "group",
-      "id": "3C5E25A8-D146-4AFC-901F-73178DE45FC1"
-    },
-    {
-      "class": "group",
       "id": "F4E69FA8-C89E-4753-ACB4-652A99C8B6E8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "10D480CD-DA79-4983-B3D8-5FA5723E7C37"
-    },
-    {
-      "class": "group",
-      "id": "7EE0BC21-A3EE-4E8E-AEA0-BF67440179FF"
     },
     {
       "class": "text",
       "id": "05062462-519C-44C1-9625-6DE1AC7DBABB"
     },
     {
-      "class": "text",
-      "id": "6ED997FA-84CA-4766-ACBC-CBA44B9DF5D5"
+      "class": "group",
+      "id": "3C5E25A8-D146-4AFC-901F-73178DE45FC1"
     },
     {
       "class": "group",
       "id": "80D35E05-DED8-4FC3-98E8-327C54583CF1"
     },
     {
-      "class": "symbolInstance",
-      "id": "293E2CDF-A09A-4055-99D0-B559CE0730BD"
+      "class": "group",
+      "id": "AAF2171D-6D31-47D3-9759-0F68075884B0"
     }
   ],
   "name": "QI/Plan Design - Product Data Entry - Valid - Desktop",

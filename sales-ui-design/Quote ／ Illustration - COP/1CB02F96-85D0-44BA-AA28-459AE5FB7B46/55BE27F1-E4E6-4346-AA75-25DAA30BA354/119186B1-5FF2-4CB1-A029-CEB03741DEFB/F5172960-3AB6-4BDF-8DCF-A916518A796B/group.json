@@ -13,30 +13,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 791,
+    "height": 105,
     "width": 1100,
     "x": 0,
-    "y": 152
+    "y": 838
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "EB651A60-C444-490D-8BDF-02C9714A35E6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4CEA41F5-B4ED-46BB-A778-A85A1FA25E70"
-    },
-    {
-      "class": "text",
-      "id": "5E5800F8-8B3C-43FE-AAA9-5E21672BECB7"
-    },
     {
       "class": "symbolInstance",
       "id": "0028A33C-C07E-4579-864B-1DCB0FEACEC0"
@@ -55,11 +43,11 @@
     },
     {
       "class": "text",
-      "id": "D9F4091C-4F1E-4D57-BEFF-B4F94CCAD89F"
+      "id": "4B22518C-4411-4AF4-BFFD-80C652E509F5"
     },
     {
       "class": "text",
-      "id": "4B22518C-4411-4AF4-BFFD-80C652E509F5"
+      "id": "D9F4091C-4F1E-4D57-BEFF-B4F94CCAD89F"
     }
   ],
   "name": "Inactive Steps",

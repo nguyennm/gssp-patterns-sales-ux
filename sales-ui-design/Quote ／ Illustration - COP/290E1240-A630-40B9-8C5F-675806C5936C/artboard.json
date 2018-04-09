@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3005,
+    "height": 3606,
     "width": 1205,
     "x": 3524,
     "y": 1303
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,11 +40,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "4023A83D-32F0-44FF-8627-AC947CCD5132"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5998C765-FBA0-4C5B-B639-82DEA7767B05"
     },
     {
       "class": "symbolInstance",
@@ -56,39 +60,27 @@
     },
     {
       "class": "group",
-      "id": "A2CCAA41-1121-46F6-AFE3-BB3F5711E353"
-    },
-    {
-      "class": "group",
       "id": "622A1438-3183-4EC5-BB0A-35F3C002D5D3"
-    },
-    {
-      "class": "group",
-      "id": "97049E20-A57E-48E4-8D8E-A3FC651F14D0"
-    },
-    {
-      "class": "group",
-      "id": "951E1C9B-08FC-4A0D-AE27-62C136057B9E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5998C765-FBA0-4C5B-B639-82DEA7767B05"
     },
     {
       "class": "text",
       "id": "3AD793EC-82A2-4589-A4A5-9136530C4D87"
     },
     {
-      "class": "text",
-      "id": "C7ECB089-33F9-4EF2-A587-79135E1BC994"
+      "class": "group",
+      "id": "A2CCAA41-1121-46F6-AFE3-BB3F5711E353"
     },
     {
       "class": "group",
       "id": "03D36894-5A4D-4975-8DA6-93DEEFC95BC2"
     },
     {
-      "class": "symbolInstance",
-      "id": "40BCE0E8-21D0-4715-B188-63D10893F190"
+      "class": "group",
+      "id": "6E212D55-30D2-4B91-926B-C8DD8B3FE259"
+    },
+    {
+      "class": "group",
+      "id": "FBFCC5CD-93F9-4EBE-8D47-7A2E3802329D"
     }
   ],
   "name": "QI/Plan Design - Product Data Entry - Desktop",

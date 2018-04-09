@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2462,
+    "height": 3063,
     "width": 1140,
-    "x": 30,
+    "x": 35,
     "y": 272
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,10 +32,6 @@
     {
       "class": "group",
       "id": "E5542CF2-5867-4199-9D8A-1D6301E33142"
-    },
-    {
-      "class": "text",
-      "id": "C5C3CBC2-16C6-44A3-8D08-A483DFDA4EE3"
     }
   ],
   "name": "Progress",

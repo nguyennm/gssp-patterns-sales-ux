@@ -23,19 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "09C6A392-8EC6-4435-8681-5E5DC61B5675"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "693EDC76-26CC-4964-BAC6-3BF80FB3262A"
-    },
-    {
-      "class": "text",
-      "id": "4B295C60-5830-4442-B7BA-EA52B395552A"
     },
     {
       "class": "symbolInstance",
@@ -47,6 +39,10 @@
     },
     {
       "class": "shapeGroup",
+      "id": "693EDC76-26CC-4964-BAC6-3BF80FB3262A"
+    },
+    {
+      "class": "shapeGroup",
       "id": "A661C988-F670-4B8A-901E-0B70A0CE2246"
     },
     {
@@ -55,14 +51,18 @@
     },
     {
       "class": "text",
+      "id": "73862F96-4F44-4C14-9C19-585A72499820"
+    },
+    {
+      "class": "text",
       "id": "B81E313F-86D0-4E77-B0CB-6A5D716BF64E"
     },
     {
       "class": "text",
-      "id": "73862F96-4F44-4C14-9C19-585A72499820"
+      "id": "4B295C60-5830-4442-B7BA-EA52B395552A"
     }
   ],
-  "name": "Steps 2-4",
+  "name": "Inactive Steps",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -13,37 +13,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2305,
+    "height": 50,
     "width": 1100,
     "x": 0,
-    "y": 46
+    "y": 2965
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "10529F4A-3A34-4479-BB01-7BDAAC61DD44"
-    },
-    {
-      "class": "text",
-      "id": "D6CA9B1E-2DCD-4889-A05E-9D1F9CCF94CA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DD5F5169-E427-466E-B63C-DC33A972C408"
-    },
-    {
-      "class": "shapeGroup",
       "id": "653DA01D-84BD-4180-8D8F-6216FC8C6333"
-    },
-    {
-      "class": "text",
-      "id": "7834722B-A41F-4FF0-9B9B-47EAE8521BF2"
     },
     {
       "class": "text",
@@ -52,14 +36,6 @@
     {
       "class": "symbolInstance",
       "id": "C41C4A29-BDAF-43A4-A6E9-5A8FD8BC874D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9A2B162E-DFCB-407B-965B-D500DCB143D1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "90A52D72-D069-415A-8E6D-BDE8E177CE08"
     }
   ],
   "name": "Inactive Steps",

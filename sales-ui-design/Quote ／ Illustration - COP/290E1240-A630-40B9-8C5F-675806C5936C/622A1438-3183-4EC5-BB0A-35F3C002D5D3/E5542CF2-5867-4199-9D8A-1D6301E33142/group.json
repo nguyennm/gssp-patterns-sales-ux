@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2351,
+    "height": 3015,
     "width": 1109,
-    "x": 20,
+    "x": 15,
     "y": 18
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -34,8 +34,20 @@
       "id": "10E11D89-70FA-4125-9FFC-337C95A54077"
     },
     {
+      "class": "shapeGroup",
+      "id": "2C0B3CC8-BF0B-484C-8999-B6E4B08C4AA4"
+    },
+    {
       "class": "group",
       "id": "47F824D1-7DC6-4E72-A209-F23BC7A7A1F9"
+    },
+    {
+      "class": "group",
+      "id": "3425FCBB-6B7A-4FDA-ABEE-16814295F66E"
+    },
+    {
+      "class": "text",
+      "id": "7834722B-A41F-4FF0-9B9B-47EAE8521BF2"
     },
     {
       "class": "symbolInstance",
@@ -43,66 +55,10 @@
     },
     {
       "class": "group",
-      "id": "DE06FE9C-E3C2-43BF-8478-5CD8D8423459"
-    },
-    {
-      "class": "group",
-      "id": "461FD8B2-F784-46F3-B182-9EE6C810D305"
-    },
-    {
-      "class": "text",
-      "id": "00892343-C7BC-40AB-9E1D-E741C85F768D"
-    },
-    {
-      "class": "text",
-      "id": "FFB898FB-FBB2-47DA-89B9-CA8A82A8A4A8"
-    },
-    {
-      "class": "group",
-      "id": "4B5E8F30-A48C-49B8-9A31-3B069FBD37EC"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2C0B3CC8-BF0B-484C-8999-B6E4B08C4AA4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F0E0A99A-943A-4762-93FB-7A80E0BF366F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "60F4B95E-2B14-4C55-B697-C0F292E292AA"
-    },
-    {
-      "class": "group",
-      "id": "CE6979AD-CE8D-4E80-87B3-61AC65E68D39"
-    },
-    {
-      "class": "group",
-      "id": "344120B9-1B1C-4687-939E-8DD63A003498"
-    },
-    {
-      "class": "group",
-      "id": "5B536F3E-C6B9-44CC-9E9E-725587C45532"
-    },
-    {
-      "class": "group",
-      "id": "8EEBBCD4-35E0-4BC1-A4FA-E27D2A0451AD"
-    },
-    {
-      "class": "group",
-      "id": "E53966DB-9D06-4186-B5D8-78BB651240DD"
-    },
-    {
-      "class": "group",
-      "id": "2ED1470A-54F0-46CA-8A80-E3669B5BCD24"
-    },
-    {
-      "class": "text",
-      "id": "32F837E4-6E17-409A-9EE3-8E1F15EEFB64"
+      "id": "2AD361CB-727F-4BF5-9EEE-2080F785970C"
     }
   ],
-  "name": "Stepper - Step 3 Active",
+  "name": "Stepper",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

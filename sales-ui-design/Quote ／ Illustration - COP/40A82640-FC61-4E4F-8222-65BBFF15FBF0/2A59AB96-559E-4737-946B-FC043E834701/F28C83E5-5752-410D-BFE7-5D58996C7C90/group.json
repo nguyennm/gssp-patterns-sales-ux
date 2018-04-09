@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -38,27 +38,15 @@
       "id": "B0CDBA59-524D-4815-B844-E6284EB01E13"
     },
     {
-      "class": "symbolInstance",
-      "id": "2EA0FCF6-FD13-4D1E-B07E-5D3D2ABDA506"
-    },
-    {
       "class": "group",
-      "id": "300F397B-E056-4E65-9236-21993986D58A"
-    },
-    {
-      "class": "group",
-      "id": "01495167-76B0-4763-86DD-AA8070A47464"
-    },
-    {
-      "class": "group",
-      "id": "DE425AD3-88FD-49E2-B132-7513CD38C201"
+      "id": "81DCEE50-C158-4552-B0EB-8AB02C69C757"
     },
     {
       "class": "text",
-      "id": "43C7B273-89DE-48FA-8CAD-EE4AFF0DD8E5"
+      "id": "456D1111-293A-410E-98A7-99D2724BED80"
     }
   ],
-  "name": "Stepper - Step 1 Active",
+  "name": "Stepper",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
