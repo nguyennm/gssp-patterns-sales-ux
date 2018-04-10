@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -32,6 +32,14 @@
     {
       "class": "text",
       "id": "5B324181-BF43-4DDF-8C70-BBED59A8BCFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A3EED93-47AF-4DE9-95DD-E46649AC0943"
+    },
+    {
+      "class": "text",
+      "id": "5A076F78-7A53-4EBA-B8CB-27068C4DCA34"
     }
   ],
   "name": "Flip Header",

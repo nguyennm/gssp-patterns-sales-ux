@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "3299FFD9-F974-495F-8FFF-5A7665AD5599",
+  "do_objectID": "68F085BE-64C4-47F6-93A7-8DA1A416D129",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "588AD375-9ECA-456D-8F2A-4AF61463627A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,6 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "054E3FD4-1DEC-4F36-97A1-E3C23B885AE5",
     "height": 40,
     "width": 853,
     "x": 30,
@@ -30,13 +32,14 @@
   ],
   "overrides": {
   },
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4C38737A-F5E6-4C32-9C76-CE9942DA6D50",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

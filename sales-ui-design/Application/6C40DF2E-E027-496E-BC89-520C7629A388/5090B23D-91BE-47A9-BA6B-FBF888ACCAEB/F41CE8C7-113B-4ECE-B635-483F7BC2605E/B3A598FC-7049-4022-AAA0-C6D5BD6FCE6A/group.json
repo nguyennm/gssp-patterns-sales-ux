@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 692,
-    "width": 1044,
-    "x": 39,
+    "height": 1033,
+    "width": 1045,
+    "x": 38,
     "y": 397
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -60,6 +60,10 @@
     {
       "class": "group",
       "id": "1397B11B-2BD8-49F5-8229-EBB8DA51A615"
+    },
+    {
+      "class": "group",
+      "id": "A8804928-5345-4AF7-BC2F-736AD2865A2D"
     }
   ],
   "name": "Group 6",

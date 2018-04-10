@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1089,
+    "height": 1430,
     "width": 1100,
     "x": 20,
     "y": 18
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,6 +52,10 @@
     {
       "class": "group",
       "id": "B3A598FC-7049-4022-AAA0-C6D5BD6FCE6A"
+    },
+    {
+      "class": "group",
+      "id": "EDBB50AE-F511-471B-9FD5-CE819E0ED03B"
     }
   ],
   "name": "Stepper - Step 7 Active",
