@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -445,6 +445,14 @@
     {
       "class": "symbolInstance",
       "id": "F3B41707-3B26-4E07-8CE6-F7F45DBD069A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08865925-A0E4-445F-AAA7-BDBC8FFD4617"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5908D43D-ACFE-431E-AAC0-A943F6CEACD1"
     }
   ],
   "name": "Icons",
