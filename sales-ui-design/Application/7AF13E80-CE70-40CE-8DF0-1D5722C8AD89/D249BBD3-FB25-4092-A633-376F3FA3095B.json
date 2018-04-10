@@ -16,7 +16,7 @@
     "height": 226,
     "width": 774,
     "x": 30,
-    "y": 287
+    "y": 204
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,11 +27,6 @@
   "name": "statics/application-header-banner-expanded",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "3860B3BC-1CDB-40F7-B14C-8674D060AF0C_symbolID",
-      "value": "993BE6A4-22D9-4E84-A674-38DAE86C7FB7"
-    },
     {
       "_class": "overrideValue",
       "do_objectID": "4B354160-F161-4618-AD28-2CEC720E84E6",
@@ -47,9 +42,6 @@
   ],
   "overrides": {
     "28E844C5-215C-47B2-A98E-B9180B5A549F": "Policy Number: COP-000-12345-01",
-    "3860B3BC-1CDB-40F7-B14C-8674D060AF0C": {
-      "symbolID": "993BE6A4-22D9-4E84-A674-38DAE86C7FB7"
-    },
     "F60881A0-F42A-4F51-8E8B-DA539F952E32": "Status: Pending underwriting"
   },
   "resizingConstraint": 63,
