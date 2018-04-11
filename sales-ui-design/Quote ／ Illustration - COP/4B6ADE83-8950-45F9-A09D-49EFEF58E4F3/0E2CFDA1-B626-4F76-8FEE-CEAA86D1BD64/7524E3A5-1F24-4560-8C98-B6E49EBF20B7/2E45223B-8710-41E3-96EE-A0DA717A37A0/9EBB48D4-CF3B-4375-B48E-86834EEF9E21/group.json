@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "9EBB48D4-CF3B-4375-B48E-86834EEF9E21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30,
+    "x": 0,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "863595AF-F29B-487D-8908-87CD388C5E43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6604FC4D-3E9B-4EFE-8EB5-167E1EB717A9"
+    },
+    {
+      "class": "text",
+      "id": "F83DCB3A-2033-4C2D-B813-595E62C7BA47"
+    }
+  ],
+  "name": "Check Oval Large",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

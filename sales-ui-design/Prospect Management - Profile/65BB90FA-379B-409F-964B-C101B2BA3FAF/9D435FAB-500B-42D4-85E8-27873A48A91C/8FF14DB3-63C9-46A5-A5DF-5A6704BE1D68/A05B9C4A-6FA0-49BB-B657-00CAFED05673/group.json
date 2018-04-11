@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "A05B9C4A-6FA0-49BB-B657-00CAFED05673",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0F7D651-CAE0-49B7-B674-4BDC0A9597DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1C55D64-03F6-46CF-BCC7-9BD9AACB8803",
+    "height": 30,
+    "width": 130,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F04758C2-42F1-4547-9D82-5CC3DA3474B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "537D9D51-BC43-487F-9C04-8A8DDD829C2A"
+    },
+    {
+      "class": "group",
+      "id": "7DBE5D66-9BD3-43BF-B26E-DE448D86A35D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F31CCF81-A464-4F34-8108-3D50D69B96FC"
+    }
+  ],
+  "name": "MetLifeLogo Small",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BB50C50-3D33-44A0-A4FC-B9A8A7C5E1A7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

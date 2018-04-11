@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "9FB5D44B-1ECB-4579-AA4F-5EA7ABD06FE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 1172,
+    "x": 16,
+    "y": 1202
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6345DAB9-2FB0-42D2-832C-B4BFF1E19C16"
+    },
+    {
+      "class": "group",
+      "id": "A141844F-62B9-4028-A0B3-EEEF68D0BC4E"
+    },
+    {
+      "class": "text",
+      "id": "AE36AC95-306B-4397-9531-120E6A2E71EB"
+    },
+    {
+      "class": "bitmap",
+      "id": "97DF57BB-D8EE-4CE4-AA41-FD5C53E0725A"
+    },
+    {
+      "class": "group",
+      "id": "FFCA3549-0262-4DF6-AB3C-1D3DB69D0F64"
+    },
+    {
+      "class": "group",
+      "id": "4B1AAD4A-DF48-4123-A540-973D47AD90CD"
+    }
+  ],
+  "name": "Desktop Footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
