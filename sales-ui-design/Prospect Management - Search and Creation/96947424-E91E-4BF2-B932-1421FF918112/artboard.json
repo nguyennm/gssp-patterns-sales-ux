@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -99,8 +99,8 @@
       "id": "75952FAA-582D-42AC-A17B-580DB9DF0177"
     },
     {
-      "class": "group",
-      "id": "C1DCD021-C585-43A8-9F76-CA5CDC72FD62"
+      "class": "symbolInstance",
+      "id": "BE71F342-1A31-4947-B5F5-C4130D68FEB4"
     }
   ],
   "name": "Prospect Created Transition - Tablet",

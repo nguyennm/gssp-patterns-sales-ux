@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0951B8F4-4F5C-4D01-BB9B-1B9E2676DE07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "681CF967-143A-4723-9942-EA1A77F6B62F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC7CAD8E-2961-4024-83A4-EA39588EB19A",
+    "height": 336,
+    "width": 360,
+    "x": 813,
+    "y": 749
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/quick-access-application-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A975380-7777-4CC0-A9DB-23EA10340975_stringValue",
+      "value": "Williams, Philip"
+    }
+  ],
+  "overrides": {
+    "5A975380-7777-4CC0-A9DB-23EA10340975": "Williams, Philip"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D58647B-A6CB-45C6-87A9-6F820AD079BA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "639065CD-EFE7-4A6A-A091-70FFEE61401A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EA90BE4B-4EAF-4A52-B72E-9B437F39F102",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51C1B9D0-2110-4EE6-BBFD-B157F3455D53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73A2BF61-E4B6-43D5-A847-13536E4AACCF",
+    "height": 49,
+    "width": 176,
+    "x": 580,
+    "y": 264
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Top-level-blue",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4295BF3E-E208-4EEE-9D59-AF208F00B68C",
+      "overrideName": "56BC1A71-4AA6-4282-BD9A-0FCEAEAB0429_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD5ED5DD-CA7E-4186-A4A0-7241785321A3",
+      "overrideName": "176B0236-E6CF-4B61-9846-E4EF40186665_stringValue",
+      "value": "Applications"
+    }
+  ],
+  "overrides": {
+    "176B0236-E6CF-4B61-9846-E4EF40186665": "Applications",
+    "56BC1A71-4AA6-4282-BD9A-0FCEAEAB0429": "3"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "101CB04A-7C1C-47CB-93CD-866AA1C7B0E1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "52F87879-63E7-4742-A232-13214DC42EAA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

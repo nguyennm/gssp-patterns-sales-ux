@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "711C92AB-22EA-4BB6-96C4-2FA92FF14FDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56A83FB3-E5A6-4253-88B5-7F4F3107BABE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D7FB1CB-8D6B-45FC-9BEB-53B8D0A316FB",
+    "height": 49,
+    "width": 176,
+    "x": 698,
+    "y": 150
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Homepage",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4ECC3E66-5A2E-4CDD-B7EC-258BAD5A580A_stringValue",
+      "value": "Dashboard"
+    }
+  ],
+  "overrides": {
+    "4ECC3E66-5A2E-4CDD-B7EC-258BAD5A580A": "Dashboard"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3E4104B-BAE6-4C10-B798-496060453005",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4F3D3C95-90AB-4258-8D55-0202B814AA3A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

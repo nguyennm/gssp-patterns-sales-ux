@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "C8A8EA21-C62F-4ECB-B98D-B42410767498",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1076EFE8-235A-4FE3-9599-2C0016F1FBB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "696F50AE-2328-4B1B-A9D4-6D8FCF6D9916",
+    "height": 66,
+    "width": 193,
+    "x": 262,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "090B42CE-3A69-4D9C-96EE-5CE1C60DBA5A"
+    },
+    {
+      "class": "text",
+      "id": "1C4935F6-CB4F-4C4D-8E3F-10EB6F83BDFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE406E8B-1951-4EF2-8A8C-871965062326"
+    }
+  ],
+  "name": "Hub gray",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB5BE2DA-5C10-4158-8932-7E668055F068",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
