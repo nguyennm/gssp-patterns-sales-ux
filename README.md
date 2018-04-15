@@ -1,1 +1,0 @@
-# gssp-patterns-sales-ux
