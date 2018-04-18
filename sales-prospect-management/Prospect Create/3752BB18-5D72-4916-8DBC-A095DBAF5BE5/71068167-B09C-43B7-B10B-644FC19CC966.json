@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "71068167-B09C-43B7-B10B-644FC19CC966",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C685605B-EE48-4ECD-8921-1B572BDF33CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C173F08-2B6E-4FB6-9EBA-6BB263FE2898",
+    "height": 450,
+    "width": 684,
+    "x": 473,
+    "y": 352
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/prospect/search-result-card-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4A32B50-522C-425B-86C6-854337CE3778",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2C69566C-3D79-467C-B49B-C3FAAC980FAE",
+  "verticalSpacing": 0
+}

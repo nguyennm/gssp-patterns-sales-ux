@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "36C4CDCF-C070-48DB-AF48-3CAB79C994DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7A4CBA0-1909-4D4E-AC45-357098B21EAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F3DF642-AFB6-4B5A-9D75-7933C5A09179",
+    "height": 36,
+    "width": 276,
+    "x": 4,
+    "y": 512
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "88F70570-3699-4C89-A6B3-8F6C2B059BE5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76CACEDA-72F5-4D0D-B687-5E89B0E049F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1A35AC4-B7CD-47AA-BAF2-8175EBBAE234"
+    },
+    {
+      "class": "text",
+      "id": "E995BB42-A607-4424-A859-F363E6E94176"
+    },
+    {
+      "class": "text",
+      "id": "C2505B4E-8BE2-420F-8D9E-56A13CCEBEC0"
+    },
+    {
+      "class": "text",
+      "id": "C4B1A469-2405-4612-A124-BF32B648D293"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6EB4EC8A-EBF8-4308-8B13-F6BC94D07370"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB67FBF5-2514-41F6-A354-E9F97DA80A6A"
+    },
+    {
+      "class": "text",
+      "id": "D549A7A6-73A7-488B-9B16-319DF99B2122"
+    },
+    {
+      "class": "text",
+      "id": "7962C698-E2D0-44C4-B4C7-3620352A84D6"
+    },
+    {
+      "class": "group",
+      "id": "98784CFA-C013-4A3D-BC44-C5FB94479ED5"
+    },
+    {
+      "class": "group",
+      "id": "7BD3B1C3-A877-43E5-BF65-ED3819B315B1"
+    }
+  ],
+  "name": "6-...",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E03954C0-6A22-437C-9EB2-0CEF4104896E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

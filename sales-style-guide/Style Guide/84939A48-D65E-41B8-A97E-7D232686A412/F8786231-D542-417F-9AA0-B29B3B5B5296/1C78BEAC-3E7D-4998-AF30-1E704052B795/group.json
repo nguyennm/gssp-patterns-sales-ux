@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "1C78BEAC-3E7D-4998-AF30-1E704052B795",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DABF4E0A-0558-4816-BF0A-6EC86613D654",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2598E91-2418-4F9D-BD01-2B82F3B13A14",
+    "height": 14,
+    "width": 14,
+    "x": 24,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "60738C66-D084-4F77-98E6-6D66FE570515"
+    }
+  ],
+  "name": "Notifications Circle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0751236C-F2EC-4B7D-AF3B-F6C135ABA289",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

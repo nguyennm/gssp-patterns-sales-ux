@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "21810E1A-3566-4FD8-8BE2-F3F0750DD213",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27BD0EF9-8F69-4629-B440-16AEE983A7C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B2F16CC-359B-43B0-9BD3-759D135E9216",
+    "height": 60,
+    "width": 683.0116959064328,
+    "x": 156.9473684210526,
+    "y": 115
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "903FF0B9-72D2-40F9-912A-1EA688E185E2"
+    }
+  ],
+  "name": "Footnotes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC95F68E-A49C-4840-B3FF-A5A52DCA1635",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

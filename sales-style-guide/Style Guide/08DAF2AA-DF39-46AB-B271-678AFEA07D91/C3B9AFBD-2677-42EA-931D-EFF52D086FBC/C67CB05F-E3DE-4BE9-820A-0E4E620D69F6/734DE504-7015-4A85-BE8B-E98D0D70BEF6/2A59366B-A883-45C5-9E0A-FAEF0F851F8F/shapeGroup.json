@@ -1,0 +1,51 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "2A59366B-A883-45C5-9E0A-FAEF0F851F8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A690D87-72D1-4741-A97F-966E22992D8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71012839-AF92-44FF-BE70-E0952AA1F508",
+    "height": 24.91599999999996,
+    "width": 115.9755,
+    "x": 0.978500000000011,
+    "y": 0.9095000000000073
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C53F998F-6A64-471B-AAF9-9F4E4B7B4894"
+    }
+  ],
+  "name": "Clip 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7FDFFF1-C6F9-4214-B6E2-FFE79E663339",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

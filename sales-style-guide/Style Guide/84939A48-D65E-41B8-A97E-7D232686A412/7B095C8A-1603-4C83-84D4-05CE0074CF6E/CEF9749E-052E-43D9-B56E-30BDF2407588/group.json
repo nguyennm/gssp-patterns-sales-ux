@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "CEF9749E-052E-43D9-B56E-30BDF2407588",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69E538B1-03E8-41F2-B515-18DC375007BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCE7BFCC-49CE-4259-A9D6-483E8B7BF516",
+    "height": 53,
+    "width": 987,
+    "x": 70,
+    "y": 372
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4F807185-591F-48F0-B45D-72B2C92CCD0A"
+    },
+    {
+      "class": "text",
+      "id": "80F4EA3F-D297-47DB-85A8-61F85EF1B53B"
+    },
+    {
+      "class": "group",
+      "id": "579C42CE-2690-4744-8108-CB2BC65BC3A9"
+    }
+  ],
+  "name": "Pagination",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69377467-0A0A-497C-830E-EBF16CEA774B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

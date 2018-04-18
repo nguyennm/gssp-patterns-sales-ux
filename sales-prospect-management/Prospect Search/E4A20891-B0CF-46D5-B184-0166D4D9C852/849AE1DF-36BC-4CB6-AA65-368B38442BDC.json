@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "849AE1DF-36BC-4CB6-AA65-368B38442BDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BDBDD08-11A5-44D0-9E7B-3030A32725CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F64B10DF-6D3A-41D4-9B51-31433B6DA89B",
+    "height": 450,
+    "width": 684,
+    "x": 473,
+    "y": 352
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/prospect/search-result-card-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2FE2E8B-6ED8-4E36-9C66-7BC9FA994BF6",
+      "overrideName": "3E1ED762-AB0C-4F4A-B504-F920FFEF1970_stringValue",
+      "value": "Barbard, Philip"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43D40966-2D44-4F6A-98CF-D279C492DC6F",
+      "overrideName": "5FD806E0-C83E-4D86-AF0F-8C34C35A2211_stringValue",
+      "value": "December 25, 1964"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FCC11AA-2501-4C24-B70C-3CDE7298B34B",
+      "overrideName": "B3469CF9-E92B-438B-A510-04EC0E52F854_stringValue",
+      "value": "phil.barb@hotmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B2745D1-691C-4AFE-9FA8-5DCD7EC5F85D",
+      "overrideName": "E0762420-5A21-47E6-87D1-B26D65B41552_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59DC1F19-9FBA-4B81-9318-81A52DBB428E",
+      "overrideName": "62ADD56E-EA19-4727-B5A7-B1D9470D83D8_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "680717DE-4FE8-402C-A677-7A24457CA26C",
+      "overrideName": "7D205C86-84C4-4F36-A202-60538EEAFCFC_stringValue",
+      "value": "1"
+    }
+  ],
+  "overrides": {
+    "3E1ED762-AB0C-4F4A-B504-F920FFEF1970": "Barbard, Philip",
+    "5FD806E0-C83E-4D86-AF0F-8C34C35A2211": "December 25, 1964",
+    "62ADD56E-EA19-4727-B5A7-B1D9470D83D8": "2",
+    "7D205C86-84C4-4F36-A202-60538EEAFCFC": "1",
+    "B3469CF9-E92B-438B-A510-04EC0E52F854": "phil.barb@hotmail.com",
+    "E0762420-5A21-47E6-87D1-B26D65B41552": "1"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFF1D1D8-2FBF-4120-B8B7-0414B6C9CD19",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2C69566C-3D79-467C-B49B-C3FAAC980FAE",
+  "verticalSpacing": 0
+}

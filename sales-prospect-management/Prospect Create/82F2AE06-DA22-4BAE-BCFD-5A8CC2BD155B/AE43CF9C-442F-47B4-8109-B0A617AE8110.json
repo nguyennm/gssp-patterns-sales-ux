@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AE43CF9C-442F-47B4-8109-B0A617AE8110",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54106D0B-F03E-4B63-8C58-94F58596E5E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBD7B860-2699-4C51-A70D-F12A3ADFCF87",
+    "height": 642,
+    "width": 592,
+    "x": 378,
+    "y": 342
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/prospect/search-result-card-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "687B8A74-5CFC-4CD4-BB18-EE0C6296D2D0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C15FF3B4-EB02-410B-8547-43BF76B3070D",
+  "verticalSpacing": 0
+}

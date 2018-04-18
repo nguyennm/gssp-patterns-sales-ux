@@ -1,0 +1,86 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "31FCAF78-61F8-4222-991A-F286ECFCC017",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DBA095A5-24DC-4DBD-9F0A-EC50A8C8A8B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D42F7CCE-21D3-4CDA-BFAA-9E983B687FB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A396B99E-5768-4657-83E3-402D8E35631A",
+    "height": 2250,
+    "width": 2250,
+    "x": 2813,
+    "y": 327
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6A93C866-5532-4508-A6E6-E5845D726CD4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AE2BCDA7-F19E-453D-8E0E-913B134D8805"
+    },
+    {
+      "class": "group",
+      "id": "4F146F19-91F8-4435-8FB3-E755B390FEDF"
+    }
+  ],
+  "name": "Colors",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 2250,
+    "name": "implementation-guide",
+    "offersLandscapeVariant": 0,
+    "width": 2250
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "304CD07C-5485-4F3F-9E18-B070855EC0CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2042E47A-22A7-4BA6-9F9B-2F19B59DC315",
+    "guides": [
+    ]
+  }
+}

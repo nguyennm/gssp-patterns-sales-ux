@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "E1B76227-8996-4E41-A39D-017FA542B18F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71255552-2FF8-466A-85C9-EFD92E7D4D98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FA12699-AA89-4E5F-8904-792B2061FB5F",
+    "height": 637,
+    "width": 299,
+    "x": 715,
+    "y": 337
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F48B930C-EDDD-43DC-8696-67D4023D36D0"
+    },
+    {
+      "class": "group",
+      "id": "34976CBF-D21C-4CEB-87E1-CAFBE317412D"
+    },
+    {
+      "class": "group",
+      "id": "09167E0A-A6B2-4373-986B-B743D22441BE"
+    },
+    {
+      "class": "group",
+      "id": "42B9C416-28AC-4D6D-84F1-3B3D2A6BFF6F"
+    }
+  ],
+  "name": "Application Filter Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49A65C5F-5916-4FFD-8253-B6849A9C9E09",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

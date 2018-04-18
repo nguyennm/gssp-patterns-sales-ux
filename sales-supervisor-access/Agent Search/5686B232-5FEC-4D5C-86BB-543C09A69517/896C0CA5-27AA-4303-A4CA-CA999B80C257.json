@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "896C0CA5-27AA-4303-A4CA-CA999B80C257",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 300,
+    "x": 48,
+    "y": 343
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item-active-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EAD568F-51EE-4C30-8CA6-30EA99C2E63B",
+      "overrideName": "31FCAB04-9959-4EB8-B4FA-0CBFC316F214_symbolID",
+      "value": "54F7EF3B-3AF8-4DC7-A8A8-ACF12EB6951E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "446F2A15-99CD-4342-A118-847AF3C9CADA",
+      "overrideName": "8F7186B9-CC6B-4ACA-8186-1C1696960672_stringValue",
+      "value": "Anderson, John"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD7BDF07-6688-44BD-A0A9-391D610CBD22",
+      "overrideName": "CE78AE0E-E56D-4D3F-8CA1-ABC94E8DC148_stringValue",
+      "value": "janderson@metlife.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "371D0ABA-0D9B-41E2-A82D-B3D24A04A7AE",
+      "overrideName": "B24366DD-FA06-40DE-84C4-0669EDACC533_stringValue",
+      "value": "555-530-5000"
+    }
+  ],
+  "overrides": {
+    "31FCAB04-9959-4EB8-B4FA-0CBFC316F214": {
+      "symbolID": "54F7EF3B-3AF8-4DC7-A8A8-ACF12EB6951E"
+    },
+    "8F7186B9-CC6B-4ACA-8186-1C1696960672": "Anderson, John",
+    "B24366DD-FA06-40DE-84C4-0669EDACC533": "555-530-5000",
+    "CE78AE0E-E56D-4D3F-8CA1-ABC94E8DC148": "janderson@metlife.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "00C6C108-24E0-4FE1-B3F3-7CDAA331E77E",
+  "verticalSpacing": 0
+}

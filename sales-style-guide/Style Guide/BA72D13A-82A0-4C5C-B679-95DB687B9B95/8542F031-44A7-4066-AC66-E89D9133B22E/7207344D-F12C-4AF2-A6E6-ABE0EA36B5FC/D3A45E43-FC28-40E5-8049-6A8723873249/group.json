@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "D3A45E43-FC28-40E5-8049-6A8723873249",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B159417E-636B-40D7-B21F-CFAA8DF18B68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4790814C-F342-423B-BF27-EF10E793AFC6",
+    "height": 103,
+    "width": 235,
+    "x": 22,
+    "y": 84
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A2DE2ED-41DC-477E-B8F2-96AE19DE2607"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A0049B6-C28B-4139-A06D-EC69FE1C3FD5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD388EAF-314C-4237-B37E-4F5014187261"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "126A0F11-5460-474C-BC3B-B4FD52D787E7"
+    }
+  ],
+  "name": "Horizontal Lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "710275BB-137F-47AB-B1C7-83542CFF224C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

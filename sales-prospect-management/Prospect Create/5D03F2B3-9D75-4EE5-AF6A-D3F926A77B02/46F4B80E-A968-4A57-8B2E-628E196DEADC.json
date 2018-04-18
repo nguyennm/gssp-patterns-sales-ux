@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "46F4B80E-A968-4A57-8B2E-628E196DEADC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B72BDB1-2819-4486-9EF4-6743FA74DE1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A762374-6841-4701-B568-75B12FF7E303",
+    "height": 175,
+    "width": 994,
+    "x": 15,
+    "y": 1915
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/footer-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DCB9C34-B6D2-42F3-9603-4E4543A46180",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5C3B5186-3391-498C-9652-D8A97A5C8270",
+  "verticalSpacing": 0
+}

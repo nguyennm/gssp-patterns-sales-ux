@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "51BB3335-0BFD-4DD0-AFB4-4E4D606885CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 400,
+    "x": 48,
+    "y": 608
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item-desktop copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "885EFE93-0AAA-4B49-B4EF-85F1E941B7AC_symbolID",
+      "value": "6BD2A539-F6D3-4286-A3A9-903BFC2C8AA7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4_stringValue",
+      "value": "Costa, Jose"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF40304E-C8CE-4BA1-85B9-95298970EF42_stringValue",
+      "value": "jcosta@metlife.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FEA5120-C38C-4FCE-9946-AD957DBFAAB1_stringValue",
+      "value": "555-530-5000"
+    }
+  ],
+  "overrides": {
+    "3FEA5120-C38C-4FCE-9946-AD957DBFAAB1": "555-530-5000",
+    "885EFE93-0AAA-4B49-B4EF-85F1E941B7AC": {
+      "symbolID": "6BD2A539-F6D3-4286-A3A9-903BFC2C8AA7"
+    },
+    "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4": "Costa, Jose",
+    "DF40304E-C8CE-4BA1-85B9-95298970EF42": "jcosta@metlife.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9DDC6CA8-65A1-43D2-BBEA-E3C5820C648B",
+  "verticalSpacing": 0
+}

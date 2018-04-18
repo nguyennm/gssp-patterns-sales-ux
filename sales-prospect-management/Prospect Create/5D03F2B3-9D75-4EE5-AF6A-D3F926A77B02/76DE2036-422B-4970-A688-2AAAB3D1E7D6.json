@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "76DE2036-422B-4970-A688-2AAAB3D1E7D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6736414-6A19-4E06-BAFD-738C0A3AAC29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BACAE37-32EE-4153-8AC5-388A67E572CB",
+    "height": 52,
+    "width": 1024,
+    "x": 0,
+    "y": 120
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/alert-success-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "107A6A9C-90D1-4F59-B3D1-74434B2AE6FD",
+      "overrideName": "137069D1-396D-4EC8-9B0F-E802032FACA7_stringValue",
+      "value": "Prospect has been successfully created."
+    }
+  ],
+  "overrides": {
+    "137069D1-396D-4EC8-9B0F-E802032FACA7": "Prospect has been successfully created."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC15611F-85E6-4A2F-B056-A4CDFC69F606",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EB41CB85-0A84-4650-9C0E-A1E043DCF747",
+  "verticalSpacing": 0
+}

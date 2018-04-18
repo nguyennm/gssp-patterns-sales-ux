@@ -1,0 +1,103 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CF4BA1F7-2B1D-4877-8D18-68AD77D46550",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DBE8CC8F-2FE2-4889-AC0E-1C2B27853758",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66A20044-6F78-4A3C-8483-2BEEB5791577",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1379FCB-489A-441A-8198-780AF8C6A27C",
+    "height": 1250,
+    "width": 2250,
+    "x": -548,
+    "y": -351
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EB19298E-EBD2-46B0-888B-81BEFA1F12C9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "79B01A8C-088B-4F41-87BD-47D00A6E812B"
+    },
+    {
+      "class": "group",
+      "id": "8F0FC634-2516-478F-A249-84F6EB10018A"
+    },
+    {
+      "class": "group",
+      "id": "AF2628E5-DB32-4D0D-8FB1-D90ECBD6A77A"
+    },
+    {
+      "class": "text",
+      "id": "B8B9CCEE-E147-4949-AB8C-87B9F515699C"
+    },
+    {
+      "class": "text",
+      "id": "AF03F800-AF3D-4C94-A724-B22528248394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6EF23AEA-E270-4B73-9022-46617FE45196"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A37CF967-033A-48AF-A546-9A251DB8FDED"
+    },
+    {
+      "class": "group",
+      "id": "22F44BA8-B64E-4020-9E86-A15BB0E3B8CB"
+    }
+  ],
+  "name": "Composite Treatments - Product List",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "124146B7-9E1C-45BD-B02F-7C08B9B057C2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D905E815-84FA-4B05-ADDC-A45A973293CE",
+    "guides": [
+    ]
+  }
+}

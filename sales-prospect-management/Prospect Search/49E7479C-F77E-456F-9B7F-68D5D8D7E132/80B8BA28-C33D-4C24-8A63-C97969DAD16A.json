@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "80B8BA28-C33D-4C24-8A63-C97969DAD16A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 400,
+    "x": 48,
+    "y": 777
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46818D49-6FD5-4201-99D6-9554A2AF9AFB",
+      "overrideName": "DF40304E-C8CE-4BA1-85B9-95298970EF42_stringValue",
+      "value": "crh@me.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F75694B-37AB-4CEE-BCD1-77BA50898EC1",
+      "overrideName": "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4_stringValue",
+      "value": "Clarke, Ruth Hessin"
+    }
+  ],
+  "overrides": {
+    "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4": "Clarke, Ruth Hessin",
+    "DF40304E-C8CE-4BA1-85B9-95298970EF42": "crh@me.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E83EB273-BD70-4F38-907A-F92C79E76758",
+  "verticalSpacing": 0
+}

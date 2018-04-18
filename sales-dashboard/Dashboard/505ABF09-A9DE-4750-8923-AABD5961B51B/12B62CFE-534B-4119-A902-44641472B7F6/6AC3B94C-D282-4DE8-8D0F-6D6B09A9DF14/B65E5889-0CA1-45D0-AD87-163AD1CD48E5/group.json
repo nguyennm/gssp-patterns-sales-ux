@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B65E5889-0CA1-45D0-AD87-163AD1CD48E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78004374-DE98-4BD0-B908-ECA80AF017E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "134C7829-74CF-4E93-BD39-139E15382FBB",
+    "height": 50,
+    "width": 288,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5D82E38B-CC1C-415B-BE4E-E776BA212906"
+    },
+    {
+      "class": "text",
+      "id": "DCD47F68-3F79-4FD0-AD45-E62839BDB9C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A43AFDB-D383-4664-8FF5-C49B46A115BB"
+    }
+  ],
+  "name": "Absence View",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09AE63DF-A1FF-4886-9F4A-448916A1A603",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

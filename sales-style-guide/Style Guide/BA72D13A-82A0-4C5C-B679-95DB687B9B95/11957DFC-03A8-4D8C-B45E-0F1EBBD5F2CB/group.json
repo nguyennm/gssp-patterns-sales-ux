@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "11957DFC-03A8-4D8C-B45E-0F1EBBD5F2CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB99651B-0018-4614-B090-0FADDD054288",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB7AEF4E-2412-4E8E-A231-19112A67AFE5",
+    "height": 386,
+    "width": 287,
+    "x": 1455,
+    "y": 1515
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2508A55-4075-44AD-AE22-6A73A886EED5"
+    },
+    {
+      "class": "text",
+      "id": "35CC946B-DAE0-41E1-B003-430734CBF8C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF3DF197-DEA0-4A06-8B22-169481057615"
+    },
+    {
+      "class": "text",
+      "id": "F9BAB430-DC94-405A-B758-54AFBBAD05F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EEFC792-BB1E-4205-9050-0EECBE5FE271"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64137DDA-D07B-4064-ACDF-89DB6B968747"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E52B925-EFAC-4885-9746-95D2E37ADDD1"
+    },
+    {
+      "class": "group",
+      "id": "C85C525C-C9E9-442B-9505-DDF3C581355B"
+    },
+    {
+      "class": "group",
+      "id": "51A3CAAA-B78F-4ADA-832E-A6844889E1A1"
+    }
+  ],
+  "name": "Calendar Picker Years",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "195C2F5B-CDC6-49BF-98A1-35067AAC4C73",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

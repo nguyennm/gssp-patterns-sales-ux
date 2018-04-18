@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F8B8D5D3-0033-4DC4-830B-0F2C116BAB7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E345079B-9EED-493E-8EB3-E5BDF31EBAA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "703E25AB-1B83-48A4-8AAC-7295D08BB57D",
+    "height": 85,
+    "width": 300,
+    "x": 48,
+    "y": 342
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item-active-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F2FB40C-9423-4AF6-B023-EF4A3B27F660",
+      "overrideName": "31FCAB04-9959-4EB8-B4FA-0CBFC316F214_symbolID",
+      "value": "2F7C6F52-3E4F-4D60-97C3-4A0CD7C0C5E4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E32B257-8431-4314-A62B-4EE57B0320A1",
+      "overrideName": "8F7186B9-CC6B-4ACA-8186-1C1696960672_stringValue",
+      "value": "Barbard, Philip"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DC6301E-BDA7-4DE1-BA17-B272B0B6FA02",
+      "overrideName": "CE78AE0E-E56D-4D3F-8CA1-ABC94E8DC148_stringValue",
+      "value": "phil.barb@hotmail.com"
+    }
+  ],
+  "overrides": {
+    "31FCAB04-9959-4EB8-B4FA-0CBFC316F214": {
+      "symbolID": "2F7C6F52-3E4F-4D60-97C3-4A0CD7C0C5E4"
+    },
+    "8F7186B9-CC6B-4ACA-8186-1C1696960672": "Barbard, Philip",
+    "CE78AE0E-E56D-4D3F-8CA1-ABC94E8DC148": "phil.barb@hotmail.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "233EA9D1-74E7-417A-86F4-A9E45109197C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6019A173-BA10-44AE-8B4B-50CD1537734D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CA716AAE-C809-4D2E-8630-5E66AFE96E1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 302,
+    "x": 30,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/breadcrumb/two-levels",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86E829FD-1A3C-4A42-A824-EA92CB1EEBDD",
+      "overrideName": "5A77370D-2F98-4FC3-8A4E-09EFE25FEC2C_stringValue",
+      "value": "Agents"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB3E37B7-E451-4BDA-8939-737AE6D6245D",
+      "overrideName": "251EE47B-1F21-4AA6-9910-969623102777_stringValue",
+      "value": "Bell, Shawna"
+    }
+  ],
+  "overrides": {
+    "251EE47B-1F21-4AA6-9910-969623102777": "Bell, Shawna",
+    "5A77370D-2F98-4FC3-8A4E-09EFE25FEC2C": "Agents"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5ED1D20F-7191-4E7D-A9C0-A4BE3C785DC2",
+  "verticalSpacing": 0
+}

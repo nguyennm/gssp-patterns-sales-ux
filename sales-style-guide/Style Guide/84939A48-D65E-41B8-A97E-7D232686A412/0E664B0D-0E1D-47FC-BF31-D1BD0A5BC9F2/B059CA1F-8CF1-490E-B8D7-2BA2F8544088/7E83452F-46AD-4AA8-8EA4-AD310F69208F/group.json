@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "7E83452F-46AD-4AA8-8EA4-AD310F69208F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5A7FE4F-9061-4D0A-BC05-F9140CAB5752",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5443353C-46AA-4867-A3E2-83DA488B5469",
+    "height": 21,
+    "width": 84.28654970760232,
+    "x": 456.3099415204678,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4FFD1FA4-0B95-4A18-BC67-AC7BAB099285"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C314A7B7-FCC2-4173-8A26-0560EF5AAAA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53204EF7-D5BC-4095-B6EB-D21DF64E57F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C30CF3F-591F-4302-85A9-B6675CDA0B99"
+    }
+  ],
+  "name": "MetlifeLogo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED3EB5E5-84C0-4A82-9C9E-2084B6AB6B05",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

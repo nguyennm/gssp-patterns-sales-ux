@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "A8C0522D-3C2A-43FC-A376-381CB35C6C54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B93F91BB-964F-412A-AF6D-B8FD86DD36B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05841E6F-364A-404F-89CE-231216988FA3",
+    "height": 69,
+    "width": 250,
+    "x": 1472,
+    "y": 1296
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7D11AEED-41FE-46D8-A3EA-554267009DE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5776FFE6-2E3E-478A-8F3C-0EFE0EC3B99B"
+    },
+    {
+      "class": "text",
+      "id": "3A5EC7B3-C33E-4655-8905-06AB709F5D4B"
+    },
+    {
+      "class": "text",
+      "id": "10DB5DC0-EE73-48E6-92A1-6152EF19E7BF"
+    },
+    {
+      "class": "text",
+      "id": "708F0E68-4BF9-4B27-8531-A658E7231E45"
+    }
+  ],
+  "name": "Phone Field Filled Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE9755E3-BD81-4F59-BB69-A33C663D8AAA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CEEA18C8-B5E7-4722-80B1-D45FA5E80F2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FA5231F-91F4-4426-A3AB-6B3FAB5F75A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F759361-0CD4-495E-9C06-0C67A63F9829",
+    "height": 128,
+    "width": 424.0000000000001,
+    "x": 48,
+    "y": 205
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/prospect-profile-banner-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D640F240-5568-46F3-A407-CA9667568D80",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "162F9E70-DFBD-4F51-B3F7-AC98BD096C05",
+  "verticalSpacing": 0
+}

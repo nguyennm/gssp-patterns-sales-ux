@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F70E89D1-AA1A-4EE0-89C2-5438FBA3AA89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 300,
+    "x": 48,
+    "y": 512
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item-tablet copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E355E729-8D7A-4FB6-9752-D6EE1C5BCE02_stringValue",
+      "value": "Barbour, Philip"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0A69CE59-0AFD-41FB-A305-6FE72C8B0BAC_stringValue",
+      "value": "phil.barb@hotmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BB5FFCD-AB69-469A-917E-2BD2D8F46A4D",
+      "overrideName": "CD6E67BA-4E5A-4C3C-8E93-CBF459F243CC_symbolID",
+      "value": "99BACE50-4664-4467-BE6B-A864D24F20AD"
+    }
+  ],
+  "overrides": {
+    "0A69CE59-0AFD-41FB-A305-6FE72C8B0BAC": "phil.barb@hotmail.com",
+    "CD6E67BA-4E5A-4C3C-8E93-CBF459F243CC": {
+      "symbolID": "99BACE50-4664-4467-BE6B-A864D24F20AD"
+    },
+    "E355E729-8D7A-4FB6-9752-D6EE1C5BCE02": "Barbour, Philip"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A7B49600-4926-4FEB-86B1-5177DFC3D2CE",
+  "verticalSpacing": 0
+}

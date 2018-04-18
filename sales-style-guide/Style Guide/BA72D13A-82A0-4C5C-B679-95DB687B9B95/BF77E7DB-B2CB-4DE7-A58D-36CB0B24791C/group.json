@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "BF77E7DB-B2CB-4DE7-A58D-36CB0B24791C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47AFD794-1357-4F01-826B-DEB4934F9936",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CEDE8DA6-9792-4495-9B7C-883CC7FC901F",
+    "height": 40,
+    "width": 141,
+    "x": 1849,
+    "y": 1474
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "732AA134-A5D4-4E1A-8BDA-7941D2990FD4"
+    },
+    {
+      "class": "text",
+      "id": "39CC46BF-3B7F-426A-AD8A-55F0D44929AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F149F9E-98BD-451A-9561-620F6D32975D"
+    }
+  ],
+  "name": "Date of Birth Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F49A45E3-EA24-4168-8536-3E0E61420CC5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

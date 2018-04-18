@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "969FDB19-1552-46B5-BEE7-A6D3C773880E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0D10531-9339-4DB0-8B65-6B12856053F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DFFB20F-9183-4CAA-814D-B154FB650CD5",
+    "height": 168,
+    "width": 237,
+    "x": 27,
+    "y": 121
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F4994D0E-B230-43A7-90DD-3EFBE106BFCA"
+    },
+    {
+      "class": "text",
+      "id": "7BCB91FE-1AB2-407C-8009-96D95AD117A7"
+    },
+    {
+      "class": "text",
+      "id": "7C31FBE0-D56B-47B1-900E-3CFFA45FD4FF"
+    },
+    {
+      "class": "text",
+      "id": "E58629E6-1504-4BFE-9F86-04664D818F4F"
+    },
+    {
+      "class": "text",
+      "id": "52DB9A19-66CD-4E9B-AF48-28DAEACA0C4C"
+    },
+    {
+      "class": "text",
+      "id": "06B2D3FD-C652-4E0F-BEC0-68EE5B7F7F37"
+    },
+    {
+      "class": "text",
+      "id": "EFD21469-FE6C-4A18-AFAB-0F817497BD12"
+    },
+    {
+      "class": "text",
+      "id": "8495F1E1-53E1-41CF-8100-C9B4E8335E0C"
+    },
+    {
+      "class": "text",
+      "id": "879578E6-2034-4886-B505-1D073538D864"
+    },
+    {
+      "class": "text",
+      "id": "879CDF20-1588-4875-9D83-D14AA7EA128A"
+    },
+    {
+      "class": "text",
+      "id": "1A0237BC-85DB-41D1-8F62-70966BB5606B"
+    },
+    {
+      "class": "text",
+      "id": "E636FE38-A549-4A88-84C7-030F8848380E"
+    }
+  ],
+  "name": "Years Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17892953-D516-46BC-B84D-41D6F8388E40",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

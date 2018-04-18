@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "150242C5-7517-4B15-BFA3-E2CA5A707CAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AE295F9-114A-4604-BA0C-D19EDDAFB762",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A807ACCF-83BF-4123-9D29-567A223181D7",
+    "height": 273,
+    "width": 290,
+    "x": 0,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A9FFC725-CF4A-4958-81BC-D0C4939A3229"
+    },
+    {
+      "class": "group",
+      "id": "D18CA55A-AF88-483F-8DF3-6115E23E6D57"
+    },
+    {
+      "class": "text",
+      "id": "56057560-F4C9-4E4C-B9FF-F034A369A7EA"
+    },
+    {
+      "class": "text",
+      "id": "3C2286F4-BE93-44ED-880B-FB8B998B34B1"
+    }
+  ],
+  "name": "data sync online flyout copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF3AA92B-30FD-470E-B555-F4A75B67CB3B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

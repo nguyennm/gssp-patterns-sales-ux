@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "309BDA9A-101C-45CB-A914-B33A68954BEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C7C90DB-B5FF-409A-A6B0-1E705DDF4CE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C611846-5786-4706-AE54-384D24D29CE3",
+    "height": 300,
+    "width": 540,
+    "x": 618,
+    "y": 366
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/prospect/notes-card-readonly-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F857947-C5EC-4419-9988-FED10672BDF7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DFF44E54-56C8-4A80-88F3-9F817573AF55",
+  "verticalSpacing": 0
+}

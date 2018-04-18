@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7D63C0BA-3D6F-4EF4-B63F-C4299DA0C77B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 400,
+    "x": 48,
+    "y": 607
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3758996B-DDA0-4D87-8E3C-934D13FE09AB",
+      "overrideName": "DF40304E-C8CE-4BA1-85B9-95298970EF42_stringValue",
+      "value": "josey.bradley@mail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC730CEF-7C1D-438B-B5CC-38248C0400D1",
+      "overrideName": "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4_stringValue",
+      "value": "Bradley, Josephine"
+    }
+  ],
+  "overrides": {
+    "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4": "Bradley, Josephine",
+    "DF40304E-C8CE-4BA1-85B9-95298970EF42": "josey.bradley@mail.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E83EB273-BD70-4F38-907A-F92C79E76758",
+  "verticalSpacing": 0
+}
