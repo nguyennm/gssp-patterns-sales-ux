@@ -25,43 +25,27 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "9DD55C1D-CCAA-4E5F-B95E-C5DA61917E53"
+      "class": "symbolInstance",
+      "id": "85F8FD08-8541-4DB4-806B-5247D3D02ACD"
     },
     {
-      "class": "shapeGroup",
-      "id": "1EA6D6B4-EED0-4358-8EB8-C8DA78449872"
+      "class": "symbolInstance",
+      "id": "A7DDF1E3-0159-4597-8890-EF26E92EC704"
     },
     {
-      "class": "shapeGroup",
-      "id": "1E577FB3-59D4-44FA-993C-223A16D3F50F"
+      "class": "symbolInstance",
+      "id": "1A9C057F-81FC-4A08-B191-F0E2AC14A6EF"
     },
     {
-      "class": "shapeGroup",
-      "id": "D8CA056A-C31C-43F4-9B83-DE8260F0D3F1"
+      "class": "symbolInstance",
+      "id": "1BB604A1-6C00-4AC5-9ED5-710893A49672"
     },
     {
-      "class": "text",
-      "id": "1EB452B3-39DD-4FE2-BA94-BA5707428A25"
-    },
-    {
-      "class": "text",
-      "id": "DD4C5976-B3B7-4885-B6F6-6B135EE74EFC"
-    },
-    {
-      "class": "text",
-      "id": "01F12ED8-40A2-4EAD-8D0C-ECCA99E89EBF"
-    },
-    {
-      "class": "text",
-      "id": "B03F4F18-E4C7-4792-8080-30B2E96C3145"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2A0097B0-BCBA-4E75-98D0-325DA0CE0691"
+      "class": "symbolInstance",
+      "id": "4D2A1119-FD88-4FDA-883E-CD42B7612F8D"
     }
   ],
   "name": "Tab Bar",

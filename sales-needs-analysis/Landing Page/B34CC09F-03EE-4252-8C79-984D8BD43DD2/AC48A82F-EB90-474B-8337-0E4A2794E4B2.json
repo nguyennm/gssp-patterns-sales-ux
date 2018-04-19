@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AC48A82F-EB90-474B-8337-0E4A2794E4B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B41862F-C808-4090-8908-0B83F8558069",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B50905CB-EBB7-4EFF-9336-2EC7D4E70195",
+    "height": 340,
+    "width": 440,
+    "x": 57,
+    "y": 248
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/na/generic-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28FE4F28-D039-46E2-B895-32BF5B4469D8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1C648384-2CC5-47B7-950E-A3748A294C83",
+  "verticalSpacing": 0
+}

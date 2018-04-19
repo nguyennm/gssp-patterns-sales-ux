@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "E62CBCA0-AAA9-4478-8530-C177A32279EB",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "3A2C5A11-B925-4A75-A13F-04D485050CB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "334BDDEC-D0AA-4367-A6FF-364BC77DC443",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00E70EEE-7475-4886-8D63-37EE540213B8",
+    "height": 1605,
+    "width": 1205,
+    "x": -2872,
+    "y": -2369
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7A4D57B1-0B7D-49F6-ACA6-D8B1BA2CA0EA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65F7E45A-7141-40A1-8B35-8C387D70D8B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3570E888-00CA-40FC-B8A1-3A40B149B842"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61FCC903-A5F7-4549-9E71-CD8F568529F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "064DE461-04B8-4D24-A13B-5834BF0B6624"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45027909-30A5-4847-996F-B1E7263179FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72EE20E3-DA8B-4C75-874F-A892F85F084C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AD892CE-8728-4841-BBBB-C24583BC4213"
+    },
+    {
+      "class": "text",
+      "id": "0BE0D72E-8828-40F0-A85A-784AC20D99E0"
+    },
+    {
+      "class": "group",
+      "id": "96A2EF15-AAF2-4072-A9A2-374F93A1AA3F"
+    },
+    {
+      "class": "group",
+      "id": "79826661-65F2-4D68-BD18-E503C9D587A1"
+    }
+  ],
+  "name": "NA-Generic/Fact Finding - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F83D4058-27DD-4651-BD49-3A0DB8A5C7DB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2DEB1859-AD93-4221-B49C-F63B5B960B67",
+    "guides": [
+    ]
+  }
+}

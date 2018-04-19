@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "43421D47-6DE1-4D83-97FE-2289F04FE3D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFAE1464-E3EF-434C-AF52-5BBF9A353ECD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1427023D-B6DD-445B-AA7F-DD03086D9424",
+    "height": 34,
+    "width": 40,
+    "x": 225,
+    "y": 7
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/tab-caret-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A221CFEC-1EEC-4282-98A3-4F618A6554D1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "79E9C7CC-7E9D-4407-AA2F-6110389E9C5D",
+  "verticalSpacing": 0
+}

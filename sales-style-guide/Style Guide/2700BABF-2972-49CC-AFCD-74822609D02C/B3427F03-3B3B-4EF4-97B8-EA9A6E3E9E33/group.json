@@ -33,83 +33,39 @@
     },
     {
       "class": "symbolInstance",
-      "id": "78B939E7-8E0B-4F74-A2AC-7A2F3BDEACF6"
+      "id": "A77BB051-973D-4664-84DE-231C84E2CBA1"
     },
     {
       "class": "symbolInstance",
-      "id": "4B4C4C96-8ABE-49A1-8838-F272E23DAAA2"
-    },
-    {
-      "class": "text",
-      "id": "71FA95B8-45A7-4507-9BAD-B1D29C1B9FAA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B800DF46-5F18-4BE1-A3B4-44AE94E2EFBB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EF94D4F7-2739-482D-B7CE-E7FA8F782FD1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3BE149E4-C7C0-43C1-BA53-340E2B5B0834"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DA53CE61-705C-4603-A8DD-ED0F6CA70A0C"
-    },
-    {
-      "class": "text",
-      "id": "A79C6660-3796-464E-BDFC-2CFF11FA0DD9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "57DE7F68-D65D-4826-8586-1D8FC2D97F37"
-    },
-    {
-      "class": "text",
-      "id": "22F22BA2-81F8-4CA1-BBC8-B502B4EDFE5B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "976A10D3-3E98-4848-89CC-7EACEC3A0D1E"
+      "id": "DEAE6697-2F5B-4D6C-90DB-69DA832FE655"
     },
     {
       "class": "symbolInstance",
-      "id": "2706459C-C9B1-4E08-9376-297BB9399C82"
+      "id": "A2EEA021-B4BB-422A-ACAF-4659EA6733CB"
     },
     {
       "class": "symbolInstance",
-      "id": "1811D75A-3F35-4212-975F-317CB8CAB5A7"
+      "id": "3F880FDD-A299-442E-88F4-EE5DBAE0AFE9"
     },
     {
-      "class": "text",
-      "id": "54D2E84B-936F-4528-9412-28F488B73227"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1037F6C5-C5C5-4AC0-99BA-2DF133375498"
-    },
-    {
-      "class": "text",
-      "id": "456FAF1F-9760-4C0B-9793-F1D88C4EBBF0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DC4F8F7F-6EEC-4629-9B51-860209D5A309"
-    },
-    {
-      "class": "text",
-      "id": "8DC3FE61-39D7-4B28-8509-8EA824500AAE"
+      "class": "group",
+      "id": "BE79C1F3-75C7-48E9-BFE6-2FE1287BDFD5"
     },
     {
       "class": "text",
       "id": "74907E8E-888D-40ED-8571-23619619F0B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAF45C6E-43E4-47DA-887A-F68B79DF3618"
+    },
+    {
+      "class": "group",
+      "id": "F05AE3AD-CEA5-4BB0-B42B-E7E6D682C709"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "Progress Stepper",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

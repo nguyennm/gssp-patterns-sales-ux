@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D153F46D-C6EB-49DC-8C69-27DCEBA61003",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7761BEA-4FDB-4DBB-BD1A-EEE1A2B21082",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCE952A9-1A11-42E0-8FE3-EEF83BA10296",
+    "height": 45,
+    "width": 190,
+    "x": 31,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/tab-active-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85A0EF57-45B5-48A0-9529-97B0F9C70D35",
+      "overrideName": "FEBB8258-6AF1-4ED0-BBD6-B5B65754FEA4_stringValue",
+      "value": "ACCIDENT & HEALTH"
+    }
+  ],
+  "overrides": {
+    "FEBB8258-6AF1-4ED0-BBD6-B5B65754FEA4": "ACCIDENT & HEALTH"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBEF29B0-6676-4CAE-8A5B-D7B73D031915",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "850B9B9C-8FC3-46B0-B5B8-ACF2F2B89B4E",
+  "verticalSpacing": 0
+}

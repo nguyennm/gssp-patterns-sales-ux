@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DF66214D-9968-4124-9128-6B18EB113557",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 76.5,
+    "x": 1355.4,
+    "y": 1247
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/sub/tab-inactive-v1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "093C0CD6-B313-43C3-BDE3-C79633E2DD7A",
+      "overrideName": "1AACBC70-19CE-4DD2-A956-A56C52A4AA1E_stringValue",
+      "value": "Pro Invest"
+    }
+  ],
+  "overrides": {
+    "1AACBC70-19CE-4DD2-A956-A56C52A4AA1E": "Pro Invest"
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CE1EA9F3-F01F-44FB-98F7-6B5A94A2F23D",
+  "verticalSpacing": 0
+}

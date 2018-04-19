@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A8727BEC-18EA-4937-9AD1-72277CC7BEFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29B25499-207C-4F5E-9581-24C35A51DDEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94E24F96-6B3C-4D7D-ADA9-69ADCFE7BAC0",
+    "height": 95,
+    "width": 515,
+    "x": 0,
+    "y": 212
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/typeahead-selected-pill",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FDB278D-951E-4E8E-88D0-777C29C83A0D",
+      "overrideName": "AA1C0B69-4F2F-4301-A1B2-169962A32F19_stringValue",
+      "value": "amy.chase@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72EAB6B0-8B46-4082-96DA-935122782C58",
+      "overrideName": "1E669C01-495D-4DC8-B4FF-4AFAB9F37888_stringValue",
+      "value": "Chase, Amy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A9B5941-C661-4D90-9022-765938918F9C",
+      "overrideName": "9ECD9BF2-DDCF-487D-9F3B-57A1D428BED2_stringValue",
+      "value": "(919) 907-4000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5D0865B-50F1-4656-849C-5DD58C6CFB8F",
+      "overrideName": "A8673A4B-A8F9-497B-BBB4-D6BF7BB86758_symbolID",
+      "value": "BA527E42-A7C7-4A6A-B786-0A95115124BE"
+    }
+  ],
+  "overrides": {
+    "1E669C01-495D-4DC8-B4FF-4AFAB9F37888": "Chase, Amy",
+    "9ECD9BF2-DDCF-487D-9F3B-57A1D428BED2": "(919) 907-4000",
+    "A8673A4B-A8F9-497B-BBB4-D6BF7BB86758": {
+      "symbolID": "BA527E42-A7C7-4A6A-B786-0A95115124BE"
+    },
+    "AA1C0B69-4F2F-4301-A1B2-169962A32F19": "amy.chase@gmail.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E92C3519-7D88-4D64-BAEB-40930F521CE0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "71F1920A-66CB-490E-8F70-ABBAECFB7E63",
+  "verticalSpacing": 0
+}

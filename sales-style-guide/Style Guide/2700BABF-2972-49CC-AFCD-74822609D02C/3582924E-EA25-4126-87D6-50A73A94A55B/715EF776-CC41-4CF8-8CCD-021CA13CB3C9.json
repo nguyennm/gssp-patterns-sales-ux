@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "715EF776-CC41-4CF8-8CCD-021CA13CB3C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F44E0FC7-AAAF-4419-A8F6-1636ABB444DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F5315E9-570A-4B84-889B-712EB302CD5E",
+    "height": 45,
+    "width": 190,
+    "x": 31,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/tab-active-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F2BDAA1-45B3-466B-8028-DB0347D15033",
+      "overrideName": "FEBB8258-6AF1-4ED0-BBD6-B5B65754FEA4_stringValue",
+      "value": "UNIVERSAL LIFE"
+    }
+  ],
+  "overrides": {
+    "FEBB8258-6AF1-4ED0-BBD6-B5B65754FEA4": "UNIVERSAL LIFE"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "479D629C-35F9-4C1B-A731-B6F64552C7F5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "850B9B9C-8FC3-46B0-B5B8-ACF2F2B89B4E",
+  "verticalSpacing": 0
+}

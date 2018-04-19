@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1A9C057F-81FC-4A08-B191-F0E2AC14A6EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35.70000076293945,
+    "width": 215,
+    "x": 461,
+    "y": 14
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/tab-inactive",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5B869A0-333F-4D00-A9F3-F3F9FE810AB7",
+      "overrideName": "ACF24A73-FBF2-4EFB-AC7F-9937C8160CD1_stringValue",
+      "value": "UNIVERSAL LIFE"
+    }
+  ],
+  "overrides": {
+    "ACF24A73-FBF2-4EFB-AC7F-9937C8160CD1": "UNIVERSAL LIFE"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FF562A4F-AB8E-4C91-869E-63EEFB20FA45",
+  "verticalSpacing": 0
+}
