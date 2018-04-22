@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "86977520-A43A-4D29-A4BA-D5FB69C23F76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BC25C7B-36EC-44AD-829F-DB29502FFB0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "534DC51B-ECC7-4F6F-B64C-CA09A45080D2",
+    "height": 542,
+    "width": 540,
+    "x": 840,
+    "y": 67
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "78864659-50D2-47E8-8F9F-AF179F340446"
+    },
+    {
+      "class": "text",
+      "id": "4CF1EDE3-8644-4B2C-B21D-4AC2CA81139F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A1B38DE-D875-4D70-9B39-AF52F05C915C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCEF3CC5-6B09-4BAC-9CEF-6320A5C1AFFD"
+    },
+    {
+      "class": "text",
+      "id": "51746AC3-21AF-494F-B7CF-DDDB3BBC6C28"
+    },
+    {
+      "class": "group",
+      "id": "F6354F88-B39B-4650-8C90-1F957BA0635D"
+    },
+    {
+      "class": "text",
+      "id": "CAC36C74-709F-4798-A8DF-37931D848389"
+    },
+    {
+      "class": "group",
+      "id": "3138FB75-9D51-43E9-81DA-DA2B7B1542D3"
+    }
+  ],
+  "name": "Small Card Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39E98651-88C4-44B9-83A4-D4BFAAE573A1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

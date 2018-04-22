@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F13CAD72-E0F6-41E0-BE55-DB76A914E351",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "625DA2BC-7A85-4BD2-BC97-477ACBB321D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3E68ECD2-7409-4D88-A48B-46504770A2BC",
+    "height": 64,
+    "width": 64,
+    "x": 23,
+    "y": 16
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/female-avatar-large",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "205535AE-1D78-41A0-87A5-380B2B455ED1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D157141-A9F5-4D10-B43E-A7B035C66ECC",
+  "verticalSpacing": 0
+}

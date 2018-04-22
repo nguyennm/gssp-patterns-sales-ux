@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "508F4CFA-73CB-4117-ADF8-153E07474A04",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "9B01287F-2A37-4B03-8893-11681647E1BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DEF873E-36B1-4BFB-B99B-A6AC100997DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFE08492-8C77-4006-9221-723CF4599381",
+    "height": 3606,
+    "width": 1205,
+    "x": 10616,
+    "y": -4484
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "709F221F-CED1-4F45-B25B-934B40F7A359",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "838853DB-155F-4C41-95F1-C31DA7F5E229"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DA01667-2BC8-40AD-AAC5-440BF47AD4CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "164A6CF8-2AD2-4756-B74C-341CCCF443D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ABEA881-E5CF-4F64-A565-4D5BD168339B"
+    },
+    {
+      "class": "text",
+      "id": "46BDF7C8-A0CE-47E5-A522-6036ADEEF33F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23779345-45F8-482F-8D83-D5C9C6C3AA25"
+    },
+    {
+      "class": "group",
+      "id": "8CE9DD7A-6ACA-403F-BE77-FEC3492A0C05"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFAA4383-E770-413D-96CC-911E6D18DB9D"
+    },
+    {
+      "class": "group",
+      "id": "6E0A3C65-A039-4A20-A9B0-8BC33F83AF3C"
+    },
+    {
+      "class": "group",
+      "id": "5570072A-AAAF-4B36-98FE-3AD75E6D52FA"
+    },
+    {
+      "class": "group",
+      "id": "4389B418-8139-4E44-84A9-D3D3AADC371A"
+    }
+  ],
+  "name": "QI/Plan Design - Product Data Entry - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89E2A3A4-95E6-4DB0-A503-547D81637C2B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7DD5BAC8-0657-4502-9905-69CC0F3BBA42",
+    "guides": [
+    ]
+  }
+}

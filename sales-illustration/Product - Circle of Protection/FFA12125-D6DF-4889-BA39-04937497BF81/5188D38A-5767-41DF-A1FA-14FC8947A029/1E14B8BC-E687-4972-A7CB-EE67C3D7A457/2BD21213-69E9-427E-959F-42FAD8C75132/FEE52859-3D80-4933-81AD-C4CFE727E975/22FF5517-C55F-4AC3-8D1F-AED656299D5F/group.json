@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "22FF5517-C55F-4AC3-8D1F-AED656299D5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3918F7C-95A6-443E-89D0-635A4AAD0171",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AD00A83-FEAD-4C6A-B706-B18C7044177F",
+    "height": 363,
+    "width": 720,
+    "x": 0,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9A05660F-67D8-4FA4-8D7F-37B9F123D416"
+    },
+    {
+      "class": "group",
+      "id": "61EE3AC6-DFBB-4E75-8001-C3862F15FA5F"
+    },
+    {
+      "class": "group",
+      "id": "69B62CC0-41E4-421A-938F-E5CFB606CFB5"
+    },
+    {
+      "class": "group",
+      "id": "1F2F08D6-E692-4017-80C1-3EB2A1B514F6"
+    },
+    {
+      "class": "text",
+      "id": "BB307950-06AE-4E80-9D04-26713022DB76"
+    },
+    {
+      "class": "group",
+      "id": "E6F13762-B6B6-427A-9DFD-F9226C9F9228"
+    },
+    {
+      "class": "group",
+      "id": "BA9CE9EF-FDA2-4C75-88FC-C7919F35495E"
+    },
+    {
+      "class": "group",
+      "id": "790FF4D4-E406-43FE-87BD-75895E09B602"
+    },
+    {
+      "class": "group",
+      "id": "FCDD7241-4E3B-431D-BFA2-FC1758666F4B"
+    },
+    {
+      "class": "group",
+      "id": "0E7EBBB3-C578-461E-8B13-D1F8F6BB585F"
+    },
+    {
+      "class": "group",
+      "id": "7D0D2859-4448-4F87-A9F1-E169D7BA58AA"
+    },
+    {
+      "class": "group",
+      "id": "F042A4CE-3ABF-4B60-9139-67BDA90FA6A1"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "673814E6-1D34-4E45-B524-75E37ECA0996",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -23,13 +23,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1070F064-A3B9-42DB-9DD6-055A02D606A8",
-    "height": 3850,
+    "height": 4050,
     "width": 2250,
     "x": 503,
     "y": -2854
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -153,6 +153,38 @@
     {
       "class": "group",
       "id": "D278BF0F-888C-4FF5-847E-73AB0AA7E92B"
+    },
+    {
+      "class": "group",
+      "id": "97009DF7-636D-4F30-938F-3837A9C08744"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1CABA43E-01BF-459B-9368-A1308DC4BBBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6E535A9-534D-4074-B73D-3CFF32F74EC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FE112EE-CD44-4725-9A65-A7842C3F9B8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8306163C-5CAC-4961-B51C-B399FE6760BC"
+    },
+    {
+      "class": "group",
+      "id": "3336D415-483C-42F4-A2A9-1870BC05596D"
+    },
+    {
+      "class": "group",
+      "id": "6EF8C407-63A1-470F-897A-A4744B22DBC8"
+    },
+    {
+      "class": "group",
+      "id": "B5A233E1-2EFB-4B07-A691-1F3011F03441"
     }
   ],
   "name": "Composite Treatments - Misc",

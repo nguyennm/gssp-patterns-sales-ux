@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "33393CE8-59F8-4AEF-87BF-9AFBB1D99E91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AA50711-04C3-4325-AAF9-9C87A9540B49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4420EA3B-9F7B-4462-B812-94A7BF92701F",
+    "height": 48,
+    "width": 1100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BE33E2CC-E3C4-4BE1-9C9C-2817B43660BC"
+    },
+    {
+      "class": "text",
+      "id": "A6EB802B-4805-45E8-9DD5-763097BEA6D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B79C52F-40FD-4FD4-9079-E02408B4580D"
+    }
+  ],
+  "name": "Completed Steps",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF08F43E-6E74-4EB8-9AE8-36F56AAD4E23",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

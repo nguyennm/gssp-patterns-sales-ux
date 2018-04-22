@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "46EB524F-94EE-4DCB-BFCF-271BA7AA617D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92A86A29-7697-411C-8E3D-6A4A775277C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63490DC6-C3F9-4413-A758-B932F133A0C5",
+    "height": 426,
+    "width": 720,
+    "x": 0,
+    "y": 835
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F3CD876E-8061-42FE-AE4F-5CEF3F932907"
+    },
+    {
+      "class": "group",
+      "id": "B07895EF-3EF3-4276-890F-72F8F36F5A01"
+    },
+    {
+      "class": "text",
+      "id": "287A2C31-23AE-4958-931A-AA19111AB7A6"
+    }
+  ],
+  "name": "Insured Information",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "021B276C-5340-4206-A65F-CDAB5382177F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
