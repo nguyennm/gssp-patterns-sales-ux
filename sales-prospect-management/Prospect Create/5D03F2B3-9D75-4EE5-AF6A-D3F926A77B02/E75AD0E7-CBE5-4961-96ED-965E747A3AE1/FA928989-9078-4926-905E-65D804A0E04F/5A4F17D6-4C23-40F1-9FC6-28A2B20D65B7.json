@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5A4F17D6-4C23-40F1-9FC6-28A2B20D65B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E7C1540-D108-4006-B177-6B49EBA7B02B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E83F8869-B8EE-454B-9561-D1E55D98E962",
+    "height": 9.979253112033174,
+    "width": 10,
+    "x": 20,
+    "y": 1.995850622406636
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/tablet-dot-inactive",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D4547AF-355E-43C8-BB5C-1F14990B7F6F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "27D2C93A-0EE0-4818-A7DC-7281807C1304",
+  "verticalSpacing": 0
+}

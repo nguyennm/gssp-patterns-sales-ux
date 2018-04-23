@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A2F9E9DE-BB6C-48DB-9B5B-7D07EA598D61",
-    "height": 65,
+    "height": 491,
     "width": 1206,
     "x": 0,
-    "y": 1254
+    "y": 1262
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -29,31 +29,23 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "A0EC6FC7-772C-446F-B0AF-C9FA388904EF"
+      "id": "3C208593-6E30-4055-AF08-BCA0CFF7D731"
     },
     {
-      "class": "shapeGroup",
-      "id": "2D7D2CD7-7406-44F9-8081-19DBF1BB7B2A"
+      "class": "symbolInstance",
+      "id": "400C18E3-5388-4637-9915-5B8BCEE33A77"
     },
     {
-      "class": "shapeGroup",
-      "id": "0685D3BD-BC71-45F5-849C-4A581B63A7A1"
+      "class": "symbolInstance",
+      "id": "17E4D83F-FE77-4A29-BE53-3DFFF4512D1A"
     },
     {
-      "class": "text",
-      "id": "8618A215-00F0-4EAE-BC8D-EC608D82FEDB"
+      "class": "symbolInstance",
+      "id": "3A0D8B92-AB93-4B93-9EA9-3D1B0D01CC59"
     },
     {
-      "class": "text",
-      "id": "849D664F-10AD-493F-ADE9-319A166377EE"
-    },
-    {
-      "class": "text",
-      "id": "7A0BF3A1-0E91-4677-AB76-6F06DEC5246E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CFDF39D6-52A2-4EAE-B833-2B1663997560"
+      "class": "symbolInstance",
+      "id": "2BEB994C-C648-489A-A618-00756AC88958"
     }
   ],
   "name": "Tab Bar",
