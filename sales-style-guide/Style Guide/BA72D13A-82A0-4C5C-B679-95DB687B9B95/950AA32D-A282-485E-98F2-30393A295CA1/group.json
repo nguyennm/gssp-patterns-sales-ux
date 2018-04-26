@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "950AA32D-A282-485E-98F2-30393A295CA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93199647-EA96-4125-BE84-3794BB01CE09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "735753CD-6C52-4C3B-9960-5D7EF00E5CA9",
+    "height": 40,
+    "width": 250,
+    "x": 1840,
+    "y": 277
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3B799DCB-FAF2-4964-A0B5-F68E96AAC00E"
+    },
+    {
+      "class": "text",
+      "id": "3EF620A9-DF09-46E9-B03E-46F78F98335F"
+    }
+  ],
+  "name": "Phone Field Inactive Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EE519C4-53E2-46FE-95D8-444E48A7ACDB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "85F8FD08-8541-4DB4-806B-5247D3D02ACD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 205,
+    "x": 28,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/tab-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "660EA109-DD2C-462C-A794-F634000318C0",
+      "overrideName": "8E22927C-FC2C-4198-9C92-FC7E8460B0B4_stringValue",
+      "value": "ACCIDENT & HEALTH"
+    }
+  ],
+  "overrides": {
+    "8E22927C-FC2C-4198-9C92-FC7E8460B0B4": "ACCIDENT & HEALTH"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "99B539A0-B393-480B-841B-F1542F075536",
+  "verticalSpacing": 0
+}

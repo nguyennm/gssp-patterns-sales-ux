@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5392F701-38D9-49B3-A656-776733898D97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13CFD32D-1C02-4C04-827A-198DEC8F641C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33FE369C-E76C-469E-8BE2-13B2DA56AC35",
+    "height": 85,
+    "width": 400,
+    "x": 48,
+    "y": 437
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B3E3B88-CD1F-45B7-B140-68BA571A4E26",
+      "overrideName": "DF40304E-C8CE-4BA1-85B9-95298970EF42_stringValue",
+      "value": "baldwinh@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0326B5F6-4EDA-4946-ACE6-C665C840A307",
+      "overrideName": "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4_stringValue",
+      "value": "Baldwin, Helen"
+    }
+  ],
+  "overrides": {
+    "B2B34A2A-39A4-40DC-A1E0-95AA1EBF9BD4": "Baldwin, Helen",
+    "DF40304E-C8CE-4BA1-85B9-95298970EF42": "baldwinh@gmail.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C660D02E-7D37-48F2-9804-B79450FAF4BB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E83EB273-BD70-4F38-907A-F92C79E76758",
+  "verticalSpacing": 0
+}

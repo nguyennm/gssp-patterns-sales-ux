@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "005CEA57-9D69-4EE6-A8C1-BDFD7E6CFFB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "144A6AA9-B460-4895-BAA1-AF5838B15CD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6313C03D-5D05-473A-80E0-0E739C1358C1",
+    "height": 336,
+    "width": 360,
+    "x": 33,
+    "y": 749
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/quick-access-application-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71D66B90-214D-4241-8225-88D792227B7D",
+      "overrideName": "6BEEE610-9CC4-4885-B316-3B31C48965DD_stringValue",
+      "value": "Garrison, Henry"
+    }
+  ],
+  "overrides": {
+    "6BEEE610-9CC4-4885-B316-3B31C48965DD": "Garrison, Henry"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "660D6B79-B160-4314-88D8-D12D67D74AA2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "40A6E5CD-32CD-49D6-8312-2DCF89DB918F",
+  "verticalSpacing": 0
+}

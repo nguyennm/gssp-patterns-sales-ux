@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "2BF7EF60-816D-4976-BDC5-AFCA9B780BF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36C35938-4E16-4AFF-B601-39B824EAAB6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F21FB91A-8565-4B61-8360-2836D38D3EB6",
+    "height": 830,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "49FEA9CC-A154-4BBC-BC0E-AD09589F8E97"
+    }
+  ],
+  "name": "Pre-Sign-In Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B9B125C-2E67-4722-B158-C6102A181C11",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

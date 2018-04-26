@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "F88C1346-3A70-4FEB-BC6C-DE1ABABA6EF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED51AA86-264B-404F-AB19-835471EA74FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE702885-052D-4DE2-859A-279B22392700",
+    "height": 297,
+    "width": 288,
+    "x": 1,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5425545A-219B-45DE-9120-3C773A6DFD0F"
+    },
+    {
+      "class": "group",
+      "id": "8A6A1B9F-C882-4BBB-8C82-0DB454DCF118"
+    }
+  ],
+  "name": "Bands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47E459D1-421E-4CB6-999F-EDB197C10BE9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

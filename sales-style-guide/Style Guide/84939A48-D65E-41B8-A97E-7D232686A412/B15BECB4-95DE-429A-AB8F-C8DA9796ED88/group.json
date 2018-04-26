@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "B15BECB4-95DE-429A-AB8F-C8DA9796ED88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F095558-08CD-4189-8B55-B59E41DBFF8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A9859A8-9B8E-470F-B32E-56C95EBF0C2A",
+    "height": 132,
+    "width": 1506,
+    "x": 665,
+    "y": 258
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A4ABB44B-4B65-4BCF-8BA1-C01D64AD22FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BDE5F83F-28DF-46B0-AEDA-990A04D13CC3"
+    }
+  ],
+  "name": "Navigation - Desktop - Cobrand SWITCH",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7F334CB-AA88-4A91-846A-88C6133386A7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

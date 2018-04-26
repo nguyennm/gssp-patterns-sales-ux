@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "6DDEF400-42F2-4E72-84E7-F5B02A351F3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24DF0745-CE9B-491E-9199-72573B2CB974",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79B46D07-2CD4-4EBC-8827-59AD39F01924",
+    "height": 50,
+    "width": 288,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D910C7F2-306B-43AA-8820-F6A29F4CCD13"
+    },
+    {
+      "class": "text",
+      "id": "601D63A3-FCBE-4B2C-BD3B-FDDCD3DBD7D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D84E7AC-E50A-4B5D-8CA7-A277BE94B0C2"
+    }
+  ],
+  "name": "Absence Program",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4C59590-1D3D-4A46-85AC-EAF5914FB848",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

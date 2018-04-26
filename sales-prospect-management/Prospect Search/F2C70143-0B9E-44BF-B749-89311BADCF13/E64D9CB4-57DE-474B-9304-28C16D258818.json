@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E64D9CB4-57DE-474B-9304-28C16D258818",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "613EA6C3-DD87-41A6-A905-349937B1031A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FE35203-9F74-4E40-9E90-663AA9449B01",
+    "height": 60,
+    "width": 1205,
+    "x": 0,
+    "y": 70
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/nav/header-nav-standard-prospects",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8851917B-95C6-44D1-BF08-3C2EC57A4E68",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2FF146D7-5EAA-42D0-A0D9-7557FD91443E",
+  "verticalSpacing": 0
+}

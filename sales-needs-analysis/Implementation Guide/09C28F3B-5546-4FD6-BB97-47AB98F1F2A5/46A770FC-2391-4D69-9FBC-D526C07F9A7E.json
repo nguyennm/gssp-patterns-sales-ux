@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "46A770FC-2391-4D69-9FBC-D526C07F9A7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "415D9256-6509-4FA8-AE8D-D6D950458FF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37F352E7-E7CE-46BE-949F-ECD51A83EF66",
+    "height": 340,
+    "width": 540,
+    "x": 713,
+    "y": 350
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/na/generic-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C42D5757-1FE0-474D-B09E-8F87FAE2A9CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "153A7679-0879-4EED-859A-0D3D999AD3DD",
+  "verticalSpacing": 0
+}

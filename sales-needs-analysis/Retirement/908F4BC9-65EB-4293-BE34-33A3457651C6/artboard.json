@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "D08FE957-F7EC-4A64-8345-982606BC9702",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "908F4BC9-65EB-4293-BE34-33A3457651C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5AD631A-09B4-4900-9E19-A06095A4F900",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DF43AAD-E069-48A1-90DF-E156F1E8D937",
+    "height": 1405,
+    "width": 1205,
+    "x": -1105,
+    "y": -1464
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3BA01F1B-48D5-4A07-882D-E561F9093F6F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F6BA3206-7D09-43BC-9899-D8C818E731B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E17E388-FCA7-41E3-A4ED-9B7FC8FEA7E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A76B23EE-A23D-47BF-9E77-1BA396556E0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01D8D589-814F-4F4F-8BB3-2FEA2194ADCF"
+    },
+    {
+      "class": "text",
+      "id": "35A1101F-15FF-4DE8-8380-0F6FD9CE5C90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A59565E-B9C7-4159-A532-16B1EA880123"
+    },
+    {
+      "class": "group",
+      "id": "F039DC2B-1B4C-4915-A3A7-02973AD2B6E0"
+    },
+    {
+      "class": "group",
+      "id": "FE37B0A8-5F9B-400C-A74D-E7244CE4D30E"
+    }
+  ],
+  "name": "NA-Specific/Prospect Selection - Duplicate Check - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4E175F9-8D29-4F16-A42C-A66A0C772161",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "65540269-F501-4224-B96F-0BAEEB10B345",
+    "guides": [
+    ]
+  }
+}

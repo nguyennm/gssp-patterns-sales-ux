@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B9574D82-71DF-4443-B604-BFF1D96CA6F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE1CA998-12B6-448C-8CE1-BFF87D523B0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26380051-6E4F-465B-AF55-2B3AB6543F37",
+    "height": 70,
+    "width": 1205,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/postlogin-nav-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B9683C2-F171-4DC5-BE23-6C698BBE5F2A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C74D19EE-3154-4E44-8C24-F38A9F1B3DE1",
+  "verticalSpacing": 0
+}

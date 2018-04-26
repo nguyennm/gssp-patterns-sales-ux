@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "2BC0F82F-A381-46A1-9058-071B1CF2DCAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB407779-1133-4919-8826-E579F261D6D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AE26CB5-6294-4F44-8F37-97A49AAE4BD2",
+    "height": 50,
+    "width": 1100,
+    "x": 0,
+    "y": 2965
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D9FD302C-4969-4320-B1F1-9CDF36C8A318"
+    },
+    {
+      "class": "text",
+      "id": "7D31C8DD-7FCE-425B-AB05-AA4A128EF01F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "112B366E-2EF7-43E1-8518-EC758C78245E"
+    }
+  ],
+  "name": "Inactive Steps",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1623C3B-E16E-4290-BFCE-5B04676DBC0B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

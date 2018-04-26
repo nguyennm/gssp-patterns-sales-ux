@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "41FDD7F7-466B-41CB-B263-D5216D6EC0EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8999F10B-EEC6-4849-B6EA-177A19C4ACFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2C03D97-5C82-403F-8103-16E0756772AD",
+    "height": 44,
+    "width": 28,
+    "x": 51,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2665CDA5-70AA-4644-BF94-3E7E3A848A65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E05233E-E460-46E6-8F4B-A1331EB844B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C336073A-B462-4A44-B770-4779ACDB9061"
+    }
+  ],
+  "name": "Arrow Pointer Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CAB6F857-3480-4C84-9677-2350FD1596DD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

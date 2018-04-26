@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "81786716-6449-436F-9491-B410365B5A9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3707CD72-9F2B-4569-ABC5-8E9202C56161",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F72E79DB-D8A8-4BD9-B427-73A7BBC51CDF",
+    "height": 50,
+    "width": 285,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/sub/tab-active-v2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54ECAC29-791D-4CD0-BEDB-B63FEFDC960E",
+      "overrideName": "5F6C6351-65DB-4969-83F6-5074E88140A3_stringValue",
+      "value": "NEW PROSPECT"
+    }
+  ],
+  "overrides": {
+    "5F6C6351-65DB-4969-83F6-5074E88140A3": "NEW PROSPECT"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "268E2B54-E023-4CD0-A9AD-EF39FF1E3ED0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D35090CE-8276-436C-B787-E3A45894C5BB",
+  "verticalSpacing": 0
+}

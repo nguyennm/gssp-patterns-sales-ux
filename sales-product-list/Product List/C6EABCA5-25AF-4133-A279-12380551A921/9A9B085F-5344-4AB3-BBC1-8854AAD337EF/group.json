@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "9A9B085F-5344-4AB3-BBC1-8854AAD337EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED509EC0-5DAD-40A6-A75A-59BAE9C713E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98663E0D-36B9-4EC9-A346-BBBE8446DA4F",
+    "height": 100,
+    "width": 149,
+    "x": 135,
+    "y": 727
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C30455BF-A51C-4D84-B2AF-3AC04F3D463C"
+    },
+    {
+      "class": "text",
+      "id": "AEDB88FC-B981-43F0-970E-ADF87A84411A"
+    }
+  ],
+  "name": "Network Dropdown Focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A70A39F7-2EBB-480F-B148-FF9B85D45E25",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3927B248-0E0F-4157-90A9-EC8455C814BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EC8CF76-4775-44C2-9CA9-FE7BEF400003",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A1EEEDA-340B-463E-A558-2519C8F634A5",
+    "height": 336,
+    "width": 360,
+    "x": 423,
+    "y": 801
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/quick-access-application-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AF6223C-8E0A-492C-9F18-E020CB7197BC",
+      "overrideName": "6BEEE610-9CC4-4885-B316-3B31C48965DD_stringValue",
+      "value": "Richardson, Jeremy"
+    }
+  ],
+  "overrides": {
+    "6BEEE610-9CC4-4885-B316-3B31C48965DD": "Richardson, Jeremy"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F507811-4F40-4528-8413-71F6AB90FBC6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "40A6E5CD-32CD-49D6-8312-2DCF89DB918F",
+  "verticalSpacing": 0
+}

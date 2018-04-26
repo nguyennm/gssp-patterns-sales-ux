@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "47E646CC-A564-422A-981D-FDB31215D228",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A548984-F78A-4DCD-B664-D981C5C26E8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4FEE0EE-2539-42EC-B59A-52597EAF856D",
+    "height": 18,
+    "width": 348,
+    "x": 30,
+    "y": 150
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/breadcrumb/three-levels",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59DBA829-2178-4952-A60B-31B86915478B",
+      "overrideName": "1FAFBF33-AEA0-40D0-A826-D8CF66AFDD0D_stringValue",
+      "value": "Needs Analysis"
+    }
+  ],
+  "overrides": {
+    "1FAFBF33-AEA0-40D0-A826-D8CF66AFDD0D": "Needs Analysis"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B100E339-E10A-44FB-824F-F3078CF3B5A9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "340427B3-B7AB-479C-AD66-DF65BF349D62",
+  "verticalSpacing": 0
+}

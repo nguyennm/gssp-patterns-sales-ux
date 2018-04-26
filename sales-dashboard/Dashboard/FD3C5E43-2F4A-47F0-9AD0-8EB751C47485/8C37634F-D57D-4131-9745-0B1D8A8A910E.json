@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8C37634F-D57D-4131-9745-0B1D8A8A910E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8FD6D6C4-DC93-4FB7-AB70-121FD26E06E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C87701CA-6D84-4339-AE86-FB6759AE871E",
+    "height": 52,
+    "width": 1205,
+    "x": 0,
+    "y": 130
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/alert-success-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E95965F8-2597-418B-89F1-7103CF1311F0",
+      "overrideName": "7F2A4954-5170-434D-B626-893D82F9887F_stringValue",
+      "value": "Application could not be cancelled."
+    }
+  ],
+  "overrides": {
+    "7F2A4954-5170-434D-B626-893D82F9887F": "Application could not be cancelled."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0F52CA9-7FAF-4E5B-8557-9A7500476725",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1DB5D504-69F5-4D33-8A29-B1AF5278C570",
+  "verticalSpacing": 0
+}

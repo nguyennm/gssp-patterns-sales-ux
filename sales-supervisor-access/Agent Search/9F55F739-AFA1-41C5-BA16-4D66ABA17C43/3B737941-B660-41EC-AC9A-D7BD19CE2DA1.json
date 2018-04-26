@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3B737941-B660-41EC-AC9A-D7BD19CE2DA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 400,
+    "x": 48,
+    "y": 353
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/search-result-item-active-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F70B10F6-CDEB-4B7C-B3F0-2C16A19AACF0",
+      "overrideName": "993D6846-7411-4985-824D-D6434468B721_symbolID",
+      "value": "54F7EF3B-3AF8-4DC7-A8A8-ACF12EB6951E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B627915-9D9E-460F-B16C-291FAE1732E2",
+      "overrideName": "3F393483-A346-4E9C-93C8-D7BD186249EC_stringValue",
+      "value": "Anderson, John"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7266D431-EE40-4BD7-926E-2C0D4DC40E8D",
+      "overrideName": "2527B901-1638-471A-B0A6-7AC6B7CA6925_stringValue",
+      "value": "janderson@metlife.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AF9380D-9291-4158-9DD3-970A4E6ACD8B",
+      "overrideName": "94FF6473-633F-4A03-BA32-9A6538A1CB1B_stringValue",
+      "value": "555-530-5000"
+    }
+  ],
+  "overrides": {
+    "2527B901-1638-471A-B0A6-7AC6B7CA6925": "janderson@metlife.com",
+    "3F393483-A346-4E9C-93C8-D7BD186249EC": "Anderson, John",
+    "94FF6473-633F-4A03-BA32-9A6538A1CB1B": "555-530-5000",
+    "993D6846-7411-4985-824D-D6434468B721": {
+      "symbolID": "54F7EF3B-3AF8-4DC7-A8A8-ACF12EB6951E"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "88900E89-D5EA-48A3-B66B-12922D91C346",
+  "verticalSpacing": 0
+}

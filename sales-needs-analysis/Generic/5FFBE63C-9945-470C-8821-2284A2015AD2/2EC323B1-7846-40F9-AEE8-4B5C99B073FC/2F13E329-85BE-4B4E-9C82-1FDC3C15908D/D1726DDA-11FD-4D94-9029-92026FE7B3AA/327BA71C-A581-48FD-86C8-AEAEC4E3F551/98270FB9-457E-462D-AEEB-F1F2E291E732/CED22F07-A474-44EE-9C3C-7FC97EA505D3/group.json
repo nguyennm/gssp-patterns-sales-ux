@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "CED22F07-A474-44EE-9C3C-7FC97EA505D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F6F0AFA-1EE7-4D2D-81C0-BB3ACFF74957",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5525012-301F-412F-A5EB-5BE86226306D",
+    "height": 22,
+    "width": 21,
+    "x": 325,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "35F51089-3171-4BF5-9D9A-26C9DB34DDDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22E8A5BA-714F-498F-B94B-3195118595C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A24ED7A2-D665-4FE4-A741-147EFE92EC6E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D831A9B8-2051-49F7-95F3-62A772DDB8F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92EF925A-9C2D-47AE-BCA2-770AC5D64722"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7D2225A-AAE7-44E5-AE70-DCAA0B01704A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E3A3923-D759-4C9F-A51B-06EF4734B2EE"
+    }
+  ],
+  "name": "Calendar Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A619C6A-E3DE-4C76-9DD8-091397336853",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E69A47AC-55BB-4B02-ACCC-DD6F5C4883B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C77405F5-0F91-4EC2-B6B3-83331AD88BE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2E0EE9D-DB1D-4FF5-B3F4-DD308F273A05",
+    "height": 95,
+    "width": 515,
+    "x": 256,
+    "y": 321
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/typeahead-selected-agent-pill",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D96286B-A0CC-42A5-B283-002476589730",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7A393F71-C61C-45FA-B901-72BCA161558E",
+  "verticalSpacing": 0
+}

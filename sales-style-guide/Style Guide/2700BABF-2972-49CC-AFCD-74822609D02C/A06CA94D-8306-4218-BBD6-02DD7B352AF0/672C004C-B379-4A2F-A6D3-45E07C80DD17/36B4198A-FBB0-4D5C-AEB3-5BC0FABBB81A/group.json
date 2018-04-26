@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "36B4198A-FBB0-4D5C-AEB3-5BC0FABBB81A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AFCBBB0-9387-4A53-B4B8-B0F0EF02D555",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F6067B3-2098-4C74-9C90-DE9B284BEF25",
+    "height": 36,
+    "width": 36,
+    "x": 40,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EBC521E3-C0C5-49D1-9FE5-16D3640A4731"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0107B9CE-EF59-417F-9954-414E9EF86795"
+    },
+    {
+      "class": "text",
+      "id": "D7D4AEC4-1B36-490A-9CB2-F19E624239D7"
+    }
+  ],
+  "name": "ChevEllipseLeft",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EE69CA0-06C9-4FB1-B07E-D63F7685E7CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "AC87E4A4-0936-49D5-AC47-AC96C9F88A92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48C30175-A075-40D3-BF84-2C35063C7DB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AABD3F12-F65C-465F-9A2B-9B4DCBCD5235",
+    "height": 373,
+    "width": 665,
+    "x": 296,
+    "y": 184
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A931F5A7-A55E-4D47-912A-302BDDE5CDE3"
+    },
+    {
+      "class": "text",
+      "id": "792942F4-12D8-49C0-BDF5-B14C9C9A6D53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BAD8892-9997-4934-A7CC-E195C35559DF"
+    },
+    {
+      "class": "text",
+      "id": "42B2AC5C-CA55-41AD-9B68-B1F5569EBB39"
+    },
+    {
+      "class": "text",
+      "id": "1CCB458E-8382-402D-A044-C46B498DD5F9"
+    }
+  ],
+  "name": "More Info Flyout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DE0764E-0F55-4E57-8D80-ACF1BB1A7C8D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

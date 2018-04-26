@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5B9980BB-6AC6-4E13-8BC8-6B5A37DDCB39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06F257A1-8057-4ED3-9F17-4C15A388F96A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "114E730B-CA94-43CC-B175-6FEBCD5143D7",
+    "height": 40,
+    "width": 142,
+    "x": 20,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/btn-secondary_normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A3F1058-7042-4050-9932-EFA87BE97379",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CBA62843-E87D-4E51-8723-5B0F03491964",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "017A4E8D-7D30-45A7-928C-4E28453AE3F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08C77A6D-DEDF-474A-AC73-C6CDF760D5FF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DDDE5FB-DAF0-4823-99B3-DE1D1CD0EEAF",
+    "height": 48,
+    "width": 48,
+    "x": 987,
+    "y": 1104
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/male-avatar-muted",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC1E11A4-BF1E-406D-BFE7-6A663F13136E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B80DDF26-3ACB-45D3-9A6B-9E79860FB0D5",
+  "verticalSpacing": 0
+}

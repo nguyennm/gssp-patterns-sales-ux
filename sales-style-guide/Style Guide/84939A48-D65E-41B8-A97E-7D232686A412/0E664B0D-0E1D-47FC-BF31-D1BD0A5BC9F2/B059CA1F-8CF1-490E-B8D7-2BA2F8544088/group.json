@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "B059CA1F-8CF1-490E-B8D7-2BA2F8544088",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E630F8ED-5D4B-4F50-8F0F-89FE94FF122C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D102086-D711-4B82-8778-2D161E7F617F",
+    "height": 175,
+    "width": 994,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F115FBC5-C504-4039-8BBC-8B7AE8D7C514"
+    },
+    {
+      "class": "group",
+      "id": "21810E1A-3566-4FD8-8BE2-F3F0750DD213"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92427F62-8A41-4759-8AA2-BA4CCD4BF884"
+    },
+    {
+      "class": "text",
+      "id": "C6E8A501-72CD-40AC-BA6C-9F6E0A855BFA"
+    },
+    {
+      "class": "group",
+      "id": "7E83452F-46AD-4AA8-8EA4-AD310F69208F"
+    }
+  ],
+  "name": "Footer - Tablet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6EDE356-B5D0-477E-8572-EBAA3C1C5495",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

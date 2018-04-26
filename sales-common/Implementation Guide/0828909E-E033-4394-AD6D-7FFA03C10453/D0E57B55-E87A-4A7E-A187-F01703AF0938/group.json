@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "D0E57B55-E87A-4A7E-A187-F01703AF0938",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1356FF17-5A79-492A-9FC5-9E27E4BA96F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A71336B-0F07-4D29-9347-CBC92EF6DE77",
+    "height": 600,
+    "width": 1200,
+    "x": 665,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2BE4478F-B451-4C90-AEB5-EE5B483EC9D0"
+    },
+    {
+      "class": "group",
+      "id": "FB550075-1220-48A0-AD20-54F5741DAB28"
+    }
+  ],
+  "name": "Leaving modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "897CB251-241A-4541-98D6-FCD64532A1C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

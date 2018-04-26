@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "CAB422AB-D3D7-46C3-9F78-FAF57272D2BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D423187-D417-4E55-A9A2-580DA102EA5E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "086CF353-0A1D-4D10-BB19-BDFFC2036367",
+    "height": 872,
+    "width": 1202,
+    "x": 664,
+    "y": 2482
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3FE9989A-E387-4C18-B7D0-C02A942CA9BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6FFBD25-D959-47F0-A0A6-6B131BEBE351"
+    },
+    {
+      "class": "group",
+      "id": "F57F085D-02B4-493C-B87B-E9EFA326DF24"
+    },
+    {
+      "class": "text",
+      "id": "250D00B2-FCE5-4876-AB3B-1FFBB46AD392"
+    },
+    {
+      "class": "text",
+      "id": "82589A09-2183-403B-B0A9-BD1890FFBB30"
+    },
+    {
+      "class": "bitmap",
+      "id": "338C1E83-2934-42F7-9845-D856144A31E4"
+    },
+    {
+      "class": "group",
+      "id": "1E45ECF6-F9FC-43CF-88ED-8602DC25C623"
+    },
+    {
+      "class": "group",
+      "id": "B306F301-D792-41EA-A471-DB1C7D936A8F"
+    },
+    {
+      "class": "text",
+      "id": "56F7E35A-7DFF-4FCF-B75E-B05162AF5D46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "380134E0-BE62-4146-9292-D3FC70651EE2"
+    },
+    {
+      "class": "group",
+      "id": "85B88560-DF65-443D-B105-8FBACCAC9922"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41001199-13C7-43E9-B405-FED36D119141"
+    }
+  ],
+  "name": "Group 9",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "770D98B6-61D2-4080-840D-3119298377EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

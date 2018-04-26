@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8CD089C4-B163-4830-98E7-FEBF41FDF9E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE81F29C-683D-4AF6-8771-5305F29D987D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF633D3E-7161-4F18-BD7C-C4952D3753A7",
+    "height": 300,
+    "width": 10,
+    "x": 10,
+    "y": 464
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/progress/sidebar-inactive",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6086318F-5FD6-4662-A38F-1F529313A3A9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F51D2E7F-581C-43EA-96D3-9478B0622012",
+  "verticalSpacing": 0
+}

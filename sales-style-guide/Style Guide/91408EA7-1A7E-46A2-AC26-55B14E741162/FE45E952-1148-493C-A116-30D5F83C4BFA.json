@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FE45E952-1148-493C-A116-30D5F83C4BFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B5A10DF-86B9-4C7A-9155-CCD639BED795",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B46F05D1-F1FF-4FED-911A-07EC8B0F752C",
+    "height": 48,
+    "width": 48,
+    "x": 1361,
+    "y": 1104
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/female-avatar-hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80FB3A0D-103D-4E11-BD64-28EFE4E9AA22",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E75B6485-46F4-4393-9292-7C2C2F91D5B5",
+  "verticalSpacing": 0
+}

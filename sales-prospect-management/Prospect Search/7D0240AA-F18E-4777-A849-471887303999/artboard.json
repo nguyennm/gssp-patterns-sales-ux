@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "60C4F44A-2C7A-4359-8155-A899D58EC029",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "7D0240AA-F18E-4777-A849-471887303999",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30E299BE-EBEE-4880-9F8E-130AB5F07804",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAAF82CD-A0E2-4019-9ABB-5B0448E28AE0",
+    "height": 1205,
+    "width": 1205,
+    "x": -1035,
+    "y": 1342
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8B617236-1F5C-4EAA-B950-38C9B9F439DC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8413D114-EDA4-4CEC-93B1-7A4E375B706A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F07FE0F-76DC-4A6E-8EE1-CE5385B1B50C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7755D43-4D15-459A-9A92-AC0240186E5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2083D7E6-C5F5-4F15-9AFF-4303DF4C89E4"
+    },
+    {
+      "class": "text",
+      "id": "C432891F-4D18-465A-8176-2C50DB097369"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CEF3D55-F960-4604-A234-D4FFE677D66E"
+    },
+    {
+      "class": "group",
+      "id": "115C61BE-FDD1-49DF-8614-0C8790A34475"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5291770C-3F09-4159-9DB5-92AAB1142E74"
+    }
+  ],
+  "name": "Prospect Search No Results - Desktop",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1205,
+    "name": "metlife-ux-desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1205
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11C01F8A-D4A7-49D2-B2BC-2CD7B388332C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C9954441-DA2D-42DF-A2B6-0A493CB692CB",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "F2166CC1-3DCD-4A40-80FB-A918C4B69552",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "3752BB18-5D72-4916-8DBC-A095DBAF5BE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC657668-C88A-49AD-97A6-05E87A2C97C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF8BA82C-BCBE-4504-B51D-56F01D30B776",
+    "height": 1205,
+    "width": 1205,
+    "x": -1886,
+    "y": -1498
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "017ED9AF-9B4F-469F-8259-C5C30B19366C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2E3ECAB2-8400-4E4F-8943-C828CD9BDE24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E35202CF-D491-4BA0-A9F1-AD224C7A2B0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F17F03FC-CA94-4F94-B463-59E29FD97208"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F75A893-DF67-475A-BADF-CD6160D0338A"
+    },
+    {
+      "class": "text",
+      "id": "63572CB3-EF1F-4A96-B100-43F75B4C2D93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BFB9043-475B-4963-A3F3-3298F5EF49E6"
+    },
+    {
+      "class": "text",
+      "id": "5C85DDC4-F9B9-4A52-9A15-A839C9BC3AA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D767FFBC-C2F3-47ED-A2CF-00B5A4FE8676"
+    },
+    {
+      "class": "group",
+      "id": "5D7DE0FC-B31B-43AE-A789-1E7244769ACE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1ECCF5B4-BAA4-4EAB-A25E-AFA2F46D7A1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5392F701-38D9-49B3-A656-776733898D97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93052999-127F-4AE9-952B-2D0F28F95BCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59316243-9EF9-4854-9871-5BDF59C12ABA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3E0BF5A-B123-48D4-A5EB-720B703EC6D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8279C614-8463-4AB2-8AEA-9F1AF86D7BB9"
+    },
+    {
+      "class": "text",
+      "id": "66BC80D9-E38B-4D80-906D-9102EFE13B81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71068167-B09C-43B7-B10B-644FC19CC966"
+    },
+    {
+      "class": "group",
+      "id": "E245416B-0586-4E9B-944C-CEBC6DE01F96"
+    }
+  ],
+  "name": "Prospect Create - Desktop",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1205,
+    "name": "metlife-ux-desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1205
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "019C2BF6-219F-402F-B007-58DBBB4DFEE3",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11D1C7A4-6380-479C-9B69-B95FC148E60A",
+    "guides": [
+    ]
+  }
+}

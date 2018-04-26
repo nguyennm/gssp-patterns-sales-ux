@@ -1,0 +1,51 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E0961A59-239E-4AD8-882B-4151E3C310AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E2363B2-5742-45FB-BFE4-F6D41A828352",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDE7E916-3B33-4239-8906-00D62A45CC10",
+    "height": 35.85952041968857,
+    "width": 19.4707,
+    "x": 0,
+    "y": 0.1404795803113927
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E7193CAE-756F-484C-BDD2-1227BC921477"
+    }
+  ],
+  "name": "Clip 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7DFF664-F2E1-4194-B0AA-9CCA3AA4344E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

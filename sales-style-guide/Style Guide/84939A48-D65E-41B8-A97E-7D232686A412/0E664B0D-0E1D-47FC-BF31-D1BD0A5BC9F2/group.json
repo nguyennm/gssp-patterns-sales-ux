@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "0E664B0D-0E1D-47FC-BF31-D1BD0A5BC9F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28DCC8DD-EABE-4139-A7E2-D47FDA1E29E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05656BB4-133E-4072-838B-95339A22F143",
+    "height": 175,
+    "width": 994,
+    "x": 665,
+    "y": 3910
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B059CA1F-8CF1-490E-B8D7-2BA2F8544088"
+    }
+  ],
+  "name": "Mobile Footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E242046C-686E-4D00-8C77-05828C0D98ED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

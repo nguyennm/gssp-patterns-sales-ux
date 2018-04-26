@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "D5DADA17-0354-4BEF-AA7B-C6C2A737BB17",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "ED79BCA1-0F70-4860-83D3-168899C74DF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BECA5380-E973-442E-97E1-67076886DC67",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A503545-DE3C-46C2-AF60-06648943600F",
+    "height": 1205,
+    "width": 1205,
+    "x": -426,
+    "y": -453
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9D4BF26-555A-4E20-B35F-94BA2AE24FEA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C46981A-5D8D-41D5-970E-F6D5B71EB85B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAA8E811-5029-4EB8-A29E-7ACB30291918"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73D319E7-CE04-40B9-AD0E-CEA04601E18C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AC0CDA0-1763-4AD8-BF1F-4D1BC79E5B08"
+    },
+    {
+      "class": "text",
+      "id": "6EA3B2C5-D856-4DAB-BA02-5C0687BB5373"
+    },
+    {
+      "class": "group",
+      "id": "75B33FFE-7919-4FCF-A053-EAD52112589A"
+    },
+    {
+      "class": "group",
+      "id": "E99C4FCB-2F0C-498E-A877-CDD9F3CE8C96"
+    },
+    {
+      "class": "group",
+      "id": "4CD9D9D5-94E3-4075-8D35-66937B66EC0A"
+    },
+    {
+      "class": "group",
+      "id": "6F28CBD1-53E2-4290-95DB-40C972D6285D"
+    }
+  ],
+  "name": "Report Cards - Desktop",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1205,
+    "name": "metlife-ux-desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1205
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A795BDFE-39FB-4904-90DB-940D4B901E4A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5AEED2B2-CA55-4810-B317-EB9095A9CD3F",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1A6C082D-455C-43FC-BD04-BA7D06132000",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FE843CD-A047-4C07-AAC1-067C7E664658",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2E758B7-7F0F-43E7-B4B6-92E56E6C212A",
+    "height": 69,
+    "width": 768,
+    "x": 696,
+    "y": 569
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/postlogin-nav-drawer-tablet-expanded",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C55AE23D-9CBC-4648-80CD-1D5DC8BCE456",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "04FCB1AA-7ED9-41A7-B769-3314D1A5E538",
+  "verticalSpacing": 0
+}

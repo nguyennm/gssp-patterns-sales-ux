@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0B2F9404-9B10-4BD0-BB72-91AD9669D588",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 276.9019607843137,
+    "width": 447,
+    "x": 1692,
+    "y": 238.1176470588235
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/flyout/standard-above",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "902523B3-32CB-431C-B98B-E906C2CA1915",
+      "overrideName": "758AFBEC-D549-4B08-A522-6B92642DDFB5_stringValue",
+      "value": "Circles of Protection"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42718262-7A24-4162-892C-0DD70C6392D4",
+      "overrideName": "B6E8CC16-01AA-4B72-9785-E72E4A7CD5EC_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9628ED9A-B857-4C25-BF1D-80CB06BFAB0A",
+      "overrideName": "A7FCB51C-6E87-4789-B6D8-A60341DBF79C_stringValue",
+      "value": "View Brochure"
+    }
+  ],
+  "overrides": {
+    "758AFBEC-D549-4B08-A522-6B92642DDFB5": "Circles of Protection",
+    "A7FCB51C-6E87-4789-B6D8-A60341DBF79C": "View Brochure",
+    "B6E8CC16-01AA-4B72-9785-E72E4A7CD5EC": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C55A20C2-B4A4-4D94-9276-AE14428B69D9",
+  "verticalSpacing": 0
+}

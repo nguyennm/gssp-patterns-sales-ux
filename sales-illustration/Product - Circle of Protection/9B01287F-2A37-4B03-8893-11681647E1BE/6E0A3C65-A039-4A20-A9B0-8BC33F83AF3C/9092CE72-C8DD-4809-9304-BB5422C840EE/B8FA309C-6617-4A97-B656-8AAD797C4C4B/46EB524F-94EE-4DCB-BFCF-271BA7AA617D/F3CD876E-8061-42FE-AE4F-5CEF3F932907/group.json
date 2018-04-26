@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "F3CD876E-8061-42FE-AE4F-5CEF3F932907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A35F84BB-116A-445D-A0FB-329F07BB2F00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC1C4054-31AC-46A5-AD72-1E775B50B046",
+    "height": 363,
+    "width": 720,
+    "x": 0,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A50E2DF1-A885-4971-94FA-A4334D57B97A"
+    },
+    {
+      "class": "group",
+      "id": "13762C76-1C67-4B80-8393-84F027A0D6F5"
+    },
+    {
+      "class": "group",
+      "id": "FF64A705-9F04-4125-9422-9CB5B4F28D16"
+    },
+    {
+      "class": "group",
+      "id": "8B6C3D1D-930F-4AA7-8128-22E30A1FBD79"
+    },
+    {
+      "class": "text",
+      "id": "4307C6F6-0EBA-45A6-8A4E-14F79561ACBC"
+    },
+    {
+      "class": "group",
+      "id": "023A7B99-F0BC-4CC9-9345-F026AF86FEAD"
+    },
+    {
+      "class": "group",
+      "id": "D8CE17A6-09BA-41B2-9BE1-4CEF4385ED47"
+    },
+    {
+      "class": "group",
+      "id": "D9EDDEE0-6C39-4865-8E65-3B430ED7BDA4"
+    },
+    {
+      "class": "group",
+      "id": "8C2A2006-BB1F-44BE-9994-9DAD21A84A8B"
+    },
+    {
+      "class": "group",
+      "id": "831D0248-0C15-4CF3-849A-329A12284319"
+    },
+    {
+      "class": "group",
+      "id": "E0984A54-008E-479E-9FE5-6BEA63D23E70"
+    },
+    {
+      "class": "group",
+      "id": "C4550FF6-EEB4-4E90-8E34-2D9457C8E2FF"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CB6E00B-1214-482D-A3BB-39F4869D5FE3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

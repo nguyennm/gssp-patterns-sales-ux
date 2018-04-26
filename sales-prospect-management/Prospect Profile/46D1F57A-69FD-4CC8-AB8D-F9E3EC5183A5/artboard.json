@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CF3E2E7B-71F5-4680-A75E-D18C1D571F57",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "46D1F57A-69FD-4CC8-AB8D-F9E3EC5183A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B08E46E3-2610-40FD-A9B7-325EEC2516C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "579023D9-9773-447C-A11C-44F6C9D8552A",
+    "height": 1385,
+    "width": 1024,
+    "x": 417,
+    "y": 440
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DF68EB78-367B-4680-B136-570A03CCB1A7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C5030998-7DA7-46A0-A133-9DF5B3844B0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1B03B55-C9E4-486B-B2EE-DF38BF8CB187"
+    },
+    {
+      "class": "group",
+      "id": "6AFB098C-04AB-4B6D-9B2F-37E32F35F3D9"
+    },
+    {
+      "class": "group",
+      "id": "B938502C-E34A-40D5-B6CE-01C1CAF55B49"
+    },
+    {
+      "class": "group",
+      "id": "4935F566-9BDF-4FFC-95E6-681953C26474"
+    },
+    {
+      "class": "group",
+      "id": "DE0C9237-1704-47B4-BFF3-4A85B7CEE82D"
+    },
+    {
+      "class": "text",
+      "id": "9C967B61-8740-453B-8151-590BCE14DB1A"
+    },
+    {
+      "class": "group",
+      "id": "C7E91E40-BD81-4C3C-88BA-724287427C98"
+    },
+    {
+      "class": "group",
+      "id": "416DB155-38D8-4E77-8DE2-E9FED5497BCD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "611C735B-1143-49BE-BCF7-4755B725F54E"
+    }
+  ],
+  "name": "Prospect Reassignment - Tablet",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "226C04F4-A3C7-4197-9073-0387A184466F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "046F4AE3-011A-4EC9-B823-CB45FC05F94A",
+    "guides": [
+    ]
+  }
+}

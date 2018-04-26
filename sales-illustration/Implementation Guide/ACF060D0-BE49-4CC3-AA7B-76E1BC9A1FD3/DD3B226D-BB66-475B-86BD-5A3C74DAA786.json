@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DD3B226D-BB66-475B-86BD-5A3C74DAA786",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C2F0ADC-9D24-4AFF-8E07-2F2FE35812DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5470063E-A349-4B56-B38F-E9C0748511DC",
+    "height": 321.9999999999999,
+    "width": 315,
+    "x": 675,
+    "y": 285.921568627451
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/selection-panel/pane-with-header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0311F06E-4039-4B7B-ADAB-F1E5295D7A71",
+      "overrideName": "ECD4461A-5E80-4334-B279-ECFF522491EE/629ED6AD-706B-4C2F-BB29-7B4D519CBBD5_stringValue",
+      "value": "Circles of Protection"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B53B2A4-B434-4412-9ADE-209C32EE12C6",
+      "overrideName": "70413A90-8ADB-42E8-BDB5-E6B26DF58673/24C4AB60-2BB4-437B-9F2C-FC368CBEEC4E_stringValue",
+      "value": "Circle 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1CE04C0-E7BC-468A-903A-04242912606B",
+      "overrideName": "62D7B9A5-7BC0-4BEF-96C5-BCBD753CA098/9D6ADA24-DD98-428A-A8F6-20EB9822031D_stringValue",
+      "value": "Circle 2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C88399AC-295F-477F-AD6D-136BDA8CDD53",
+      "overrideName": "29AA6EFF-6226-4E25-BCED-F44B28034F43/9D6ADA24-DD98-428A-A8F6-20EB9822031D_stringValue",
+      "value": "Circle 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "617BCBBB-9AE5-4188-B449-E9644D5C881C",
+      "overrideName": "A47E1892-5413-4657-A931-70C4B36BD909/24C4AB60-2BB4-437B-9F2C-FC368CBEEC4E_stringValue",
+      "value": "Circle 4"
+    }
+  ],
+  "overrides": {
+    "29AA6EFF-6226-4E25-BCED-F44B28034F43": {
+      "9D6ADA24-DD98-428A-A8F6-20EB9822031D": "Circle 3"
+    },
+    "62D7B9A5-7BC0-4BEF-96C5-BCBD753CA098": {
+      "9D6ADA24-DD98-428A-A8F6-20EB9822031D": "Circle 2"
+    },
+    "70413A90-8ADB-42E8-BDB5-E6B26DF58673": {
+      "24C4AB60-2BB4-437B-9F2C-FC368CBEEC4E": "Circle 1"
+    },
+    "A47E1892-5413-4657-A931-70C4B36BD909": {
+      "24C4AB60-2BB4-437B-9F2C-FC368CBEEC4E": "Circle 4"
+    },
+    "ECD4461A-5E80-4334-B279-ECFF522491EE": {
+      "629ED6AD-706B-4C2F-BB29-7B4D519CBBD5": "Circles of Protection"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A5380FA-6242-45BE-8EE8-2D5856626B87",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0CEB4088-832A-4D68-8FCC-A61EAD740A86",
+  "verticalSpacing": 0
+}

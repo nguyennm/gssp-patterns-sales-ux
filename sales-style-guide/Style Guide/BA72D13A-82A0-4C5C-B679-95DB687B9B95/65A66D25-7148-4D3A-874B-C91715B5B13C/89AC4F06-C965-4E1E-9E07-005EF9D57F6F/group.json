@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "89AC4F06-C965-4E1E-9E07-005EF9D57F6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "049A3EA1-8C14-4138-B56E-9EC4B1C6A9F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDA1CA75-AB68-4C2B-9469-839F7840F47B",
+    "height": 49,
+    "width": 290,
+    "x": 0,
+    "y": 27
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "84DAA96F-2286-4E4A-A8FA-238C1F768D98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "752EFB4E-B6BE-4BE0-9C42-BE25367C3005"
+    },
+    {
+      "class": "text",
+      "id": "8F9C67EE-DE7D-406D-915E-E316AFEF956A"
+    },
+    {
+      "class": "text",
+      "id": "67925976-7105-4FB3-B8F1-3E7BE802FDD4"
+    },
+    {
+      "class": "text",
+      "id": "228FB7B6-DC7B-419F-BA81-203CAC606355"
+    }
+  ],
+  "name": "Payment Method DD",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0524735-2024-4FDA-899F-CB19D59C2505",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

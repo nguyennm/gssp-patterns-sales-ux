@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "90B97E06-2351-4806-B082-948267433E17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A63351F-0765-4A02-9CF5-A85A52E7C9B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D112D0CE-2702-4BC1-8861-82F311C789FC",
+    "height": 40,
+    "width": 167,
+    "x": 179,
+    "y": 557
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/btn-primary_normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4F3ECCD-CD89-4240-A178-E880C3A08821",
+      "overrideName": "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6_stringValue",
+      "value": "CREATE PROSPECT"
+    }
+  ],
+  "overrides": {
+    "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6": "CREATE PROSPECT"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60150FAD-15B0-46E6-A842-705FC9A77275",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "20109CDA-0C8B-4164-B3EA-2B483A00461D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "692280C2-E8D5-4C36-94E9-C36559CAE8AC",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "4E334601-763E-45FA-AC44-14A8178C7CD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE20CBE3-33BF-4375-ACEF-13B4A87879A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F2DAC88-1DDE-4871-BBF9-1067E3631E4B",
+    "height": 1405,
+    "width": 1205,
+    "x": 9278,
+    "y": -3001
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "104E7FD7-BE5E-499E-9895-6DDFF30F5F28",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "124402EA-F409-4810-BD46-B71EB82253E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1AF4A93-A8CC-418D-8015-BBA5756AE723"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD48BE62-E34A-4D6B-B583-92E3E8F995C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD35EC61-0D2B-4036-95F5-60D9AFE2493F"
+    },
+    {
+      "class": "text",
+      "id": "CCEC8617-70C9-4512-8DE0-8A41C19DE713"
+    },
+    {
+      "class": "group",
+      "id": "7355F63B-5D8A-4333-9BA9-2AAF0EECDAC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E539E5D6-F8B8-4A23-9E82-0E06B4F3B6E2"
+    },
+    {
+      "class": "group",
+      "id": "24CEA02E-76ED-4BC7-87B3-613976B90C02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "409A0E1C-813E-4265-9533-1A70EAA613B0"
+    },
+    {
+      "class": "group",
+      "id": "0EAEF8C2-D719-45AB-A212-A472ECFC9FA8"
+    },
+    {
+      "class": "group",
+      "id": "AC87E4A4-0936-49D5-AC47-AC96C9F88A92"
+    }
+  ],
+  "name": "QI/Product Selection - More Info - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5193249A-5CBB-4A54-9113-C80C64ADA17F",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "00BB551B-07A3-4EA1-AE5B-D967FDB1DA53",
+    "guides": [
+    ]
+  }
+}
