@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "2095E1E5-FAF2-49EE-B1E5-516956D31DB1",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "A80C01B4-01BF-4B79-9CB8-4671EFBAEB79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AF67699-2EAB-439E-BC42-0E522B81ED9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "055C99C9-BB91-47CF-AFCD-2C533942004C",
+    "height": 1205,
+    "width": 1205,
+    "x": 457,
+    "y": -1928
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5F3EFFC5-B0A6-4D67-9FCA-A0EBDBD91760",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "211807C5-350A-43C6-905B-0067B7DD965D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5A3D852-897F-45DD-8F11-8EB976026A8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "036D9949-B6AB-4FF4-AD60-EDDA9A293B70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46493616-596A-4759-80E5-953FB7B45221"
+    },
+    {
+      "class": "group",
+      "id": "08F01D8E-9040-4F5F-932A-951E6737D038"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D45C4670-884D-4095-A1E6-01E1112BD7B6"
+    },
+    {
+      "class": "text",
+      "id": "0E2DE25E-B1C0-470F-8030-D28B654BA13D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02FE24CF-9A14-43D7-9E58-92A1311683E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "535457B5-7DBB-4FAA-87EF-788A495A095E"
+    },
+    {
+      "class": "text",
+      "id": "F821BF12-8BF0-4CF0-AB4B-4224ED02201D"
+    }
+  ],
+  "name": "Application - Portfolio Landing (Submitted) - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39E5BC6A-DB28-43D0-9D3B-BD8D0F48832C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "402610C7-A004-4F9C-95A4-C6CFDDD6C0D7",
+    "guides": [
+    ]
+  }
+}

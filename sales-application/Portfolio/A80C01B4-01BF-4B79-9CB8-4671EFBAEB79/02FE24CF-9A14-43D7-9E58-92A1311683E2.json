@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "02FE24CF-9A14-43D7-9E58-92A1311683E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90EB9D18-9C68-4657-B0A3-07FB846E5C58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCB3B710-770F-47D6-AD25-8A8A7FDFB060",
+    "height": 40,
+    "width": 853,
+    "x": 30,
+    "y": 204
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/application-portfolio-header",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A05A31FF-432F-4F66-9666-42C80DC4CF6D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F7B7583F-43A3-440F-83C7-A265C2DED470",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2B4E9369-21B2-47DA-96CF-9B73B9E62E7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E10C405-98F1-48B0-976F-96540FC62192",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABD96865-0C45-42ED-81FB-26F5499DDD56",
+    "height": 72,
+    "width": 1076,
+    "x": 32,
+    "y": 146
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/application-row",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B4C44BB-60C2-4035-98F9-F4A607F1F2C2",
+      "overrideName": "F48014A5-7ED2-4405-96C1-2D993FE796ED_stringValue",
+      "value": "Future Protect"
+    }
+  ],
+  "overrides": {
+    "F48014A5-7ED2-4405-96C1-2D993FE796ED": "Future Protect"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3225A344-0EA7-4861-9397-7A1266ED8B30",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D4489BE1-275F-4499-9828-EF14E77A0F10",
+  "verticalSpacing": 0
+}
