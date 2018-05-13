@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "45851899-E610-45EB-8BE1-1C6FE61F5D03",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "963EDC2E-0DE7-4022-993D-907ECD96D5E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "866F4F8F-E041-4E3D-9CA0-C42CFE8B335E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "502869D7-F5C2-442F-B81E-DF2594DF291C",
+    "height": 2205,
+    "width": 1205,
+    "x": -4761,
+    "y": 1183
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9490D380-CFFE-45E6-9519-0B31A61E529C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89004C13-2558-411D-A796-F483823862DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "969B1DD5-4B18-400F-BD56-B496718D8C1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BD8B70F-0451-4B89-B9F5-3AF735F71024"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FBAADF2-D973-40D6-8426-B810FBD4CC24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58F932CB-4DCD-4DA4-A8CC-6B7913FD3E38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A0EA9F1-BD0E-4434-9B65-004B09FB8F37"
+    },
+    {
+      "class": "group",
+      "id": "49454E00-C629-4A68-A199-7E339B2DCBEB"
+    },
+    {
+      "class": "text",
+      "id": "3F32A602-22C8-41C3-8093-DAB4B735F84C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "287C21B7-CA1B-4905-B58F-E4870D658D84"
+    },
+    {
+      "class": "group",
+      "id": "6909A83C-101B-4FEC-82AD-D80D940E8A04"
+    },
+    {
+      "class": "group",
+      "id": "01DBF4F4-C540-4D99-B952-29E055A2CEBC"
+    },
+    {
+      "class": "group",
+      "id": "6B09D844-9F1D-4536-8BA2-D9DBAF951269"
+    }
+  ],
+  "name": "Application - Cancellation - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E8F0958-5991-4D0F-8BB6-4D551CDF7C1D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2566F957-05AF-4495-9539-E94BFDA23EDF",
+    "guides": [
+    ]
+  }
+}

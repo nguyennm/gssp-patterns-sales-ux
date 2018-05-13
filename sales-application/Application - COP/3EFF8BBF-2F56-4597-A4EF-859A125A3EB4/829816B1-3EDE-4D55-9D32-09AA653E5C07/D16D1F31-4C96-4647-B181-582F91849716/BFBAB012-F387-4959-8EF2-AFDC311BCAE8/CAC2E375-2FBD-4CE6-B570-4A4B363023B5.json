@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CAC2E375-2FBD-4CE6-B570-4A4B363023B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AECD9FF5-2124-4176-8655-BC1291027154",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03E89B94-01BD-4128-A6BE-F8D55EB170EF",
+    "height": 30,
+    "width": 30,
+    "x": 0,
+    "y": 1321
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/progress/step-completed",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A47B57CF-AB12-4BDA-8D49-2F9C427127CA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2036C4ED-1B32-48A3-84BE-BF1D6D24EE56",
+  "verticalSpacing": 0
+}

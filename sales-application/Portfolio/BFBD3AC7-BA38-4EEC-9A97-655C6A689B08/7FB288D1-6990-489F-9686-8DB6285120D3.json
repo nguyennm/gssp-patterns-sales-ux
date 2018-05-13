@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7FB288D1-6990-489F-9686-8DB6285120D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E569E09E-DF65-4715-9671-40A56A494BD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1BBE4B3-FDFC-4F69-9222-6894B868E728",
+    "height": 176,
+    "width": 1172,
+    "x": 16,
+    "y": 1014
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/footer-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38017F82-CAD5-4807-9956-94F5BCFCDD87",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C6358B82-96CA-41CB-A264-F9CFF2BCE818",
+  "verticalSpacing": 0
+}
