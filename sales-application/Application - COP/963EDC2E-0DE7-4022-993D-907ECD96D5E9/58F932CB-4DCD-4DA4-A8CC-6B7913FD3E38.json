@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "58F932CB-4DCD-4DA4-A8CC-6B7913FD3E38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2022C545-590E-4F09-9DF2-AFA28575E11C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6141FF97-0E0A-49A2-923A-B8D51CC149A7",
+    "height": 40,
+    "width": 425,
+    "x": 30,
+    "y": 204
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/application-header-banner",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95398529-D3E5-403B-BCF2-9314FC6D312C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E6F60E97-0DDF-40B7-BFD2-887D6B313762",
+  "verticalSpacing": 0
+}
