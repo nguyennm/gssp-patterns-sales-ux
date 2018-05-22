@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "B00F3A3B-1CBC-4A3C-889B-B093D24CA479",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "06C14D77-EBE6-412D-A2D9-4D472B768791",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E882FFD7-9FD0-4605-8BBB-D0099D673B32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81E9F033-D802-44C1-AE28-DD89263D5282",
+    "height": 1405,
+    "width": 1205,
+    "x": 9278,
+    "y": -4484
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "267F1ACF-2A11-475B-AF42-C4A10E66122B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A8AF2293-52BE-49E0-BA43-238F9378A9B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4503E04B-C50D-4EA8-9FF7-165F4F141BD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99C62322-3585-4F58-83D8-92C09F21FF08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E30DBB09-4C33-4B27-B9F9-32B6890289B3"
+    },
+    {
+      "class": "text",
+      "id": "08354F07-F179-4093-9DDF-DC8818A55B79"
+    },
+    {
+      "class": "group",
+      "id": "FB6A4D23-720F-4F10-BF57-1B4100AF72FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B39AC6C3-E4C7-4B8A-A18A-0BEBB274F23A"
+    },
+    {
+      "class": "group",
+      "id": "C0204CE8-8E40-44DE-925D-E3F72714E241"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F81689B-955B-4B27-8DBE-F5CBBADBD95E"
+    }
+  ],
+  "name": "QI-VUL/Product Selection - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E18C17F-20DA-4246-A31D-C94168B4F992",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A33D669-FF75-4384-9F3D-3B256DC4F344",
+    "guides": [
+    ]
+  }
+}

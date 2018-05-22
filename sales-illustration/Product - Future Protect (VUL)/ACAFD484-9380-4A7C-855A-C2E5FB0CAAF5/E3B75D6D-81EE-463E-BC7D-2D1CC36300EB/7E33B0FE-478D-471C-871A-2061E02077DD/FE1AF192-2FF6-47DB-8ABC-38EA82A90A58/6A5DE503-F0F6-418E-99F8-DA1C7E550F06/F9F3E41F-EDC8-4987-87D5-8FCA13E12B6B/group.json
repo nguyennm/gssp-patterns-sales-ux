@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F9F3E41F-EDC8-4987-87D5-8FCA13E12B6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 720,
+    "x": 0,
+    "y": 338
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5A21AFC2-9272-4414-861B-BAF798A4F210"
+    },
+    {
+      "class": "group",
+      "id": "9CCB20ED-399B-497B-8A7A-274EA96A7CC8"
+    },
+    {
+      "class": "group",
+      "id": "7E209B49-28C6-4369-A474-1E27A3ECA2B1"
+    },
+    {
+      "class": "text",
+      "id": "1A6EC50A-9265-4DC1-8F45-A552A9D37986"
+    }
+  ],
+  "name": "Withdrawal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

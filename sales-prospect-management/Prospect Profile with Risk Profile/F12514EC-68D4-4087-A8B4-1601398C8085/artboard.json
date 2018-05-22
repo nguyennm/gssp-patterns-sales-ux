@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1C8048BF-52A1-4E20-9D18-215FD82082ED",
-    "height": 2105,
+    "height": 1805,
     "width": 1205,
     "x": -2280,
     "y": -973
@@ -64,18 +64,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "902F379C-5931-45C3-BE4B-5BE5444C3A4B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "351D0B37-66B9-4D06-8BFB-2D3CB4AB372E"
-    },
-    {
-      "class": "group",
-      "id": "EC46F035-B516-4CA6-B1C2-51F10FC9F578"
-    },
-    {
-      "class": "symbolInstance",
       "id": "34785EA6-042A-4205-8458-CB1C376A4BBB"
     },
     {
@@ -91,27 +79,11 @@
       "id": "B7A94026-F398-40FC-85A9-B5682BD8A3BB"
     },
     {
-      "class": "text",
-      "id": "F109C868-9B59-409A-B0EA-5E26C4906B57"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BE9DB6C1-811A-4BDD-8E4F-3FE22D1EA88E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7E056483-9F6A-4617-B9FA-6B005C4FFEE7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2464771B-FDD7-4B87-8187-75984183CDD9"
-    },
-    {
       "class": "group",
-      "id": "0457EBE4-6857-4069-B915-62B491A89AB3"
+      "id": "22E696E4-462A-4B75-A986-283C108E8414"
     }
   ],
-  "name": "Profile On Load - Desktop",
+  "name": "RP - Details (View) - Desktop",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

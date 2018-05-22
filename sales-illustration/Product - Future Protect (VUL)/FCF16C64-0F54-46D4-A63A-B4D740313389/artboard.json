@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "FCF16C64-0F54-46D4-A63A-B4D740313389",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2850,
+    "width": 1205,
+    "x": 10616,
+    "y": 4393
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FA5460DE-1F45-4F73-B580-2F95F2C1C59F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35CF6502-1DE1-40B8-AEF1-6D4763F13C31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96BB867B-6CCD-4FBC-B85A-5BB5A268040A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38C6C39F-EEA7-4976-A18D-E694AA8F79C8"
+    },
+    {
+      "class": "text",
+      "id": "294FCDC0-E244-4C84-AC21-3C9B7455EAFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FAAD405-6DC8-41A2-B42C-C84997C42D1A"
+    },
+    {
+      "class": "group",
+      "id": "C7F2397B-9AAA-4C55-9817-1A97BB68574E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24FDC008-2BFC-493E-B1C1-A89F04FD6BFC"
+    },
+    {
+      "class": "group",
+      "id": "30216B64-F468-4517-BC4E-0C499FE8AB4D"
+    }
+  ],
+  "name": "QI-VUL/Plan Design - Product Data Entry (Complete) - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

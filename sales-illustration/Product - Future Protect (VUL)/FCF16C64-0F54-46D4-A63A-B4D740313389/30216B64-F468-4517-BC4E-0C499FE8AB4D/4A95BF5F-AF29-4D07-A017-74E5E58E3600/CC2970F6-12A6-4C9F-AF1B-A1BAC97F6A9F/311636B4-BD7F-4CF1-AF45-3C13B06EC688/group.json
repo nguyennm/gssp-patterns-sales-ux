@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "311636B4-BD7F-4CF1-AF45-3C13B06EC688",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 497,
+    "width": 824,
+    "x": 0,
+    "y": 697
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0E4C419A-4EA8-4599-89EF-A235F1673102"
+    },
+    {
+      "class": "group",
+      "id": "32EC1A75-7183-4940-B577-6015454B6BFD"
+    },
+    {
+      "class": "text",
+      "id": "DF1BAC86-3647-4FC5-9751-AD086759580F"
+    }
+  ],
+  "name": "Insured Information",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CD995F84-32BF-4654-B8F1-6BE86FF5FEE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "140B1D56-616C-4F29-98B9-61FB502FA4DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43EB2FA4-EF2E-4218-8152-487BD8B45BB5",
+    "height": 357,
+    "width": 315,
+    "x": 352,
+    "y": 155
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/selection-panel/pane-with-header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAFB5112-7118-4E48-9C65-B99C73D1E2B6",
+      "overrideName": "ECD4461A-5E80-4334-B279-ECFF522491EE/629ED6AD-706B-4C2F-BB29-7B4D519CBBD5_stringValue",
+      "value": "Pro Invest"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "538A73E2-0CA1-4383-9827-8BE3DB5FDE19",
+      "overrideName": "70413A90-8ADB-42E8-BDB5-E6B26DF58673/24C4AB60-2BB4-437B-9F2C-FC368CBEEC4E_stringValue",
+      "value": "Pro Invest"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D19853BB-FFA3-422B-9EF8-98D3A77955D7",
+      "overrideName": "62D7B9A5-7BC0-4BEF-96C5-BCBD753CA098_symbolID",
+      "value": "6C357C88-3E13-4289-B468-CC8E00C3F780"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16D68DA3-CCB0-46E6-B76E-A7D23016AA4A",
+      "overrideName": "29AA6EFF-6226-4E25-BCED-F44B28034F43_symbolID",
+      "value": "6C357C88-3E13-4289-B468-CC8E00C3F780"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60B2F4B1-A45D-4C3D-A23F-9A8D89BC02AC",
+      "overrideName": "A47E1892-5413-4657-A931-70C4B36BD909_symbolID",
+      "value": "6C357C88-3E13-4289-B468-CC8E00C3F780"
+    }
+  ],
+  "overrides": {
+    "29AA6EFF-6226-4E25-BCED-F44B28034F43": {
+      "symbolID": "6C357C88-3E13-4289-B468-CC8E00C3F780"
+    },
+    "62D7B9A5-7BC0-4BEF-96C5-BCBD753CA098": {
+      "symbolID": "6C357C88-3E13-4289-B468-CC8E00C3F780"
+    },
+    "70413A90-8ADB-42E8-BDB5-E6B26DF58673": {
+      "24C4AB60-2BB4-437B-9F2C-FC368CBEEC4E": "Pro Invest"
+    },
+    "A47E1892-5413-4657-A931-70C4B36BD909": {
+      "symbolID": "6C357C88-3E13-4289-B468-CC8E00C3F780"
+    },
+    "ECD4461A-5E80-4334-B279-ECFF522491EE": {
+      "629ED6AD-706B-4C2F-BB29-7B4D519CBBD5": "Pro Invest"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8B3D13D-0FAF-43E7-80D1-94234088962E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0CEB4088-832A-4D68-8FCC-A61EAD740A86",
+  "verticalSpacing": 0
+}
