@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "1ADC5144-DC03-440A-A6E4-4AEC01EC2CF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2850,
+    "width": 1205,
+    "x": 10616,
+    "y": 1434
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "540AF3CF-0D47-4F0B-A3F8-7BBE105AA16C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23BB80EE-337F-4E36-9919-DBF058534213"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCCC61A7-B790-4CBD-9F4B-4A8EB4CB013D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E38FE11-A5EB-4A78-B5A2-A5DB69F1D5AE"
+    },
+    {
+      "class": "text",
+      "id": "DE1246C2-9213-45D9-ABB2-AC9560A82F93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81A360A7-19AC-436D-B734-E4C8B1B9A45B"
+    },
+    {
+      "class": "group",
+      "id": "D90455D2-B57F-4D75-BD4E-23BD872EA8D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "070CF5F3-A537-4614-A5AF-B3D236666F5B"
+    },
+    {
+      "class": "group",
+      "id": "999576D1-0383-4BB0-9DAF-6F2F78FCA4A4"
+    },
+    {
+      "class": "group",
+      "id": "5242D32E-AE76-40E6-BED6-92AF3C1F6F2A"
+    }
+  ],
+  "name": "QI-VUL/Plan Design - Product Data Entry (Funds Allocated) - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

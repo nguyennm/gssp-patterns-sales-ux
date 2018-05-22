@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B16A947F-D9B9-4791-AE60-5EDE1CD39657",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6569A9A1-6D80-40AF-928D-AA106C5CF75A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "471521F1-C5D5-47A4-8BC6-1E01DEE3B8FC",
+    "height": 50,
+    "width": 205,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/sub/tab-active-v2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1570A9B0-538E-44A4-AFE2-904A4AE1DFD6",
+      "overrideName": "5F6C6351-65DB-4969-83F6-5074E88140A3_stringValue",
+      "value": "FUTURE PROTECT"
+    }
+  ],
+  "overrides": {
+    "5F6C6351-65DB-4969-83F6-5074E88140A3": "FUTURE PROTECT"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14906945-A1C1-494E-9B8B-74A28E0A9410",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "957A09FF-7EBB-4D81-8CFC-9C2FB230127F",
+  "verticalSpacing": 0
+}

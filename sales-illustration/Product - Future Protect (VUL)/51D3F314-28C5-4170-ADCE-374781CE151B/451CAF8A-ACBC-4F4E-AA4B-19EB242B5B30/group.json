@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "451CAF8A-ACBC-4F4E-AA4B-19EB242B5B30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA93BF53-BEC4-4181-B0F0-AE2FB995653E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FA5B612-77F2-43EC-8AD5-D310F0587246",
+    "height": 885,
+    "width": 1140,
+    "x": 30,
+    "y": 250
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4685B5C9-8A78-4A97-9F43-5DFA4202BAD6"
+    },
+    {
+      "class": "group",
+      "id": "4462E2CA-978D-4242-BC8B-8D4205B7FF1C"
+    }
+  ],
+  "name": "Progress",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62DAAC62-30C2-42E4-8962-D98909431AA6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

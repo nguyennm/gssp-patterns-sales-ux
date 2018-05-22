@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6F8D66B1-CAB2-4E71-8FA1-22C056B7D167",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "532C60E4-2213-4746-B6FD-A09C123595F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E7FFC2C-39FB-435C-9A9D-19EC45549C3E",
+    "height": 106,
+    "width": 1043,
+    "x": 2,
+    "y": 133
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/premium-payment-summary-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DAC495C6-8AB2-4099-A27C-9458ACDB583A",
+      "overrideName": "4F195DF0-2422-40AE-8FBE-7CEE09904CA8_stringValue",
+      "value": "$1,880.00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C4DBE0E-5009-4B8A-A240-B2E332779EAE",
+      "overrideName": "63989534-6935-4449-8499-126CE2F698DD_stringValue",
+      "value": "$940.00"
+    }
+  ],
+  "overrides": {
+    "4F195DF0-2422-40AE-8FBE-7CEE09904CA8": "$1,880.00",
+    "63989534-6935-4449-8499-126CE2F698DD": "$940.00"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4F8508B-2BE1-48AD-8D79-7E4EFC8F3C6E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D4DCBEB4-306C-4F1C-8E8B-976E1B762788",
+  "verticalSpacing": 0
+}
