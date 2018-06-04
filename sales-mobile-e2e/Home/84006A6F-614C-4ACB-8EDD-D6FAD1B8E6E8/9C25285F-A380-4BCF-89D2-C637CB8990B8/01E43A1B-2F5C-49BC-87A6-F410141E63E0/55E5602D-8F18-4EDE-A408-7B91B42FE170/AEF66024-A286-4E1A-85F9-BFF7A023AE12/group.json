@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "AEF66024-A286-4E1A-85F9-BFF7A023AE12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 276,
+    "width": 300,
+    "x": 690,
+    "y": 206
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "30FC16A4-A051-45D5-B9D4-775F3A5F8089"
+    },
+    {
+      "class": "text",
+      "id": "85573443-D9B4-4C52-8DE0-37A71CD70EB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BFD196B-3FFC-47B0-915B-49D2BFBBF357"
+    }
+  ],
+  "name": "Card 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

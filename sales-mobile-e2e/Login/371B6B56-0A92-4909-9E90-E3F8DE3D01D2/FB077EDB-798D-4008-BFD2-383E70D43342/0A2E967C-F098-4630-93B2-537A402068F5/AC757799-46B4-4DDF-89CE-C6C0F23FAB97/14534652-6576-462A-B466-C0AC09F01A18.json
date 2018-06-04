@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "14534652-6576-462A-B466-C0AC09F01A18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 1024,
+    "x": 0,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/alerts/alert-info-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C306E3B-BD8A-4AB5-8A75-AF208F5CB059",
+      "overrideName": "9048D176-0A35-49B3-A587-29D19D4EBE0E_stringValue",
+      "value": "You are currently offline and do not have an active session. Please connect to the network to log into the application."
+    }
+  ],
+  "overrides": {
+    "9048D176-0A35-49B3-A587-29D19D4EBE0E": "You are currently offline and do not have an active session. Please connect to the network to log into the application."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FDB7981C-1160-4EC2-B843-8435485A7240",
+  "verticalSpacing": 0
+}

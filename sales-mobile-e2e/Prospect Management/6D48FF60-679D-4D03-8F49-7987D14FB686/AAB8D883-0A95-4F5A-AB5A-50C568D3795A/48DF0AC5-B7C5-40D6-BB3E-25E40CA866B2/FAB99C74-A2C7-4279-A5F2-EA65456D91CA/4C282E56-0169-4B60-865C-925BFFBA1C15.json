@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4C282E56-0169-4B60-865C-925BFFBA1C15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41331F67-91C4-402D-8EBF-9C437C5E96F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "605477D5-9159-4E93-BBB4-D38BDD908D15",
+    "height": 18,
+    "width": 302,
+    "x": 30,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/breadcrumb/two-levels",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBEC1E2D-F0FE-4DBF-93C9-B5AD195754E4",
+      "overrideName": "251EE47B-1F21-4AA6-9910-969623102777_stringValue",
+      "value": "Alito, Samuel"
+    }
+  ],
+  "overrides": {
+    "251EE47B-1F21-4AA6-9910-969623102777": "Alito, Samuel"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F267987A-D387-498D-BE3D-AC1273C727AD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "906339CC-BE2E-495D-A5A3-8D4E5850212A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "6642DA16-99D7-4C7F-A0FD-9C5B1209571D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6693A10F-A317-41E7-A632-033776CB0386",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B08005B3-3776-42C1-882B-79E7E98EC5D1",
+    "height": 1237,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C72DF6D-F1B2-4CB1-AB4D-8C16379107F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16CB4057-4D35-4046-8882-18526ACD2531"
+    },
+    {
+      "class": "text",
+      "id": "4F903C64-0C0A-47CB-97E8-02D81BAC2FD8"
+    },
+    {
+      "class": "text",
+      "id": "0409F2EC-9973-4557-B615-B70CF7F1A307"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F55F794-2D1C-4A38-8128-6C821A262607"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89C03213-7CC7-4230-8724-E2FE849A5C1B"
+    },
+    {
+      "class": "text",
+      "id": "B1AD1878-8292-4718-AE41-2002BBA16E92"
+    },
+    {
+      "class": "group",
+      "id": "6B9DDE3B-AA4D-4C13-ABD7-FDE3E9360338"
+    },
+    {
+      "class": "group",
+      "id": "2C16D31F-1335-4E79-87C5-F700C686F00B"
+    },
+    {
+      "class": "group",
+      "id": "62F48F11-236C-4D70-A48A-9235035600E5"
+    },
+    {
+      "class": "group",
+      "id": "E4FD897D-79D5-4482-9C7F-9A30D75D5A04"
+    },
+    {
+      "class": "text",
+      "id": "9761D939-B5C5-4CCD-B0BE-29846BFB79C8"
+    },
+    {
+      "class": "group",
+      "id": "BA08D858-148A-4C84-91C9-501C51B501C8"
+    },
+    {
+      "class": "group",
+      "id": "9BFEE9D8-809E-42E6-9884-3F58B0C18682"
+    }
+  ],
+  "name": "Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28F41345-8119-49E0-8BDE-6EE9F1BD0C55",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
