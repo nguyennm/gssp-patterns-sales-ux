@@ -1,0 +1,57 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "2DA568A2-665D-48DA-A690-46B3B5B1A150",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EC0AEF2-635D-433B-9AAF-ED9ECF6D0024",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0DAD2762-D0C8-4027-9AE4-A04BDDD87EBA",
+    "height": 446.1410788381743,
+    "width": 1024,
+    "x": 0,
+    "y": 60
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/249e51a45f0e17187742f15a2057900753bbb2e9",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "promo-skinny-clico@3x",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D159BBA-4F75-41B9-B0AB-2ED1C4B2830C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

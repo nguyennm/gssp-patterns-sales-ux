@@ -1,0 +1,86 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B929C1A3-B322-4CAA-AE0E-006571BE03A5",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F05E0D40-399C-414B-A6B5-37762D5B24B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2306186C-C690-4ED2-A620-9CCBCCB6FA0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B58C7182-FD42-41EA-9D34-C09928A534E8",
+    "height": 1250,
+    "width": 2250,
+    "x": 329,
+    "y": -430
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "33CBD356-F336-46FB-BD58-A79EDF60D4CF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9C946308-024C-40B4-8D0C-8DCE86F9EAA2"
+    },
+    {
+      "class": "group",
+      "id": "BA1F8F03-4EEC-4411-962A-A70B6FC7CBFB"
+    }
+  ],
+  "name": "Mobile - Composite Treatments",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 2250,
+    "name": "implementation-guide",
+    "offersLandscapeVariant": 0,
+    "width": 2250
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B823ACEC-38E1-4B12-A99F-949A9C485CF1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B4C5CF82-A9F2-4450-81B9-FE64752D3605",
+    "guides": [
+    ]
+  }
+}

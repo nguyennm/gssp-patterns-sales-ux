@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "098910C9-F5D4-4D49-898A-F2D07A021A49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F11BB21-4402-46FD-BDDE-2986A6F37852",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8A46D2D-359E-4752-9A8A-DAD1BD69871A",
+    "height": 400,
+    "width": 300,
+    "x": 692,
+    "y": 361
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/product-item-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4068FE19-9B34-40B4-B670-6221A1884175",
+      "overrideName": "40AB6B11-5FBC-435A-985C-7F3FD53C3016_stringValue",
+      "value": "When time is of essence, and your health requires immediate attention, Criti Care takes away your financial worries. It gives you instant cash to cover expensive medical bills or compensate a loss of income due to sickness from 32 covered diseases. Criti care also featured with a 75% return of the premiums and an Excess Interest Bonus (EIB) at maturity."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14851141-DB6B-4E94-A31C-3CF9D9F7D4EF",
+      "overrideName": "AEE68421-F02B-4E30-8932-6404E104874E_stringValue",
+      "value": "CritiCare"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "798B1931-4E78-4E21-A725-1BDFC08D8C91",
+      "overrideName": "C8AB137C-C16D-4571-A80B-22714CD891A6_symbolID",
+      "value": "F1553DD1-DA44-4B6E-A07E-17E48A4469F3"
+    }
+  ],
+  "overrides": {
+    "40AB6B11-5FBC-435A-985C-7F3FD53C3016": "When time is of essence, and your health requires immediate attention, Criti Care takes away your financial worries. It gives you instant cash to cover expensive medical bills or compensate a loss of income due to sickness from 32 covered diseases. Criti care also featured with a 75% return of the premiums and an Excess Interest Bonus (EIB) at maturity.",
+    "AEE68421-F02B-4E30-8932-6404E104874E": "CritiCare",
+    "C8AB137C-C16D-4571-A80B-22714CD891A6": {
+      "symbolID": "F1553DD1-DA44-4B6E-A07E-17E48A4469F3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE99959B-54F0-49B9-BC3F-20E0CBCAC9F5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F2EBF18F-E305-4CE1-B036-9784154DB93F",
+  "verticalSpacing": 0
+}

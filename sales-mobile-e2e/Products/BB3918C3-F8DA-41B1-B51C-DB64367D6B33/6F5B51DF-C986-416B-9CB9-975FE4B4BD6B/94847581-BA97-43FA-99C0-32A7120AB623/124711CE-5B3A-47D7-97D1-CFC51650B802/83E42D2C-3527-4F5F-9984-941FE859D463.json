@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "83E42D2C-3527-4F5F-9984-941FE859D463",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A3D0F70-3150-47C8-9E15-0E414A6C30A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6480AE7E-6D77-4441-B5A8-B84B9FE289C2",
+    "height": 400,
+    "width": 300,
+    "x": 32,
+    "y": 361
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/product-item-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD71F7AA-DC0F-47D8-BF5D-7F23A91D3172",
+      "overrideName": "AEE68421-F02B-4E30-8932-6404E104874E_stringValue",
+      "value": "Circles of Protection"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "922BDB6F-D9A1-4F5F-A08A-D1D7306B0699",
+      "overrideName": "40AB6B11-5FBC-435A-985C-7F3FD53C3016_stringValue",
+      "value": "Unfortunate events such as accidents can result in death or permanent and total disabilities. Rely on Circles of Protection benefits to provide you and your loved ones with financial support when most needed!"
+    }
+  ],
+  "overrides": {
+    "40AB6B11-5FBC-435A-985C-7F3FD53C3016": "Unfortunate events such as accidents can result in death or permanent and total disabilities. Rely on Circles of Protection benefits to provide you and your loved ones with financial support when most needed!",
+    "AEE68421-F02B-4E30-8932-6404E104874E": "Circles of Protection"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41C6CA25-7634-4C59-B006-1DFFC1B0ED51",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F2EBF18F-E305-4CE1-B036-9784154DB93F",
+  "verticalSpacing": 0
+}

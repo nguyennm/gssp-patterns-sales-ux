@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA1614C8-7911-4C55-969A-57245B61590A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5016E81-5A61-4CF8-BCBB-8802ACC10369",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3049E05C-F7B7-486D-8E7C-799688207178",
+    "height": 40,
+    "width": 263,
+    "x": 266,
+    "y": 444
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/btn-needs-analysis",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4E53208-3515-4E17-86B1-53AB4998ABE3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "97CBACE6-2E8F-4678-9240-C854DB6ECD67",
+  "verticalSpacing": 0
+}

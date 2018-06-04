@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "223CAA34-E1A0-4581-95BF-41E739DA9576",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF5AE44B-F6BE-4A3A-81E9-9F6BE943AC3D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54791955-B811-4A46-854A-86F0F08F25BE",
+    "height": 175,
+    "width": 994,
+    "x": 15,
+    "y": 578
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/footer-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37BDB5B0-6559-49F1-A250-48E688C5B32F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "75BF5CE4-9DBC-443F-AA06-A9B430F645FB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D0F97301-1324-42C8-A62C-F30395033E28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 1024,
+    "x": 0,
+    "y": 120
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/alerts/alert-info-tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "350EF235-D376-4336-92A0-151772EA5786",
+      "overrideName": "9048D176-0A35-49B3-A587-29D19D4EBE0E_stringValue",
+      "value": "You are currently offline. Only offline content is available at this time."
+    }
+  ],
+  "overrides": {
+    "9048D176-0A35-49B3-A587-29D19D4EBE0E": "You are currently offline. Only offline content is available at this time."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FDB7981C-1160-4EC2-B843-8435485A7240",
+  "verticalSpacing": 0
+}
