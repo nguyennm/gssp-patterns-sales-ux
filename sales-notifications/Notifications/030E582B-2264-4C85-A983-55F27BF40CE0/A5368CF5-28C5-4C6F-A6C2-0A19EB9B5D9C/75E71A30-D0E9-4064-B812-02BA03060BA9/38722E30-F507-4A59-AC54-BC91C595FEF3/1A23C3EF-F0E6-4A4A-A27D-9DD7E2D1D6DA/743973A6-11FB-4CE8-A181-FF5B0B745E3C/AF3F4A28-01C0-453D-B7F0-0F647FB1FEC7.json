@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AF3F4A28-01C0-453D-B7F0-0F647FB1FEC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACEA7058-CD41-4B82-8BE6-AEA7D8FAE810",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C437D0D-C247-433F-BD0E-63F1B66C72BF",
+    "height": 100,
+    "width": 450,
+    "x": 0,
+    "y": 259
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/notifications/notification-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF4683C4-8EFB-4D23-9029-35FA2CE52C61",
+      "overrideName": "B99177F3-4486-4C31-9F73-8D70C28C8C1E_stringValue",
+      "value": "Application: COP-23405-001"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0E20E1E-B43F-4BFD-AF81-A29D8F15C1C3",
+      "overrideName": "6A31F158-6D40-4D08-9155-12CFECF1847A_stringValue",
+      "value": "John Doe's application is declined."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1569603B-F523-4ED0-B610-977D4375B595",
+      "overrideName": "69229521-BAA7-46F5-B22B-6481338445EE_stringValue",
+      "value": "April 11, 2018 | 09:45AM"
+    }
+  ],
+  "overrides": {
+    "69229521-BAA7-46F5-B22B-6481338445EE": "April 11, 2018 | 09:45AM",
+    "6A31F158-6D40-4D08-9155-12CFECF1847A": "John Doe's application is declined.",
+    "B99177F3-4486-4C31-9F73-8D70C28C8C1E": "Application: COP-23405-001"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "425B80E1-1D4C-414D-B8EA-3515BDD67500",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A4D30B6-ADB0-4169-833D-31B297811405",
+  "verticalSpacing": 0
+}
