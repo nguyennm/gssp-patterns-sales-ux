@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DA820B11-4BF0-46EF-AB86-B748DC2CB709",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD74F678-70FC-4670-92F3-767E8B6D884B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98FC8543-987E-4569-B7D3-25D8A142F2BF",
+    "height": 50,
+    "width": 245,
+    "x": 48,
+    "y": 161
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/sub/tab-active-v2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96A349C6-95E0-4541-A558-99885EA4D5C1",
+      "overrideName": "5F6C6351-65DB-4969-83F6-5074E88140A3_stringValue",
+      "value": "PROSPECT DETAILS"
+    }
+  ],
+  "overrides": {
+    "5F6C6351-65DB-4969-83F6-5074E88140A3": "PROSPECT DETAILS"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8617E37F-C2A0-4819-B0C1-19A8F4F7EDAC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F03D1B5C-C077-4D1F-AE92-88BA8F1451B8",
+  "verticalSpacing": 0
+}
