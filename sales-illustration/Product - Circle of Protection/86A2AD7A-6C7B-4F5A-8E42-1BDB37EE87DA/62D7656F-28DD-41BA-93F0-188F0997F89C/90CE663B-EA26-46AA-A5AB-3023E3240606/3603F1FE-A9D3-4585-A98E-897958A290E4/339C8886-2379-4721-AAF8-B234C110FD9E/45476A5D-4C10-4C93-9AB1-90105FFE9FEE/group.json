@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "45476A5D-4C10-4C93-9AB1-90105FFE9FEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 272,
+    "x": 22,
+    "y": 132
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F144F15A-BC81-4614-9859-C24039D84B45"
+    },
+    {
+      "class": "text",
+      "id": "A138075C-033A-4949-B970-BE896FA37D72"
+    },
+    {
+      "class": "group",
+      "id": "04900169-EBE0-46BE-A5FA-B30E58D3E077"
+    }
+  ],
+  "name": "statics/selection-panel/selection-pill-disabled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

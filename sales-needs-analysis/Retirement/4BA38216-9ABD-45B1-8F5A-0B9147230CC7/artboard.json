@@ -44,47 +44,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "00612154-05C2-4606-9167-CB6335FEF1C7"
     },
     {
-      "class": "symbolInstance",
-      "id": "78E1F4FD-F838-4A06-AD8C-94975C04B4A4"
+      "class": "group",
+      "id": "D1F9F24A-36AD-4CA6-8A0D-6DF2E59F8637"
     },
     {
-      "class": "symbolInstance",
-      "id": "0D7BCE5D-64A1-4B3D-BD7E-D932EA8A4BC4"
+      "class": "group",
+      "id": "E5462145-5A99-4D2B-A7AB-EFCC81B12CDF"
     },
     {
-      "class": "symbolInstance",
-      "id": "A6F1F89D-2FE1-4F3A-ADA9-13CC22225AD2"
+      "class": "group",
+      "id": "3E0F5ADC-1458-4A42-9D77-1F082D6E3603"
     },
     {
-      "class": "symbolInstance",
-      "id": "12E9BAB7-3A4E-4282-A158-E47C39D5783D"
+      "class": "group",
+      "id": "F2D92E1A-B05D-46B9-8FA8-3A04F3DEEC30"
     },
     {
-      "class": "symbolInstance",
-      "id": "A24352CF-162F-4FE3-B71A-BDF9F17A2445"
+      "class": "group",
+      "id": "AD66B1D0-A606-470E-B856-A8A8104A40E1"
     },
     {
       "class": "text",
       "id": "E2AB9C61-DC1B-4BC0-B4E6-16DD7C091519"
     },
     {
-      "class": "symbolInstance",
-      "id": "6838341A-101A-4F1F-8DEB-C02AA012C497"
+      "class": "group",
+      "id": "0C86F035-5E0E-4758-B821-EC581FD35E2E"
     },
     {
       "class": "group",
       "id": "DDE3C98D-3DE2-4E6A-AC3C-3A9191912ECC"
-    },
-    {
-      "class": "group",
-      "id": "DFB77DA5-E5FD-4FF2-B256-D74F46558514"
     }
   ],
   "name": "NA-Specific/Fact Finding - Option A - Desktop",

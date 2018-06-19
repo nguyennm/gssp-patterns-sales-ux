@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -55,16 +55,16 @@
       "id": "16229BBC-29F6-4811-8386-4ECF214577B0"
     },
     {
-      "class": "symbolInstance",
-      "id": "57EC73CD-89E9-4D6C-B3CD-BA38A454A22C"
+      "class": "group",
+      "id": "849BBBB9-8823-4076-89AB-AF6308056E7C"
     },
     {
-      "class": "symbolInstance",
-      "id": "7F446318-9004-4159-AF6B-52A5CDC7B1A5"
+      "class": "group",
+      "id": "EBCD4D03-8D8C-40EA-9F0D-539A7F95822C"
     },
     {
-      "class": "symbolInstance",
-      "id": "09BB9227-F152-4BFC-B0E2-BF5D18F2F7B8"
+      "class": "group",
+      "id": "E6D85C38-F5BB-40EE-96BA-CAF2F711450D"
     }
   ],
   "name": "Login - Tablet",

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "9EAB8839-A1D5-4512-9BE0-A4C61C32FE73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 1170,
+    "x": 2,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19F73699-7A6C-4A98-97A4-4DD593038472"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE7314C8-4C4B-47CB-B474-72C4CA496A18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46C8A0BF-9E91-4A3D-A53A-A47BEDE87482"
+    }
+  ],
+  "name": "FooterBar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

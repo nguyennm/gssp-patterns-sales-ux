@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "357BBFBC-9ADE-4BD0-A742-1046DE95D86C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 21,
+    "x": 325,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD02CE0B-558B-4703-8A42-7B1977778459"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC574EB0-E726-4FE4-BF24-5F03052710F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65673E66-F8FA-4D3A-B49F-77F0E9CB99F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21849B40-2A4F-4C24-874D-9119484D7C50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B854EAE-2540-4D59-A8BD-E7BB2A7D3F5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30314413-2F60-4880-AD1A-63B838CD18F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D87EC897-6ABD-4F69-917D-2B87A49DDD0E"
+    }
+  ],
+  "name": "Calendar Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

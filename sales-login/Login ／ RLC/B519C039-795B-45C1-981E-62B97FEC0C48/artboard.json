@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -55,16 +55,16 @@
       "id": "C233992C-B59D-4D44-8342-0EECF6525D00"
     },
     {
-      "class": "symbolInstance",
-      "id": "E392A739-3B72-4322-AC0E-167525AB328B"
+      "class": "group",
+      "id": "24BA6D02-0DCF-46F1-913E-4DAE5320F989"
     },
     {
-      "class": "symbolInstance",
-      "id": "D3DE43AE-C035-4782-ACDB-DC581B242420"
+      "class": "group",
+      "id": "6DAC52FE-6920-44C0-8EFD-64E0B1647A48"
     },
     {
-      "class": "symbolInstance",
-      "id": "295F1447-BCF8-40EE-8F61-A397F8E8FBE5"
+      "class": "group",
+      "id": "B5C82A80-959D-4BC2-A51F-4B024226FB1F"
     }
   ],
   "name": "Login - Desktop",

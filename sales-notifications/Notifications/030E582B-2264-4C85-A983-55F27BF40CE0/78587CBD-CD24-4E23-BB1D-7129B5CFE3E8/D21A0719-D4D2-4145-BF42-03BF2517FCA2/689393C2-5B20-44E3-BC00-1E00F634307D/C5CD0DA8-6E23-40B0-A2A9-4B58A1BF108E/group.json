@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C5CD0DA8-6E23-40B0-A2A9-4B58A1BF108E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 263,
+    "x": 675,
+    "y": 178
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2EC9207C-C3DC-4B7F-B92B-507EC7EF1586"
+    },
+    {
+      "class": "text",
+      "id": "BBFD8DB6-9B95-45E7-AC3C-D1C1FF1ABD3E"
+    },
+    {
+      "class": "group",
+      "id": "2CE93862-A30C-4778-9ECD-1F37569EFFDD"
+    }
+  ],
+  "name": "Secondary Button (On Load) 01",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

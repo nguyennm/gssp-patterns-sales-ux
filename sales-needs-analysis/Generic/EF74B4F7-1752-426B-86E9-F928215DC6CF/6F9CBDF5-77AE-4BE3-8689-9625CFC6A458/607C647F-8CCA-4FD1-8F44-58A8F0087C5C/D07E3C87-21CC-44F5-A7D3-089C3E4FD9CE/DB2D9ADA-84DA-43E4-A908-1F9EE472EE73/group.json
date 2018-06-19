@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0D38E2E0-5E32-430A-90F8-27BD7F8C67D6",
-    "height": 50,
+    "height": 57,
     "width": 1060,
     "x": 1,
     "y": 53
@@ -28,16 +28,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "4B73A068-9B29-45C6-9A9D-8AEB154DF2DD"
+      "class": "group",
+      "id": "CBD28514-2059-4BC1-B561-71BCC64E3345"
     },
     {
-      "class": "symbolInstance",
-      "id": "EC88B86C-9AF7-4894-89A2-CC6CFEA968C8"
+      "class": "group",
+      "id": "EEE7BC2B-EFC8-4CBA-A2BD-289F28F4F63C"
     },
     {
-      "class": "symbolInstance",
-      "id": "167D3EC4-CBD6-480D-9205-92EB8531877F"
+      "class": "group",
+      "id": "09E24AFB-9A99-4D05-B51E-98896F6AA158"
     }
   ],
   "name": "Tab Bar",

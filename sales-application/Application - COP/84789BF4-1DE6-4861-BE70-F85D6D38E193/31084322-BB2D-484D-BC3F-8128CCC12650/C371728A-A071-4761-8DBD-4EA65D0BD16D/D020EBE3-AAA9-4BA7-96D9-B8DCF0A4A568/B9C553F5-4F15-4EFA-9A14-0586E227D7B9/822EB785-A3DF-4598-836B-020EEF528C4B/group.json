@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "822EB785-A3DF-4598-836B-020EEF528C4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 515,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7ECF2891-B656-43D5-9942-945CD3246685"
+    },
+    {
+      "class": "text",
+      "id": "52B43C89-E5C1-4A50-BA56-1C1960E0690A"
+    },
+    {
+      "class": "text",
+      "id": "4F1207C3-84BC-439B-BE00-806A8C101AC7"
+    },
+    {
+      "class": "text",
+      "id": "ECCA0495-0F01-4156-97AF-643013682F7E"
+    },
+    {
+      "class": "text",
+      "id": "7AD3E870-4D30-4E53-9DE0-12A42BEB9789"
+    },
+    {
+      "class": "group",
+      "id": "6ACDAB7E-1789-47EA-BD54-DABE7BC27C53"
+    }
+  ],
+  "name": "Beneficiary Pill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -44,47 +44,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "966FE88B-D2D9-47CF-A06E-2E73F9EA935B"
     },
     {
-      "class": "symbolInstance",
-      "id": "34F89F21-BA9E-4D64-918A-37E1FD447D01"
+      "class": "group",
+      "id": "261D09F6-A373-43A0-AE43-01794A1BF6B0"
     },
     {
-      "class": "symbolInstance",
-      "id": "524C6673-9F4F-4A44-B41F-2140CCD5BB4B"
+      "class": "group",
+      "id": "F1366C36-F257-4D06-8B31-2179F1051630"
     },
     {
-      "class": "symbolInstance",
-      "id": "90880CAB-F38C-457D-B6B9-329332C54F27"
+      "class": "group",
+      "id": "9E66A235-2045-48A7-9057-B9CE9AA7AEF0"
     },
     {
-      "class": "symbolInstance",
-      "id": "3C063E69-888A-4BF2-AB38-CB092B00C7EA"
+      "class": "group",
+      "id": "DA20E1EB-2E2C-409D-9222-757936FA55D3"
     },
     {
-      "class": "symbolInstance",
-      "id": "C575E772-CCDC-455C-ADBD-50DE53435F09"
+      "class": "group",
+      "id": "4C28A5F4-8A9E-4B44-A6FF-47438BDF1C47"
     },
     {
       "class": "text",
       "id": "197DBC5B-17D9-4A96-B2FD-755B5E53A613"
     },
     {
-      "class": "symbolInstance",
-      "id": "0266022B-BE2D-4A8E-AE3E-3E8562B27B26"
+      "class": "group",
+      "id": "D50B8B3A-E598-47BA-8C8B-BA0640F7CF08"
     },
     {
       "class": "group",
       "id": "3180F115-7E6D-403A-AA96-855858689E8E"
-    },
-    {
-      "class": "group",
-      "id": "DE6B2593-FA2C-4505-BC57-C1C573944361"
     }
   ],
   "name": "NA-Specific/Recommendations - Desktop",

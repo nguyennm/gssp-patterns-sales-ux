@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "DA20E1EB-2E2C-409D-9222-757936FA55D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 348,
+    "x": 30,
+    "y": 150
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CDCE73D7-A136-4F53-9574-69298710D42C"
+    },
+    {
+      "class": "text",
+      "id": "5A90D04C-0104-42CC-A85D-7DB416DDA974"
+    },
+    {
+      "class": "text",
+      "id": "45535670-8A89-4F70-A379-8EC77D9B232D"
+    },
+    {
+      "class": "text",
+      "id": "6DC4E07B-B01A-4E5C-BA71-27A36674FF73"
+    },
+    {
+      "class": "text",
+      "id": "15A725B6-73F6-4B5E-9992-C84BD159E96F"
+    }
+  ],
+  "name": "Breadcrumb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
