@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "8514AC39-2076-414C-BD91-DC75766A4E21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 555,
+    "x": 1,
+    "y": 548
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5028EF10-5156-4DB1-9C21-3CAE293E4DA4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A36DD76-4157-46B2-A0F5-64B81FA17FA8"
+    },
+    {
+      "class": "text",
+      "id": "F50DC77D-BDBF-4D58-BDD3-F5C384843AED"
+    },
+    {
+      "class": "text",
+      "id": "EC032635-D59C-4D66-8BBB-3F9FD64AA5C4"
+    }
+  ],
+  "name": "Street Address 02 Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

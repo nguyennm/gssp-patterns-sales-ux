@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "10962E7E-9C43-47F1-B3DC-35B520F9C217",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2023,
+    "width": 2129,
+    "x": 80,
+    "y": 7468
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FA75AF37-4EB7-4621-89A8-E579C849DBE1"
+    },
+    {
+      "class": "group",
+      "id": "536E2079-E41A-480C-8CB0-4DCEC8A0437B"
+    }
+  ],
+  "name": "Prospect Profile Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
