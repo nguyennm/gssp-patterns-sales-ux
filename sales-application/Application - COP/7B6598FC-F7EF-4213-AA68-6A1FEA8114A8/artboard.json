@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -87,8 +87,8 @@
       "id": "6EBC058C-BEEA-4633-B9C1-075A1E16FD4D"
     },
     {
-      "class": "group",
-      "id": "2493EC69-30E6-4C92-BEB2-BFB8244C06B4"
+      "class": "symbolInstance",
+      "id": "B0980A47-AA68-47A7-AE60-D7BB2BAF4F9E"
     }
   ],
   "name": "Application - Payment Information - Desktop",
