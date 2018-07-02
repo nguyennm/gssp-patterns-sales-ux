@@ -29,8 +29,17 @@
   "name": "statics/misc/premium-details-expanded-desktop",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4F252D2-2A32-417B-A2BD-88F8ACD8B589",
+      "overrideName": "D60F9593-C934-4780-814A-1C71C9AC4230_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "D60F9593-C934-4780-814A-1C71C9AC4230": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
