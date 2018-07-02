@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3EFCD8F4-1019-4E7D-A3AC-22E1B86B2B92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76B98675-D9E3-4F6E-9364-2FB832D8ADDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA7EE807-9E20-4B4A-9533-8A849C8116E9",
+    "height": 18,
+    "width": 400,
+    "x": 30,
+    "y": 150
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/breadcrumb/three-levels",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B66C5BF6-5F72-4718-B82F-1D6EDF4E0583",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6D9D677E-B486-4E28-AA66-D4250F021833",
+  "verticalSpacing": 0
+}

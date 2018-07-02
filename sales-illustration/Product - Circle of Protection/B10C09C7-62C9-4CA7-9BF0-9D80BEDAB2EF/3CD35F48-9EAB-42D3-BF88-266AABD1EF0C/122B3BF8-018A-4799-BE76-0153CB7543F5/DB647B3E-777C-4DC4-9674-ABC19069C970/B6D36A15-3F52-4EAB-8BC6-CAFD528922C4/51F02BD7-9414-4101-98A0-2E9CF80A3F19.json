@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "51F02BD7-9414-4101-98A0-2E9CF80A3F19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9E61CF4-7426-4244-A123-CF8ACED6FE9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6959DE69-A6B7-4781-A142-BC6FF4938D65",
+    "height": 50,
+    "width": 275,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/tabs/sub/tab-active-v2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1570A9B0-538E-44A4-AFE2-904A4AE1DFD6",
+      "overrideName": "5F6C6351-65DB-4969-83F6-5074E88140A3_stringValue",
+      "value": "CIRCLES OF PROTECTION"
+    }
+  ],
+  "overrides": {
+    "5F6C6351-65DB-4969-83F6-5074E88140A3": "CIRCLES OF PROTECTION"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "587E9DC9-6B7D-4841-9A91-644A165B4257",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "957A09FF-7EBB-4D81-8CFC-9C2FB230127F",
+  "verticalSpacing": 0
+}

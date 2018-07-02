@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "151152E4-E294-462F-809C-3B749FB93ADD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 400,
+    "width": 360,
+    "x": 810,
+    "y": 361
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/product-item-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CE358FA-9F3F-4254-BFF0-47E7F60D9BE2",
+      "overrideName": "734A65DF-F00C-4651-BB3E-BED2F602B285_stringValue",
+      "value": "CritiCare"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BDD305F-73B3-404B-894A-C77565DDD871",
+      "overrideName": "883ECA8B-D0B2-4470-A0F1-F31561099B47_stringValue",
+      "value": "When time is of essence, and your health requires immediate attention, Criti Care takes away your financial worries. It gives you instant cash to cover expensive medical bills or compensate a loss of income due to sickness from 32 covered diseases. Criti care also featured with a 75% return of the premiums and an Excess Interest Bonus (EIB) at maturity."
+    }
+  ],
+  "overrides": {
+    "734A65DF-F00C-4651-BB3E-BED2F602B285": "CritiCare",
+    "883ECA8B-D0B2-4470-A0F1-F31561099B47": "When time is of essence, and your health requires immediate attention, Criti Care takes away your financial worries. It gives you instant cash to cover expensive medical bills or compensate a loss of income due to sickness from 32 covered diseases. Criti care also featured with a 75% return of the premiums and an Excess Interest Bonus (EIB) at maturity."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "521418A8-A228-4C15-8246-8FE016AC43D2",
+  "verticalSpacing": 0
+}

@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1FE19C27-0F7C-4E8C-B0F7-EC1FE9DBDE07",
-    "height": 1065,
+    "height": 1057,
     "width": 1047,
     "x": 39,
     "y": 96
@@ -28,12 +28,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "3763FAEB-E66D-44D4-83A2-E40C623ADD2E"
+      "class": "symbolInstance",
+      "id": "67356583-63BB-4BD7-A57F-C6D0D75E18A8"
     },
     {
-      "class": "group",
-      "id": "B39D10B8-9828-418C-8C26-DB038F16C693"
+      "class": "symbolInstance",
+      "id": "906525D4-49BB-453E-9B75-7C214B2661B7"
+    },
+    {
+      "class": "text",
+      "id": "CD91969F-42BA-4947-AEFD-D52DE5D58003"
     },
     {
       "class": "text",
@@ -44,8 +48,8 @@
       "id": "9CE6A33F-3E5E-489D-8DB8-5B8C82AC2DAF"
     },
     {
-      "class": "group",
-      "id": "5758144F-0B18-484B-B127-52105EA0AF03"
+      "class": "symbolInstance",
+      "id": "0200960C-2489-4113-B60D-77BB26D00CD3"
     }
   ],
   "name": "Content",

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B4DD287F-A51F-47C5-B1F6-F4A2889AC89D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 400,
+    "width": 360,
+    "x": 420,
+    "y": 361
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/product-item-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B611EB06-C5D6-4A4E-851D-CAC383441326",
+      "overrideName": "883ECA8B-D0B2-4470-A0F1-F31561099B47_stringValue",
+      "value": "On diagnosis of any one of the covered illnesses and following the 120 days waiting period, MetLife will promptly pay a lump sum allowing you to afford a whole host of expenses such as Health care needs, Lost income for you or your care giver, Housekeeping or child care expenses as well as expenses that are not covered by traditional insurance.\nCritical Care also provides you with the chance to seek a World class medical advice and a second medical opinion from renowned medical centers in the USA."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EE9E9C7-23E0-4B81-9BB3-825BF6943503",
+      "overrideName": "734A65DF-F00C-4651-BB3E-BED2F602B285_stringValue",
+      "value": "Critical Care"
+    }
+  ],
+  "overrides": {
+    "734A65DF-F00C-4651-BB3E-BED2F602B285": "Critical Care",
+    "883ECA8B-D0B2-4470-A0F1-F31561099B47": "On diagnosis of any one of the covered illnesses and following the 120 days waiting period, MetLife will promptly pay a lump sum allowing you to afford a whole host of expenses such as Health care needs, Lost income for you or your care giver, Housekeeping or child care expenses as well as expenses that are not covered by traditional insurance.\nCritical Care also provides you with the chance to seek a World class medical advice and a second medical opinion from renowned medical centers in the USA."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "521418A8-A228-4C15-8246-8FE016AC43D2",
+  "verticalSpacing": 0
+}
