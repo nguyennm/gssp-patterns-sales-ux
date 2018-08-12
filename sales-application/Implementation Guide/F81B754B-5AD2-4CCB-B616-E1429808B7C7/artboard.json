@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E46F172D-38C3-41CA-A79C-8BC044C49237",
-    "height": 5200,
+    "height": 5800,
     "width": 2250,
     "x": 504,
     "y": -1651
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -188,10 +188,6 @@
     },
     {
       "class": "group",
-      "id": "8C95BFA4-0D96-4C28-AFF7-1A5F513392E3"
-    },
-    {
-      "class": "group",
       "id": "D0854C2D-AF53-44C4-876B-D7933B64D157"
     },
     {
@@ -205,6 +201,54 @@
     {
       "class": "group",
       "id": "21549716-302D-4856-A1C5-5CA042110AB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E709234-2309-46E9-9621-FB2B1FA7E372"
+    },
+    {
+      "class": "text",
+      "id": "03001FD7-5F17-4979-B7E3-D2FCBCEF9869"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31E5CED6-6B73-4365-911C-5C2059C1F17B"
+    },
+    {
+      "class": "text",
+      "id": "DC7C85A3-32A0-4909-86F5-12C69F8B6085"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "659F8E31-5AA8-4EEA-89F9-6C6A3B81D366"
+    },
+    {
+      "class": "text",
+      "id": "44E76CE2-647F-4ABD-BEB3-E19F6E71C36E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DA5AF84-7C8E-4F09-83E8-DD1FDEC09532"
+    },
+    {
+      "class": "text",
+      "id": "F3B7EC4F-A4E9-4404-A2BA-E124C86053AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0A301E4-98F0-4753-92A9-61E2587676C6"
+    },
+    {
+      "class": "text",
+      "id": "107E890F-1ACF-49D7-83F2-27D3E59A17CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB3FCC99-0E70-48B7-A143-96444BBF945D"
+    },
+    {
+      "class": "text",
+      "id": "9F2BAC33-A06F-4087-9C42-F74F4853BD9B"
     }
   ],
   "name": "Composite Treatments - Application",
