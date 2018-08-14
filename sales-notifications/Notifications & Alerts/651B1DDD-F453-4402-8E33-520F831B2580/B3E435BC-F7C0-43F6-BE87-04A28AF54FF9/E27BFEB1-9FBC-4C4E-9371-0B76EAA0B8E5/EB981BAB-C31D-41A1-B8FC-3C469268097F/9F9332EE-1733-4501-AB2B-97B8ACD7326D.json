@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9F9332EE-1733-4501-AB2B-97B8ACD7326D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 1205,
+    "x": 0,
+    "y": 130
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/alerts/alert-error-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EB5BF87-7BC3-4D90-A672-712AAECBE1ED",
+      "overrideName": "7F2A4954-5170-434D-B626-893D82F9887F_stringValue",
+      "value": "System will be offline for maintenance from 01/01/2019 12:00AM EST to 01/02/2019 12:00AM EST."
+    }
+  ],
+  "overrides": {
+    "7F2A4954-5170-434D-B626-893D82F9887F": "System will be offline for maintenance from 01/01/2019 12:00AM EST to 01/02/2019 12:00AM EST."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A59E221-5FC9-4766-A9B6-FB34069ABE43",
+  "verticalSpacing": 0
+}
