@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "272513B5-C92B-483F-A81F-4579B748DB19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 336,
+    "width": 360,
+    "x": 813,
+    "y": 383
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/quick-access-application-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CAFB9836-24F0-40F2-8278-A48F612CA8CB_stringValue",
+      "value": "Erickson, Jennifer"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4832CE99-1025-4A2F-B6E6-9ADB4E2EA2DB_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68D4A4D2-0F98-467F-9AA2-5338172BCA0C_stringValue",
+      "value": "Substandard In-Progress"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B22790DA-BD5F-4AF9-946D-CE1B60774D0E_stringValue",
+      "value": "Policy #: COP-01234-001"
+    }
+  ],
+  "overrides": {
+    "4832CE99-1025-4A2F-B6E6-9ADB4E2EA2DB": " ",
+    "68D4A4D2-0F98-467F-9AA2-5338172BCA0C": "Substandard In-Progress",
+    "B22790DA-BD5F-4AF9-946D-CE1B60774D0E": "Policy #: COP-01234-001",
+    "CAFB9836-24F0-40F2-8278-A48F612CA8CB": "Erickson, Jennifer"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "45263B2E-246F-46BE-BA3B-085B1AD41650",
+  "verticalSpacing": 0
+}

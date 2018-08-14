@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "733E72FE-C599-4068-8527-4FE3083CA353",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 336,
+    "width": 360,
+    "x": 423,
+    "y": 383
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/quick-access-application-desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E003757-5FD0-4496-ACBD-FAB2DFCC9946",
+      "overrideName": "484693DB-E65A-4DB1-A985-362EEB6D2E3D_stringValue",
+      "value": "Davenport, John"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CBCEEF3-CAB5-483B-B204-4ADDEF569628",
+      "overrideName": "1537FD9E-4567-457A-B191-5AA8D4351C52_symbolID",
+      "value": "5673B630-C116-4714-945D-DC050884F9CB"
+    }
+  ],
+  "overrides": {
+    "1537FD9E-4567-457A-B191-5AA8D4351C52": {
+      "symbolID": "5673B630-C116-4714-945D-DC050884F9CB"
+    },
+    "484693DB-E65A-4DB1-A985-362EEB6D2E3D": "Davenport, John"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E569EE31-DD13-46E7-8D80-97F4448ACE6E",
+  "verticalSpacing": 0
+}
