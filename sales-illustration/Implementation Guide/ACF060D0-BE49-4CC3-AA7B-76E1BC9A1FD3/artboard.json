@@ -29,7 +29,7 @@
     "y": -831
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -177,10 +177,6 @@
     {
       "class": "group",
       "id": "C9F80312-9D10-4D59-9E90-C482DB76D4F5"
-    },
-    {
-      "class": "group",
-      "id": "3BD28EB0-2D1C-40EF-9852-7FC04B74B8F7"
     }
   ],
   "name": "Composite Treatments - Quote & Illustration",

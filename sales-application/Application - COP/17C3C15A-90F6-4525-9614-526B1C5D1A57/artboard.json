@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "17C3C15A-90F6-4525-9614-526B1C5D1A57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2205,
+    "width": 1205,
+    "x": 5669,
+    "y": -5645
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A796EC86-2EA8-46D6-8B6E-D6BF067020EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CECB3BBB-9568-464D-9321-F73DE609BF62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9985B70-68A9-46C1-9220-233B40DBCAFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A02A1AE3-3662-48D8-B6B5-C26959E0BD5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AD36DF3-591E-4599-8F72-75E9F0E94EB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A94630ED-C896-45EF-8F3A-C949B2792BE2"
+    },
+    {
+      "class": "group",
+      "id": "7C15CF24-EED5-47CB-B7A5-085E960BED6B"
+    },
+    {
+      "class": "text",
+      "id": "1CADAC7D-B055-4DD7-826E-B391D2C46209"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "574D4637-E685-4958-B236-0E313EAA19A5"
+    },
+    {
+      "class": "group",
+      "id": "AD432768-6B1D-47D0-BE47-85DA105F0583"
+    },
+    {
+      "class": "group",
+      "id": "DDDA3655-F006-4CDF-ABD5-8E15ADD4E194"
+    },
+    {
+      "class": "group",
+      "id": "449F7AF9-CE91-482C-B229-83FFE33C8E62"
+    }
+  ],
+  "name": "Application - E-Sign - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

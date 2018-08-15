@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "31CEE576-E5EF-4BB7-8A25-17A32CE69F40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93731706-E032-47B2-850D-4288160F2FD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F19F46B4-AD4C-4485-876E-A5A6203509C3",
+    "height": 477,
+    "width": 650,
+    "x": 278,
+    "y": 203
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/e-sign-modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F902CF68-BF15-4055-A17D-7BE5772F8D29",
+      "overrideName": "3C5D553C-F92F-4BC3-9727-A4C46AE998D6/5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6_stringValue",
+      "value": "SAVE TO APPLICATION"
+    }
+  ],
+  "overrides": {
+    "3C5D553C-F92F-4BC3-9727-A4C46AE998D6": {
+      "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6": "SAVE TO APPLICATION"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B38101FC-2DB4-467C-8BFA-130DCAD2B5E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2BF2CE77-46AC-45FD-96F7-34D415C32F53",
+  "verticalSpacing": 0
+}
