@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4C2A029F-10DA-406D-9444-EF085400CACD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B764275-A4C7-48F5-A44B-DA5CCAA063E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E306432-E98F-4BB8-9802-760752008E8A",
+    "height": 18,
+    "width": 92,
+    "x": 0,
+    "y": 58
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form-controls/radio-unselected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3387B92-12DA-4D78-B7F7-3F151108D02F",
+      "overrideName": "9A0F9B5F-A9A6-4C5D-893C-5D6D86277AA1_stringValue",
+      "value": "Yes"
+    }
+  ],
+  "overrides": {
+    "9A0F9B5F-A9A6-4C5D-893C-5D6D86277AA1": "Yes"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4CD12D5-8401-4B9E-AA3C-197DC3EE961C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9BCA1A28-7A04-446A-AE4E-552417E1E84F",
+  "verticalSpacing": 0
+}

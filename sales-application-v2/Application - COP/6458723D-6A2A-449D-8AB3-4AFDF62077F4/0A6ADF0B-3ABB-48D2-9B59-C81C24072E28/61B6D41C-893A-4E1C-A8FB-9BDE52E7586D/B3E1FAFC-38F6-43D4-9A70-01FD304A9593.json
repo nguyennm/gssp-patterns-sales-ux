@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B3E1FAFC-38F6-43D4-9A70-01FD304A9593",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A39359DC-B194-4E33-BAC9-43257FDF9620",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3681ADE-A7FE-4245-84BD-69DFFF12236E",
+    "height": 78,
+    "width": 252,
+    "x": 0,
+    "y": 303
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/toc-inactive-item copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0CC0ED7-3664-4675-A37A-ACB16555A477",
+      "overrideName": "30872FAB-E515-44B0-82A9-C87F1B873740_symbolID",
+      "value": "7810B7FF-B795-4E07-B659-AEEC9136237F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE76410F-9D7C-4AC9-8F70-4E35A1DC3E65",
+      "overrideName": "155FDF06-A6DE-4FDE-AEBD-FAE86367350B_stringValue",
+      "value": "Lifestyle & Health"
+    }
+  ],
+  "overrides": {
+    "155FDF06-A6DE-4FDE-AEBD-FAE86367350B": "Lifestyle & Health",
+    "30872FAB-E515-44B0-82A9-C87F1B873740": {
+      "symbolID": "7810B7FF-B795-4E07-B659-AEEC9136237F"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6FA2FA7-A6E8-4AFF-8801-4FD5977C5B96",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B4B60986-BC8D-418B-A651-8FC453E9A028",
+  "verticalSpacing": 0
+}

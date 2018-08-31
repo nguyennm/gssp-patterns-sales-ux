@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "D50F13ED-B451-46CE-B2BC-2CDEF77BE438",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "6458723D-6A2A-449D-8AB3-4AFDF62077F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF89AFB2-6583-4D36-8D15-C42583558BE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EA4D2BC-D28A-4A1C-846B-9358266F3B70",
+    "height": 2205,
+    "width": 1205,
+    "x": 449,
+    "y": -5648
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E01E403C-15F2-4F40-BA78-8A36DDFD093B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C3292FF1-373D-4812-8672-4B4474F1E568"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "653D8552-F002-4F21-9767-D29C27BA9351"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3B08E89-5E25-4463-9324-AAB97709D497"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39B78E7E-C0AE-486A-BB26-16C749898031"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CE40728-E78E-4CA1-AE1D-FAA8F9C3A4EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54513BA9-1C2B-4BA6-A732-CED6D2D43E2E"
+    },
+    {
+      "class": "group",
+      "id": "E7271BBC-E5F7-405B-B283-D9D96FE87F5F"
+    },
+    {
+      "class": "text",
+      "id": "D36B7BAB-D879-4CBC-B125-A08184AAE36A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA9327AC-E1AD-477A-97A5-D3DACAF3570F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "309A7B10-026B-47C3-AB64-DC0B110556AB"
+    },
+    {
+      "class": "group",
+      "id": "0A6ADF0B-3ABB-48D2-9B59-C81C24072E28"
+    }
+  ],
+  "name": "Application v2 - Lifestyle & Health - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D4EF955-C98D-48AA-871F-8FFECD488083",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7E5137BA-BC28-4B3A-8877-044245CA0F07",
+    "guides": [
+    ]
+  }
+}

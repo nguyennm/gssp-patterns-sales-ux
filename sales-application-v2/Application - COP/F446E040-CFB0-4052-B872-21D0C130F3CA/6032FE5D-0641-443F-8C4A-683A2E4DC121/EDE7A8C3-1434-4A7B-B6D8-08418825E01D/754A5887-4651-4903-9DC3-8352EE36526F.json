@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "754A5887-4651-4903-9DC3-8352EE36526F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D53356F2-4BF8-4B19-90D8-3B9C2145AFCF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "281EE970-A735-4F4A-B109-64D6595D850D",
+    "height": 40,
+    "width": 200,
+    "x": 392,
+    "y": 1115
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/btn-tertiary_normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "687C496E-1FC9-4C8D-82B9-EF04AD7AC66B_stringValue",
+      "value": "DOWNLOAD AS PDF"
+    }
+  ],
+  "overrides": {
+    "687C496E-1FC9-4C8D-82B9-EF04AD7AC66B": "DOWNLOAD AS PDF"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6A7005A-C748-4CBF-928F-BB33ECD95C84",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "661907A4-2275-4369-B891-C49AFD608957",
+  "verticalSpacing": 0
+}

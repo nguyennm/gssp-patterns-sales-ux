@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "F446E040-CFB0-4052-B872-21D0C130F3CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2205,
+    "width": 1205,
+    "x": 3059,
+    "y": -5649
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF2070B3-61AD-4451-A527-39845AC18FCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "854466E1-5EFF-4C35-A86E-7BA13B90C2D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5349AEA-FF6E-468D-8E97-6EEBED00D403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DBF6D07-CE43-4E2D-B2F6-8C60C8BCD9FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DB6A117-B3F3-47FE-BF22-707BA62DB7D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9245AEF-1FB5-4921-9AF4-4DF363F1E964"
+    },
+    {
+      "class": "group",
+      "id": "3B9C5401-5D16-46BA-958D-6B6584055229"
+    },
+    {
+      "class": "text",
+      "id": "B3C6CE83-385E-4409-BCA1-408A1FB5E508"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B479C44-0B75-4C80-B8FD-493D92D6575C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC6BA1A6-F78B-410D-B3D6-93CF24B996B2"
+    },
+    {
+      "class": "group",
+      "id": "6032FE5D-0641-443F-8C4A-683A2E4DC121"
+    }
+  ],
+  "name": "Application v2 - Review - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

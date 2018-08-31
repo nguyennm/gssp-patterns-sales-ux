@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "6E2A2F97-CE8B-45F6-87FB-12502589D01C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F47DC56D-6182-4EFA-8FDC-265724AF3D4E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CB0F640-C879-404D-B2BA-51F8EBCC830A",
+    "height": 589,
+    "width": 2129,
+    "x": 80,
+    "y": 3550
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "464E6E27-C1ED-4E62-BB7B-55FE4ED627FD"
+    },
+    {
+      "class": "group",
+      "id": "E2FF5C52-E746-40FD-A444-A64667E8FBD7"
+    }
+  ],
+  "name": "Approve Application View",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "311205BA-CC2F-40F0-A7BF-C50395288326",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

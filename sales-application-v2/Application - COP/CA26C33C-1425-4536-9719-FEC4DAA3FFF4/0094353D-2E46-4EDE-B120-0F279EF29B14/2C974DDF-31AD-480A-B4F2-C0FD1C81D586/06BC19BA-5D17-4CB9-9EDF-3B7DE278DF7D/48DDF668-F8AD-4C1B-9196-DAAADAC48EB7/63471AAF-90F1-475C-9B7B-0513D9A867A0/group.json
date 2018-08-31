@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "63471AAF-90F1-475C-9B7B-0513D9A867A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA18A2EB-1AEB-4DED-BC7A-26BE4655CA3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90BF9AB8-BA44-4E3D-AAD5-A5411714E330",
+    "height": 49,
+    "width": 345,
+    "x": 375,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "141410C5-FE5E-40A7-B867-D8BD9A1922F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FB40877-C16A-4DB7-A251-8DFA0017A4FD"
+    },
+    {
+      "class": "text",
+      "id": "5E3FBEE5-7C97-4927-AE75-A3AAC6B4D704"
+    },
+    {
+      "class": "text",
+      "id": "6FBECA8B-964E-4848-9795-EA5ED65C8C2C"
+    }
+  ],
+  "name": "Email",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78DA8CA3-677E-4BB7-A0A7-B63D412E5F9D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

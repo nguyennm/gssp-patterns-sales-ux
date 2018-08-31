@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "B3AC7BA2-3463-4409-A6B7-A22D8A3B194E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AC78206-AC95-4489-968F-6AADD61197C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2DBF85C-61B8-4C8D-9FCD-4029C6266223",
+    "height": 49,
+    "width": 146,
+    "x": 376,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89588899-F8EF-454D-8695-95F80E891DCD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D235DE26-34D6-40E6-8C53-887B42DEBBB3"
+    },
+    {
+      "class": "text",
+      "id": "823B1889-3F2C-41E3-B0F8-32B81CD4A8AD"
+    },
+    {
+      "class": "text",
+      "id": "AE28AF21-E3D6-4319-8815-F837D4FB3034"
+    }
+  ],
+  "name": "Phone Number Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27DA8B9E-F5DE-41AA-9A94-8358E8088F23",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

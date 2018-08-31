@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B933E6C6-F811-44FF-9FD9-AF503D3CFE96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 252,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/toc-inactive-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABF78A8A-59D6-4889-87AF-68074AECC14C",
+      "overrideName": "30872FAB-E515-44B0-82A9-C87F1B873740_symbolID",
+      "value": "7810B7FF-B795-4E07-B659-AEEC9136237F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFE108FB-A5BA-4580-8D76-9D63A2CDB242",
+      "overrideName": "155FDF06-A6DE-4FDE-AEBD-FAE86367350B_stringValue",
+      "value": "Owner Information"
+    }
+  ],
+  "overrides": {
+    "155FDF06-A6DE-4FDE-AEBD-FAE86367350B": "Owner Information",
+    "30872FAB-E515-44B0-82A9-C87F1B873740": {
+      "symbolID": "7810B7FF-B795-4E07-B659-AEEC9136237F"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B4B60986-BC8D-418B-A651-8FC453E9A028",
+  "verticalSpacing": 0
+}

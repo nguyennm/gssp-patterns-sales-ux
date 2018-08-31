@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "45101574-C0E0-499F-BF9C-FA956F092278",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 345,
+    "x": 0,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A8E7256A-BBA5-4E95-964E-E599D09E756F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B12C41C-F117-46AA-9111-7D9498A77BCC"
+    },
+    {
+      "class": "text",
+      "id": "C962D8B2-09D2-444F-9E4B-4B15A66D9121"
+    },
+    {
+      "class": "text",
+      "id": "EFFFE9F6-7CF0-4C24-A190-9DF1E79F881E"
+    }
+  ],
+  "name": "Phone Number",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

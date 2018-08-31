@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E7B5DAFD-FB69-4517-9A44-796742B632C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "009F1AE7-332F-4478-90DD-E879EB4C39A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "210BB144-2C86-4C56-86FC-758996D0658D",
+    "height": 58,
+    "width": 579,
+    "x": 87,
+    "y": 299
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/beneficiary-total-allocation",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AAA30E1-6665-4116-83BA-FA0B25F7035D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "92FC5816-8D73-4455-B04D-9E1A2B3855C1",
+  "verticalSpacing": 0
+}

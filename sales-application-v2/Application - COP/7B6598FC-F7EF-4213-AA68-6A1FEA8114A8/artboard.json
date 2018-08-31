@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "045450ED-4B1C-48BD-A8A9-C631E9942417",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "7B6598FC-F7EF-4213-AA68-6A1FEA8114A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91765F7C-5FCE-4FF1-8B85-C27991C7A075",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59BB49A2-BC80-452C-8AB6-1F7FFEBB72C0",
+    "height": 2205,
+    "width": 1205,
+    "x": 1754,
+    "y": -5648
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E73B28D2-41FB-4E2B-BA9A-50510631A8A6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A920E00-FE2D-4518-AAE7-BF735B76D4ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCD34631-BF9B-42AA-B23B-2A9F2BDA468C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11220FA7-4BC7-4590-8700-C7D1B5E85181"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66C41F38-EF7C-4624-8003-7344838BA1C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28F1C20A-4093-4496-B360-1EF09A344657"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABA946C3-C336-4ADC-BDB0-06B7F4150D77"
+    },
+    {
+      "class": "group",
+      "id": "F64D7C68-A004-4611-88B6-2D7B15464A89"
+    },
+    {
+      "class": "text",
+      "id": "9A49B0E0-97B6-4C3F-A9F8-79935A51537A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "181A18D1-B5DD-4E78-9DF9-331B731F1AC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2316223-123C-4ACD-8096-4E867DD054D3"
+    },
+    {
+      "class": "group",
+      "id": "855B77F4-D0CC-479D-9151-5A662D11061B"
+    }
+  ],
+  "name": "Application v2 - Payment Information - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F67929B5-B77F-4AAC-8DCE-267C5B9FDB6E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "068684D5-D8AA-43D4-8158-A27071F9A1C2",
+    "guides": [
+    ]
+  }
+}

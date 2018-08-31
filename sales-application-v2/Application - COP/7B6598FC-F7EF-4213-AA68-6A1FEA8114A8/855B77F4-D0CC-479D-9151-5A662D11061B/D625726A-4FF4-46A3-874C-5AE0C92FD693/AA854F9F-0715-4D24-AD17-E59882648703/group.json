@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "AA854F9F-0715-4D24-AD17-E59882648703",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 111,
+    "width": 701,
+    "x": 0,
+    "y": 201
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B54FA6BA-8733-4CAA-B2BE-FB1655E0FBB6"
+    },
+    {
+      "class": "group",
+      "id": "C9F865CA-BE5B-41BE-BFEF-FDEE57704145"
+    },
+    {
+      "class": "group",
+      "id": "FBE71032-FBC3-433E-A6F9-2CAA08AE4B0E"
+    },
+    {
+      "class": "group",
+      "id": "EB803890-FE79-49B2-9DDE-DB33487BD74A"
+    }
+  ],
+  "name": "statics/application/premium-payments (2 options)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

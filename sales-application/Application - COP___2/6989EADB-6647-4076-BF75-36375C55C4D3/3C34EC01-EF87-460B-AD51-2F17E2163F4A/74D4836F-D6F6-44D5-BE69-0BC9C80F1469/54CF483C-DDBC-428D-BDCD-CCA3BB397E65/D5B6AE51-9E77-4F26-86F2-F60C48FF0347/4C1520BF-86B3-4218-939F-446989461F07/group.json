@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "4C1520BF-86B3-4218-939F-446989461F07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3755213-CFC7-4D1F-A728-503CD32A3737",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA724929-57A3-4B5A-97E4-78FFE6E372CC",
+    "height": 49,
+    "width": 345,
+    "x": 0,
+    "y": 96
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "869F6506-49F0-4928-9B05-445AF3038649"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22701655-668E-4C09-B85F-EA4581BBC5D4"
+    },
+    {
+      "class": "text",
+      "id": "C4263EE0-B9F0-42D3-B1E3-8285CB5DF2B2"
+    },
+    {
+      "class": "text",
+      "id": "C835259A-1A37-45A0-8AF3-4AE16C2F7A44"
+    }
+  ],
+  "name": "Gender Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1ECD9B98-EE0C-40CE-B79F-27C70FABD5FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

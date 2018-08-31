@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9249E09C-63CD-490A-8751-B7F14A9711EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EF8ECBA-4191-440B-AF3C-5874450E5BF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8B1C3FB-CA8C-4B3F-AF39-F161653C3281",
+    "height": 75,
+    "width": 252,
+    "x": 0,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/toc-inactive-item copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4903F672-B665-4D47-BCE0-3630F064ADB6",
+      "overrideName": "D36D961B-AA86-41E1-85D9-2719BE3106ED_stringValue",
+      "value": "Insured Information"
+    }
+  ],
+  "overrides": {
+    "D36D961B-AA86-41E1-85D9-2719BE3106ED": "Insured Information"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C09D6783-E496-4F1E-9BD5-7D2A31A830F0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A5E17DB6-0A3D-4634-A5CF-3BEE2075A1F4",
+  "verticalSpacing": 0
+}
