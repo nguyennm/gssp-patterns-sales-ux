@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2631CBCB-630A-40CB-8B5D-FF6736E0B31C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C36A3D0-2BD7-4C8B-B29A-74997CCAE88A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0419850-9C3F-41D3-B4FF-F74ABA73665F",
+    "height": 365,
+    "width": 1044,
+    "x": 2,
+    "y": 470
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/account-value-projection-table",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BAA853C8-A917-4592-BDC2-A6F3F4B15BF0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1B82D20E-522A-40A5-B20A-3F28D9942982",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "2E297311-590D-4797-ABAF-BEDE2BFA1B72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39859A86-0515-4298-97D3-1C7548A15D06",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BE7E308-5294-473F-8673-17331F435D44",
+    "height": 145,
+    "width": 720,
+    "x": 0,
+    "y": 338
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3C12AA45-7AB1-44CD-8EFD-DDF334DA47BC"
+    },
+    {
+      "class": "group",
+      "id": "B2159204-D442-4318-AC1F-C96E3A422220"
+    },
+    {
+      "class": "group",
+      "id": "8AD1B6C6-6340-4AC3-9D2F-E75C549EFC08"
+    },
+    {
+      "class": "text",
+      "id": "F0C30E36-D0A5-4F39-97EB-DB123C46879A"
+    }
+  ],
+  "name": "Withdrawal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29048126-68B8-47D8-A10D-EF2E4251ED87",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

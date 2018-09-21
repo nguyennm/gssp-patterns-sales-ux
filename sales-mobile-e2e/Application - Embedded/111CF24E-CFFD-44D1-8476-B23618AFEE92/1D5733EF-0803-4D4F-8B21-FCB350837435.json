@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1D5733EF-0803-4D4F-8B21-FCB350837435",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 226,
+    "width": 774,
+    "x": 20,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/application-header-banner",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D9E6A70-FD64-464C-A2AD-9FF7243636C8",
+      "overrideName": "E9F00C4D-577D-4F41-B570-86DD0E8690A4_stringValue",
+      "value": "Policy Number: ABC-0030-8609-02"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8BB3F45-35F7-4A3E-B9FE-E4286F6980C4",
+      "overrideName": "1E6AFB14-C85E-4C3E-8E7D-D50D2E4068CE_stringValue",
+      "value": "Status: Pending Underwriting"
+    }
+  ],
+  "overrides": {
+    "1E6AFB14-C85E-4C3E-8E7D-D50D2E4068CE": "Status: Pending Underwriting",
+    "E9F00C4D-577D-4F41-B570-86DD0E8690A4": "Policy Number: ABC-0030-8609-02"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "008A2E2B-DBEE-49E1-AD82-24FD0E95A200",
+  "verticalSpacing": 0
+}

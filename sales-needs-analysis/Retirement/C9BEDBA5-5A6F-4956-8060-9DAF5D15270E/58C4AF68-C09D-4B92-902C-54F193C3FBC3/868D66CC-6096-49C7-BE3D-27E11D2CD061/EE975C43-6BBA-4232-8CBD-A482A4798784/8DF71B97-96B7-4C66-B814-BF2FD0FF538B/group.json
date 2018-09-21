@@ -15,18 +15,22 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9A5E477B-DB66-4B35-97BE-33BB8A33EED0",
-    "height": 595,
-    "width": 1047,
+    "height": 612,
+    "width": 655,
     "x": 0,
-    "y": 418
+    "y": 36
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "648B52F2-558C-498F-BBCB-ECE864803373"
+    },
     {
       "class": "group",
       "id": "BB268252-E902-442E-8FA5-0EA5E1BC453A"

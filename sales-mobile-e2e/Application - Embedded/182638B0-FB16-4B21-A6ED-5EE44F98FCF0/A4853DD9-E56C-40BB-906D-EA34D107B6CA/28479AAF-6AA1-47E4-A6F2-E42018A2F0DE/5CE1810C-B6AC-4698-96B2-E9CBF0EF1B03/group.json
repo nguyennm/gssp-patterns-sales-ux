@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5CE1810C-B6AC-4698-96B2-E9CBF0EF1B03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1853,
+    "width": 1248,
+    "x": 0,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F0610332-366F-4593-BFA5-21366242AA57"
+    },
+    {
+      "class": "group",
+      "id": "BFA74F69-2E08-4075-B07A-1B38BE65D7E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCC77C37-3209-46D1-B89A-4F8D88D0D313"
+    }
+  ],
+  "name": "Mobile / ipad-frame-landscape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

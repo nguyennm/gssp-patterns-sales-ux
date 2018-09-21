@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DD032591-5654-4FFE-BBD2-7BC7F5437183",
-    "height": 1405,
+    "height": 1805,
     "width": 1205,
     "x": 11918,
     "y": -4484
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -83,10 +83,29 @@
       "id": "F4482BF4-18C4-47A2-8DF6-BC46AF7AEDCC"
     },
     {
+      "class": "symbolInstance",
+      "id": "6E224BE1-AFA5-48E0-AE1F-D5DF10930863"
+    },
+    {
       "class": "group",
       "id": "2E960CFD-12E0-4D9C-B153-3E1CBBE8D51E"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 122.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "QI/Quote and Summary - Desktop",
   "nameIsFixed": true,
   "resizesContent": false,

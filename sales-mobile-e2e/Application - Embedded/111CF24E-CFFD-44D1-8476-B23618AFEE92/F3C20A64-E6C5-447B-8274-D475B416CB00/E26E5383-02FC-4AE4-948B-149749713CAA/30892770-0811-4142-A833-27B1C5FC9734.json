@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "30892770-0811-4142-A833-27B1C5FC9734",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/application/accordion-header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6534E85B-36E6-4A36-A67B-896A3CB019EA_stringValue",
+      "value": "Owner Information"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07536D02-B28A-489E-BD96-7679C4194EBD",
+      "overrideName": "4CBDFABA-DE50-4265-A9C6-BE90F172046A_symbolID",
+      "value": "EB9C2CA5-0077-4275-BFA3-6B9E796510AD"
+    }
+  ],
+  "overrides": {
+    "4CBDFABA-DE50-4265-A9C6-BE90F172046A": {
+      "symbolID": "EB9C2CA5-0077-4275-BFA3-6B9E796510AD"
+    },
+    "6534E85B-36E6-4A36-A67B-896A3CB019EA": "Owner Information"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DB776068-28CB-40B3-B2F9-1FF71E737650",
+  "verticalSpacing": 0
+}

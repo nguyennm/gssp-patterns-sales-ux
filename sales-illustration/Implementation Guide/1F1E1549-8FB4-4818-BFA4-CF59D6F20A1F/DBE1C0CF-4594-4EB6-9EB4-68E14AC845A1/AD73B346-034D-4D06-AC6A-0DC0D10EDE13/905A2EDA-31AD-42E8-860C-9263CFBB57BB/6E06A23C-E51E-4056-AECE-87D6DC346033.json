@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6E06A23C-E51E-4056-AECE-87D6DC346033",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAA78270-7944-45F8-85AE-ADF2EB697D1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "161845F3-1231-4CE9-8B7E-B70B5990F140",
+    "height": 520,
+    "width": 650,
+    "x": 278,
+    "y": 62
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "statics/misc/e-sign-modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7304694-1F19-4534-A1F3-B2F127F1814B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CAD2F635-7B68-4C20-86FC-9A725CF1DF73",
+  "verticalSpacing": 0
+}

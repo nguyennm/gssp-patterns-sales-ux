@@ -15,33 +15,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C89E721F-14CF-44C3-9BFF-54DBA92031D1",
-    "height": 81,
-    "width": 1047,
+    "height": 98,
+    "width": 345,
     "x": 0,
-    "y": 416
+    "y": 450
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "12D01E97-A604-4DB2-AEA0-42F23AAA9033"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E5CE873D-66AF-45CC-9E38-0422522B3EB8"
-    },
-    {
-      "class": "text",
-      "id": "E2D1F52A-4DCD-4356-A324-F9D638AC9E64"
-    },
-    {
-      "class": "text",
-      "id": "1BC192D8-071E-4F30-BB09-86C3893A3226"
+      "class": "group",
+      "id": "AD804A1B-562D-48F1-8590-44984EB8FF9F"
     },
     {
       "class": "text",

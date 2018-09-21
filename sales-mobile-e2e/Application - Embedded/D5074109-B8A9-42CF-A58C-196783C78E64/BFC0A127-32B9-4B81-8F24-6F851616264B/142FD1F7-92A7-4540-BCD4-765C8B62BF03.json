@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "142FD1F7-92A7-4540-BCD4-765C8B62BF03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEBB7655-D72A-4B43-8D30-CB1AFA3F35D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3B22AE2-52ED-4455-94D1-FAFF92B7D4C1",
+    "height": 40,
+    "width": 275,
+    "x": 305,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/btn-tertiary_normal copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B6EB05C-55EF-4064-AF4F-D896B3AAE33B",
+      "overrideName": "BB8A4C9E-AAD1-4053-92A7-BEC3DD6DC9DE_stringValue",
+      "value": "GO TO PROSPECT'S PROFILE"
+    }
+  ],
+  "overrides": {
+    "BB8A4C9E-AAD1-4053-92A7-BEC3DD6DC9DE": "GO TO PROSPECT'S PROFILE"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B835B99-0264-425A-BC80-6DA39A1AA920",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ED70E4FA-EDAD-42F8-A435-6780AC49DD87",
+  "verticalSpacing": 0
+}
