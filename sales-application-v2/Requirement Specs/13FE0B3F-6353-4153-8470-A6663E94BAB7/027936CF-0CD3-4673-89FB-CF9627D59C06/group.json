@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "027936CF-0CD3-4673-89FB-CF9627D59C06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 788,
+    "width": 2129,
+    "x": 80,
+    "y": 4239
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5C48D0E8-CD88-408B-95E6-1E60E11E69B2"
+    },
+    {
+      "class": "group",
+      "id": "AB5834B8-8EE6-4948-A5A0-42725AE9D167"
+    }
+  ],
+  "name": "Reject Application View Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

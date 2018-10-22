@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 497,
+    "height": 970,
     "width": 2129,
     "x": 0,
     "y": 129
@@ -43,6 +43,22 @@
     },
     {
       "class": "shapeGroup",
+      "id": "E99468E8-941D-40D0-81CD-51397E29E05D"
+    },
+    {
+      "class": "text",
+      "id": "73A8F962-8245-442F-942A-636C04844B8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30778AD3-6C32-4CA5-84F7-880622E7D59B"
+    },
+    {
+      "class": "text",
+      "id": "5A0AB624-5894-47EA-A4F8-5AF579CA40C1"
+    },
+    {
+      "class": "shapeGroup",
       "id": "62254158-A22F-4BC8-9A85-A4D078A6BEB1"
     },
     {
@@ -59,11 +75,23 @@
     },
     {
       "class": "shapeGroup",
+      "id": "395698F3-2E34-4FAD-84DE-D7775FD2DB6E"
+    },
+    {
+      "class": "text",
+      "id": "B441C814-895B-4E45-AC01-B8A2DE0EBF5C"
+    },
+    {
+      "class": "shapeGroup",
       "id": "F83FCB94-08B6-4EB8-8F3D-1BEDA0170451"
     },
     {
       "class": "text",
       "id": "0D3ECFDC-1B73-4876-851B-EB4AA3E4E384"
+    },
+    {
+      "class": "group",
+      "id": "43A4CDC7-17CD-4059-AC0D-1160C50893B5"
     }
   ],
   "name": "SPECS",

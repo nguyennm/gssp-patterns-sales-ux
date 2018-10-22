@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "BA9DBE00-497E-4013-B01C-E88EFC72BBE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 793,
+    "x": 31,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "41D78C82-52B7-4BC5-BB66-3F17EC9C0023"
+    },
+    {
+      "class": "text",
+      "id": "138BC151-35E0-4482-8F57-5AB147AE26D0"
+    },
+    {
+      "class": "text",
+      "id": "FD14E84B-CB31-4CFB-937F-5E1DE59F4E3D"
+    },
+    {
+      "class": "group",
+      "id": "DCDD691A-39B1-418A-9B21-51E426CF6A3A"
+    }
+  ],
+  "name": "statics/application/comment-item-agent",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

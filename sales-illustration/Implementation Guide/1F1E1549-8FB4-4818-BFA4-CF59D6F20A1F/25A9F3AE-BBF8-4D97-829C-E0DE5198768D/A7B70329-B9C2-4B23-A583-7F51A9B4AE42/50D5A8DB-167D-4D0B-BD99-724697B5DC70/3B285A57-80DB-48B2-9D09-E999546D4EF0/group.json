@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3B285A57-80DB-48B2-9D09-E999546D4EF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 330,
+    "width": 650,
+    "x": 278,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "480EEAA2-F2F8-4D4A-8057-496DEE3CB4C0"
+    },
+    {
+      "class": "text",
+      "id": "7DF84D59-D80F-4C65-B5F9-2B5F5918349E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5CD4C35-50B4-4F70-AF0F-5A3CBDA8A178"
+    },
+    {
+      "class": "group",
+      "id": "C02AC37E-0673-4317-9A2B-DC2D4360473B"
+    },
+    {
+      "class": "text",
+      "id": "72BBC53F-A0DC-4620-911D-5BD8C9870321"
+    }
+  ],
+  "name": "statics/misc/e-sign-modal",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0BCCDD65-ED7F-409F-8F74-0AB252F05891",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A586989-34C6-48F3-91AE-4827B620CC80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "446A9646-51BC-499D-ABD5-648FDF130CB4",
+    "height": 40,
+    "width": 125,
+    "x": 168,
+    "y": 194
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/btn-primary_normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "023AD523-F2B1-4A66-8978-392F6C216089",
+      "overrideName": "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6_stringValue",
+      "value": "SIGN AGAIN"
+    }
+  ],
+  "overrides": {
+    "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6": "SIGN AGAIN"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3C6D7AE-3DEA-4CEC-9F29-197F14176747",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D1923FB5-BEC1-465F-8BFE-FC17E0727B43",
+  "verticalSpacing": 0
+}

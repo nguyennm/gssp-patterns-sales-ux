@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 116,
-    "width": 356,
+    "height": 285,
+    "width": 360,
     "x": 0,
     "y": 0
   },
@@ -36,19 +36,19 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{-0.27949438202247034, 0.85078282585726039}",
+        "curveFrom": "{-0.27638888888888735, 0.93926599227874452}",
         "curveMode": 1,
-        "curveTo": "{-0.27949438202247034, 0.85078282585726039}",
+        "curveTo": "{-0.27638888888888735, 0.93926599227874452}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.99999999999999367, 0.0086206896551721049}"
+        "point": "{1, 0}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{-0.27668539325842367, 0.85976371145903108}",
+        "curveFrom": "{-0.27361111111110792, 0.94292137027806167}",
         "curveMode": 1,
-        "curveTo": "{-0.27668539325842367, 0.85976371145903108}",
+        "curveTo": "{-0.27361111111110792, 0.94292137027806167}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
         "point": "{0, 1}"
@@ -60,19 +60,19 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.27949438202247034, 0.85078282585726039}",
+      "curveFrom": "{-0.27638888888888735, 0.93926599227874452}",
       "curveMode": 1,
-      "curveTo": "{-0.27949438202247034, 0.85078282585726039}",
+      "curveTo": "{-0.27638888888888735, 0.93926599227874452}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99999999999999367, 0.0086206896551721049}"
+      "point": "{1, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.27668539325842367, 0.85976371145903108}",
+      "curveFrom": "{-0.27361111111110792, 0.94292137027806167}",
       "curveMode": 1,
-      "curveTo": "{-0.27668539325842367, 0.85976371145903108}",
+      "curveTo": "{-0.27361111111110792, 0.94292137027806167}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{0, 1}"

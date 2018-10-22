@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "19CB7661-0285-4186-90F3-A1A6E1468B2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCB4CCA9-45E9-4A61-B052-284800E4EA6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47F9C64E-0F96-4AEB-9822-95D3A2A0CEBC",
+    "height": 274,
+    "width": 308,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89F3B98E-4C5A-473A-B3B1-34664519E5BD"
+    },
+    {
+      "class": "text",
+      "id": "DDC80A97-3117-4741-BCA3-2EC2095E969A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BCCDD65-ED7F-409F-8F74-0AB252F05891"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "421406E5-2A0A-48D5-AE26-31DD4DB7F652"
+    },
+    {
+      "class": "text",
+      "id": "26CAF193-3EC5-4DC6-B51A-315F9C1C3921"
+    },
+    {
+      "class": "text",
+      "id": "60127AD3-D2AF-4A2E-AB77-044F57E67EA6"
+    }
+  ],
+  "name": "E-Sign Flyout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C9E40BD-F467-42C9-8BD6-DF539298E976",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

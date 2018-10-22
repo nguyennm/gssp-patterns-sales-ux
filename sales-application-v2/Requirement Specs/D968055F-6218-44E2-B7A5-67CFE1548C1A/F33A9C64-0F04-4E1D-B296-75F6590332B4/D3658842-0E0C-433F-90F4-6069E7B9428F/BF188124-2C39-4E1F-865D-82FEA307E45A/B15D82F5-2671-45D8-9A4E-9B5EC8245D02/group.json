@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "B15D82F5-2671-45D8-9A4E-9B5EC8245D02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 294,
+    "width": 1140,
+    "x": 26,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "30978938-2FA9-4285-BC83-2901C7D88CF9"
+    },
+    {
+      "class": "text",
+      "id": "C73C8035-C6AC-4D1C-8D71-B52A28EBFA7C"
+    },
+    {
+      "class": "group",
+      "id": "BA9DBE00-497E-4013-B01C-E88EFC72BBE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6F20C99-5EE9-4B94-AB0A-5D52981E931F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9094CD2E-89A7-4E5D-969D-708FF3707C6E"
+    }
+  ],
+  "name": "Comments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

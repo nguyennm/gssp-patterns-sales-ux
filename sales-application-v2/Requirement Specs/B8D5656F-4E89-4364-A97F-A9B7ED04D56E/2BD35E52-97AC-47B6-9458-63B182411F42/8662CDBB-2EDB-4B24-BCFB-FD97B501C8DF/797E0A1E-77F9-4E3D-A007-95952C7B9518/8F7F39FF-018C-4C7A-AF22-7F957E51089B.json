@@ -27,8 +27,17 @@
   "name": "statics/application/comments-card-empty",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6FCB782-0B19-4046-8BF2-FA3688BC08DD",
+      "overrideName": "7E8B9ACA-5113-4EFA-9276-153B4D43C059/F9FC0E63-132A-43DB-BAB3-F683C6F32AD4_stringValue",
+      "value": "S"
+    }
   ],
   "overrides": {
+    "7E8B9ACA-5113-4EFA-9276-153B4D43C059": {
+      "F9FC0E63-132A-43DB-BAB3-F683C6F32AD4": "S"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

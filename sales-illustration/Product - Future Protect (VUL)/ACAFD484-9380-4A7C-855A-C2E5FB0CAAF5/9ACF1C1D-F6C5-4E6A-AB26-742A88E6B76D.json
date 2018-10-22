@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9ACF1C1D-F6C5-4E6A-AB26-742A88E6B76D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45FF16AB-A9D6-4781-9B11-1CECADE688E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20063BD6-651D-4C76-BDAB-A949AD171F5E",
+    "height": 40,
+    "width": 234,
+    "x": 662,
+    "y": 2029
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/btn-primary_normal copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "687C496E-1FC9-4C8D-82B9-EF04AD7AC66B_stringValue",
+      "value": "DOWNLOAD ILLUSTRATION"
+    }
+  ],
+  "overrides": {
+    "687C496E-1FC9-4C8D-82B9-EF04AD7AC66B": "DOWNLOAD ILLUSTRATION"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB9D7982-6B5B-475A-96CD-642F3823DA28",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3C19128D-73C4-45D0-9E9D-DA87D80DACB7",
+  "verticalSpacing": 0
+}

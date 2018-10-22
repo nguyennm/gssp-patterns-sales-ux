@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "59FE28CD-0EE7-4C54-A88A-F0653DE418BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABDF9788-7079-4407-8117-31D9C71E3B63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B288E3C4-6233-4015-9F63-A1264BEBA43D",
+    "height": 966,
+    "width": 2129,
+    "x": 0,
+    "y": 129
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DC3D044C-6A8B-4B2A-B91D-60023CC39A94"
+    },
+    {
+      "class": "text",
+      "id": "F64E5B88-FE4B-4177-9472-821BD8BED9D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26A06857-E266-48A7-9084-553E9D2623B8"
+    },
+    {
+      "class": "text",
+      "id": "053CE0E3-5F3E-4D83-9983-516D69543C28"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B261E4B-3D42-464E-96F0-ECFE01061E93"
+    },
+    {
+      "class": "text",
+      "id": "7032102C-0C30-4338-97BA-B68E03BF8CFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93690FDF-FD4E-4B03-B7A7-067696603E0D"
+    },
+    {
+      "class": "text",
+      "id": "620D8283-8A91-4676-BA0E-3C686C9B6F8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07B261B7-CFA6-41DE-927E-6949435E1ABD"
+    },
+    {
+      "class": "text",
+      "id": "C53C5F5E-F098-4324-8737-D9B51F6B1387"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5AF33310-67D5-4762-8905-A47174432219"
+    },
+    {
+      "class": "text",
+      "id": "A9AE3008-B680-44CF-ADBB-D3EA1538C7EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BB038E9-E778-4D3A-BF8A-97DB97E91C0A"
+    },
+    {
+      "class": "text",
+      "id": "F04F18D4-5942-4886-AEDB-379FF0023CEA"
+    }
+  ],
+  "name": "SPECS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49ABD900-DF90-4A53-8AC2-64A66FD08D96",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
